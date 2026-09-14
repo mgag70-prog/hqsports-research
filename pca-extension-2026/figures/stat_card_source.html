@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:#ffffff; font-family:"DejaVu Sans", Arial, sans-serif; }
+  .card { width:1120px; background:#0B1E47; padding:0 0 30px 0; }
+
+  .head { background:#0E3386; padding:26px 38px 22px 38px; border-bottom:4px solid #CC3433; }
+  .name { font-family:"DejaVu Sans Condensed","DejaVu Sans",Arial,sans-serif;
+          font-size:52px; font-weight:bold; color:#ffffff; letter-spacing:1.5px; line-height:1; }
+  .sub  { font-size:16px; color:#A9BCE4; margin-top:10px; letter-spacing:2.6px; font-weight:bold; }
+
+  table { width:100%; border-collapse:collapse; }
+  th { font-size:13px; letter-spacing:2.2px; color:#8FA6D6; text-align:left;
+       padding:20px 38px 12px 38px; font-weight:bold; border-bottom:1px solid #2A4478; }
+  th.r { text-align:right; white-space:nowrap; }
+  th.c { text-align:center; }
+  td { padding:13px 38px; font-size:24px; color:#ffffff; border-bottom:1px solid #16295A; }
+  td.stat { font-weight:bold; letter-spacing:0.6px; }
+  td.val { text-align:right; font-variant-numeric:tabular-nums; font-weight:bold; }
+  td.rank { text-align:right; color:#FFC72C; font-weight:bold; width:190px; white-space:nowrap; }
+  td.arb { text-align:center; width:270px; }
+  tr:nth-child(even) td { background:#0E2453; }
+
+  .pill { display:inline-block; font-size:15px; font-weight:bold; letter-spacing:1.6px;
+          padding:6px 16px; border-radius:3px; }
+  .yes    { background:#CC3433; color:#ffffff; }
+  .barely { background:#3A4A6B; color:#C9D4E8; }
+  .no     { background:#16295A; color:#5C7099; }
+
+  .take { margin:26px 38px 0 38px; padding-top:22px; border-top:2px solid #CC3433;
+          font-size:23px; color:#ffffff; line-height:1.5; font-weight:bold; }
+  .take em { color:#FFC72C; font-style:normal; }
+  .src { margin:18px 38px 0 38px; font-size:12.5px; color:#6E84B0; line-height:1.65; }
+</style>
+</head>
+<body>
+<div class="card">
+
+  <div class="head">
+    <div class="name">PETE CROW-ARMSTRONG</div>
+    <div class="sub">NL RANKS &nbsp;&middot;&nbsp; THROUGH GAMES OF SEPTEMBER 13, 2026</div>
+  </div>
+
+  <table>
+    <tr>
+      <th>STAT</th>
+      <th class="r">2026</th>
+      <th class="r">NL RANK</th>
+      <th class="c">PAID IN ARBITRATION?</th>
+    </tr>
+    <tr><td class="stat">RUNS</td><td class="val">111</td><td class="rank">1ST</td>
+        <td class="arb"><span class="pill barely">BARELY</span></td></tr>
+    <tr><td class="stat">HOME RUNS</td><td class="val">41</td><td class="rank">2ND</td>
+        <td class="arb"><span class="pill yes">YES</span></td></tr>
+    <tr><td class="stat">RBI</td><td class="val">98</td><td class="rank">T-4TH</td>
+        <td class="arb"><span class="pill yes">YES</span></td></tr>
+    <tr><td class="stat">EXTRA-BASE HITS</td><td class="val">76</td><td class="rank">1ST</td>
+        <td class="arb"><span class="pill no">NO</span></td></tr>
+    <tr><td class="stat">TOTAL BASES</td><td class="val">325</td><td class="rank">1ST</td>
+        <td class="arb"><span class="pill no">NO</span></td></tr>
+    <tr><td class="stat">STOLEN BASES</td><td class="val">36</td><td class="rank">2ND</td>
+        <td class="arb"><span class="pill barely">BARELY</span></td></tr>
+    <tr><td class="stat">ON-BASE PCT</td><td class="val">.371</td><td class="rank">7TH</td>
+        <td class="arb"><span class="pill barely">BARELY</span></td></tr>
+    <tr><td class="stat">SLUGGING PCT</td><td class="val">.562</td><td class="rank">1ST</td>
+        <td class="arb"><span class="pill no">NO</span></td></tr>
+    <tr><td class="stat">OPS</td><td class="val">.933</td><td class="rank">1ST</td>
+        <td class="arb"><span class="pill no">NO</span></td></tr>
+    <tr><td class="stat">wRC+</td><td class="val">155</td><td class="rank">1ST</td>
+        <td class="arb"><span class="pill no">NO</span></td></tr>
+    <tr><td class="stat">FIELDING RUN VALUE</td><td class="val">+27</td><td class="rank">1ST</td>
+        <td class="arb"><span class="pill no">NO</span></td></tr>
+    <tr><td class="stat">WAR (FANGRAPHS)</td><td class="val">9.9</td><td class="rank">1ST</td>
+        <td class="arb"><span class="pill no">NO</span></td></tr>
+  </table>
+
+  <div class="take">
+    He leads the National League in eight of these twelve categories.<br>
+    Salary arbitration pays for <em>two</em>, and they are the two where he ranks worst.
+  </div>
+
+  <div class="src">
+    Counting and rate statistics verified against Baseball Reference game logs through games completed September 13, 2026.
+    wRC+ and Wins Above Replacement from FanGraphs, current through September 12; fielding run value from Baseball Savant,
+    not re-verified since September 11.<br>
+    NL ranks verified against the Baseball Reference National League leaderboard through games of September 12.
+    He went 0 for 4 on September 13 with no runs, home runs, or RBI, so no counting-stat rank moved; the on-base rank may have
+    slipped one place on the final day.<br>
+    The arbitration column is a judgment, not a measurement: it reflects which categories salary arbitration filings and panels
+    have historically treated as load-bearing. Reasonable people would grade some rows differently.
+  </div>
+
+</div>
+</body>
+</html>

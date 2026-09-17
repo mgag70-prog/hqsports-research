@@ -136,3 +136,15 @@ I'll revisit all of it after the final regular-season poll.
 The dataset is 68 rows, one per school, with the conference, The Athletic's low and high estimates, the midpoint I calculated, and the September 13 AP rank where one exists: `cfb-roster-budgets-2026/data/cfb-roster-budgets-2026.csv` in the hqsports-research repository, with a README that carries the source, the retrieval method, and the caveats above.
 
 Take it and check the work. This time the numbers underneath are estimates rather than filings, so check the arithmetic and then decide for yourself how much weight the estimates can carry.
+
+
+## Alternate titles (not for publication)
+*Alternate titles:*
+
+*1. Every one of the eleven biggest rosters in college football is ranked. Below that, the money stops explaining anything.*
+
+*2. The ACC has the widest spending range in the sport. Miami is the whole reason.*
+
+*3. Houston is ranked 22nd on the 61st biggest roster budget in college football. (Tied for 61st with Oklahoma State on midpoint; see the tie note in section 3 before using this one.)*
+
+---

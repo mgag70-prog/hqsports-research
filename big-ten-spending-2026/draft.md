@@ -100,6 +100,8 @@ Rank gap is payroll rank minus record rank, on shared ranks. Positive means the 
 
 Three of the four cheapest rosters in the Big Ten are in the top eight by record and the top eight against Power 4 opponents. The fourth is Purdue.
 
+One check before the cases, and it's a check that came back clean rather than a finding. The gaps barely move between the two cuts. Illinois is +11 overall and +11 on Power 4 games, Iowa is +11 and +11, Minnesota is +8 and +8, and in the other direction Nebraska is -5 and -5. The first objection a reader would raise is that the cheap overperformers padded their records against soft non-conference schedules; if that were the mechanism, stripping those games out would shrink the gaps. It doesn't.
+
 Lead with the tie. Illinois and Iowa share the largest gap in the conference at +11, and they hold it on both cuts of the data, overall and Power 4. They get there two different ways. Illinois is a program that wasn't good and now is. Iowa is a program that's been the same thing for 27 years. Both beat their payroll by the same margin, which is the reason to treat this as a pattern with at least two members rather than a story about one coach having a good stretch.
 
 Illinois gets the most room, because the change is the point. 19-7 over two seasons is a program record across 133 years of Illinois football, with back-to-back nine-win seasons for the first time. Bielema inherited a program that had gone 17-39 under Lovie Smith from 2016 through 2020; he's 38-26 at Illinois, the second-best winning percentage in school history among coaches with at least 50 games. Iowa and Minnesota are holding a level. Illinois built one, and did it on the 15th-largest payroll in an 18-team league.
@@ -145,7 +147,7 @@ The three performance firings:
 | UCLA | 9 | T16 | Fired DeShaun Foster three weeks into the 2025 season at 0-3 |
 | Michigan St. | T10 | T14 | Fired Jonathan Smith after two seasons; 9-15 overall across 2024 and 2025 |
 
-None of the three is a bottom-tier spender. Purdue, Iowa, and Minnesota, the three cheapest rosters in the conference, all kept their coaches, and Iowa and Minnesota kept theirs while finishing tied for sixth and tied for eighth. The programs that decided their results weren't good enough were all in the middle of the payroll table, seventh through tenth, and one of them was fifth in the standings.
+None of the three is a bottom-tier spender. Purdue, Iowa, and Minnesota, the three cheapest rosters in the conference, all kept their coaches. Purdue kept Barry Odom after his first season in 2025, and Iowa and Minnesota kept Ferentz and Fleck while finishing tied for sixth and tied for eighth. The programs that decided their results weren't good enough were all in the middle of the payroll table, seventh through tenth, and one of them was fifth in the standings.
 
 Penn State is the sharpest single fact in the piece. Franklin's teams went 20-9 across 2024 and 2025, fifth-best in the Big Ten, and that stretch included a 13-3 season and a College Football Playoff semifinal. He was fired seven games into 2025 and, per the Associated Press on October 12, 2025, owed close to $50 million. Penn State's entire 2026 roster costs $29-32 million.
 

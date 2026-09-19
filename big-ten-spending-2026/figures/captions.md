@@ -16,3 +16,6 @@ The six programs with the widest negative gap between payroll rank and record ra
 
 **fig-06-firings** (replaces the section 6 table)
 The three Big Ten programs that fired a coach for performance out of the 2025 season, with payroll and record rank, and the three cheapest rosters in the conference, all of which kept their coaches. Michigan's change was for cause and is excluded. Source: The Athletic, September 16, 2026, for budgets; Sports Reference for results; Associated Press, October 12, 2025, for the Franklin buyout. Ranks and gaps calculated.
+
+**cover-a-navy** (Substack cover, 1200x630; not an in-article figure)
+Seven of the 18 Big Ten programs from the section 2 chart: the top three by two-year record, the three largest overperformers, and Purdue, with eleven rows omitted and every rank and axis position unchanged. Navy dot is record rank, red dot is 2026 payroll rank, the number is payroll rank minus record rank, and a rank marked T is shared. Source: The Athletic, September 16, 2026, for budgets; Sports Reference for 2024 and 2025 results. Ranks and gaps calculated.

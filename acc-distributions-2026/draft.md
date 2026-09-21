@@ -34,7 +34,7 @@ Then $12,314,878, more than three times the widest of the four before it.
 
 ## The success initiative reconciles the filing
 
-The best evidence in this piece doesn't come from the conference. It comes from Virginia Tech.
+The best evidence in this piece doesn't come from the conference, it comes from Virginia Tech.
 
 In August 2025, WRAL rebuilt the ACC's first-year success-initiative payments school by school from the Virginia Tech board presentation and Armwood's comments. The schedule:
 

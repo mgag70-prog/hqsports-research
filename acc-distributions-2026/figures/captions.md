@@ -10,3 +10,6 @@ The 2024-25 spread as filed, after each school's itemized success payment is rem
 
 **fig-05-year-over-year** (replaces the section 5 table)
 Change in each full-share school's distribution from 2023-24 to 2024-25, ordered by change, with the two filed figures at right. The dashed line is the median change of $2,099,651. Virginia, Wake Forest, and Florida State received less than the year before. Source: ACC Form 990 filings, fiscal years ending June 30, 2024 and June 30, 2025, Schedule A, Part I, via ProPublica. Changes and median calculated.
+
+**cover-a-navy** (Substack cover, 1200x630; not an in-article figure)
+The section 2 chart reduced to its shape: top-to-bottom spread among the ACC's fourteen football members in each of the last five fiscal years, drawn from a common origin, with the four years before the success initiative in off-white and 2024-25 in red. School names and dollar levels are omitted; every spread is unchanged. Source: ACC Form 990 filings, fiscal years ending June 30, 2021 through June 30, 2025, Schedule A, Part I, via ProPublica. Spreads calculated.

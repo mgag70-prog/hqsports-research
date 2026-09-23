@@ -4,11 +4,11 @@
 
 ---
 
-*Construction note, and a longer one than usual, because this is the first piece in this series that puts two datasets of different quality in the same table. Read this before any number below, because every number below depends on it.*
+*Construction note, and a longer one than usual, because this is the first piece here that puts two datasets of different quality in the same table. Read this before any number below, because every number below depends on it.*
 
-*The conference distributions are audited Form 990 filings for fiscal years ending in 2025, retrieved through ProPublica. They're the same figures behind Parts 1, 2, and 3 of the distributions series. When I write that Duke received $48,236,296 from the ACC, that's a line on a tax return the conference signed.*
+*The conference distributions are audited Form 990 filings for fiscal years ending in 2025, retrieved through ProPublica. They're the same figures behind [Part 1](https://www.gridironhq.ai/blog/college-football-playoff-conference-revenue-sharing), [Part 2](https://www.gridironhq.ai/blog/sec-playoff-distribution-revenue-sharing), and [Part 3](https://ledgerandwhistle.substack.com/p/the-acc-paid-its-schools-within-36) of the distributions series. When I write that Duke received $48,236,296 from the ACC, that's a line on a tax return the conference signed.*
 
-*The roster budgets are estimates. The Athletic published them on September 16, 2026, built from more than 70 sources (coaches, general managers, personnel directors, athletic directors, and agents), with its own stated bias corrections: coaches undersell, administrators oversell, and rivals inflate what they think each other spends. Every figure The Athletic published is a range. Every midpoint here is mine, calculated as the middle of that range, and the midpoint is what the correlations and ratios run on. When I write that Duke's roster costs $12-15 million, that's a triangulated estimate from people who mostly won't say the number out loud.*
+*The roster budgets are estimates. The Athletic published them on September 16, 2026, built from more than 70 sources (coaches, general managers, personnel directors, athletic directors, and agents), with its own stated bias corrections: coaches undersell, administrators oversell, and rivals inflate what they think each other spends. Every figure The Athletic published is a range. Every midpoint here is mine, calculated as the middle of that range, and the midpoint is what the correlations and ratios run on. When I write that Duke's roster costs $12-15 million, that's a triangulated estimate from people who mostly won't say the number out loud.*  I wrote about those estimates when they came out, in [a piece on all 68 budgets against the rankings](https://ledgerandwhistle.substack.com/p/two-conferences-have-a-spending-gap).
 
 *The two datasets don't cover the same period. The payouts are money received for the year ending in 2025. The budgets are for building the 2026 roster. Revenue sharing began in July 2025, between the two, and nothing here adjusts for it.*
 
@@ -49,11 +49,11 @@ Within every conference, roster spending varies more than the money the conferen
 
 The SEC is the sharpest case. Fourteen schools sit within $4,116,525 of each other on the money in, from Georgia's $74,458,940 down to Mississippi State's $70,342,415, and their roster midpoints span $25,000,000, from LSU's $48.5 million down to Arkansas's $23.5 million. The payout spread is a rounding error on the roster spread.
 
-The ordering of that table isn't an accident, and it connects to Part 3. The two conferences with the narrowest payout spreads, the SEC and the Big 12, are the two that distribute most equally. The ACC's and the Big Ten's spreads are wider because both pay schools for postseason success, which is the finding Part 3 documented in the ACC's filing. Even at their widest, though, the payout spread is a fraction of the roster spread. The Big Ten's $15,540,424 gap between Ohio State and UCLA is the largest in any conference, and it's still less than half the Big Ten's roster spread.
+The ordering of that table isn't an accident, and it connects to [Part 3](https://ledgerandwhistle.substack.com/p/the-acc-paid-its-schools-within-36) documented. The two conferences with the narrowest payout spreads, the SEC and the Big 12, are the two that distribute most equally. The ACC's and the Big Ten's spreads are wider because both pay schools for postseason success, which is the finding Part 3 documented in the ACC's filing. Even at their widest, though, the payout spread is a fraction of the roster spread. The Big Ten's $15,540,424 gap between Ohio State and UCLA is the largest in any conference, and it's still less than half the Big Ten's roster spread.
 
 ## Inside a conference, the check doesn't predict the roster
 
-Spearman rank correlation between conference payout and roster budget midpoint, with tied values assigned their average rank, full-share schools only, same method as the Big Ten piece.
+Spearman rank correlation between conference payout and roster budget midpoint, with tied values assigned their average rank, full-share schools only, same method as the same method as [the Big Ten piece](https://ledgerandwhistle.substack.com/p/in-the-big-ten-money-explains-the).
 
 | Conference | n | Correlation |
 | --- | --- | --- |
@@ -92,11 +92,11 @@ Lowest:
 
 Texas Tech's estimated roster, on the midpoint, costs slightly more than everything the Big 12 paid it. On the low end of The Athletic's range it's $38 million against a $39,734,106 check, so the claim depends on which end you read; on the high end it's $42 million. The Athletic also notes that its Texas Tech estimate doesn't reflect the mid-2026 departure of transfer quarterback Brendan Sorsby, which it says took $3-4 million off the program's effective spend this season. Boston College's estimated roster costs a little over a fifth of what the ACC paid it.
 
-The Big Ten piece is one line away here. Illinois and Iowa both sit in the bottom five of the 56 on this ratio, at 26.5% and 24.0%, and over 2024 and 2025 combined Illinois finished fourth in the Big Ten and Iowa tied for sixth. Cheap rosters, and in those two cases, not cheap results.
+[The Big Ten piece](https://ledgerandwhistle.substack.com/p/in-the-big-ten-money-explains-the) is one line away here is one line away here. Illinois and Iowa both sit in the bottom five of the 56 on this ratio, at 26.5% and 24.0%, and over 2024 and 2025 combined, Illinois finished fourth in the Big Ten and Iowa tied for sixth. Cheap rosters, and in those two cases, not cheap results.
 
 ## The schools that can't be compared
 
-Same discipline as Part 1's asterisked schools. Twelve of the 68 programs in The Athletic's report are on something other than a full conference share for the fiscal year in the filing, and none of them belong in a spread, a correlation, or a ratio. Listing them is the point: a reader who goes looking for Texas in the tables above should find the reason it isn't there.
+Same discipline as [Part 1](https://www.gridironhq.ai/blog/college-football-playoff-conference-revenue-sharing)'s asterisked schools. Twelve of the 68 programs in The Athletic's report are on something other than a full conference share for the fiscal year in the filing, and none of them belong in a spread, a correlation, or a ratio. Listing them is the point: a reader who goes looking for Texas in the tables above should find the reason it isn't there.
 
 Texas received $12,113,287 and Oklahoma received $2,575,481 in their first full SEC year on transition terms, with no media rights distribution under their entry agreement, against estimated rosters of $45-55 million and $28-34 million. On the raw numbers Texas's roster is 4.128 times its check and Oklahoma's is 12.037 times, and both figures are meaningless, because the check is a transition payment and not a share.
 

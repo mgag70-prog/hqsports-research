@@ -132,8 +132,8 @@ Lowest:
 | --- | --- | --- | --- |
 | Boston College | $8-13M | $47,087,682 | 22% |
 | Purdue | $16-20M | $77,732,782 | 23% |
-| Iowa | $17-21M | $79,094,180 | 24% |
-| Minnesota | $18-22M | $79,203,559 | 25% |
+| Iowa | $17-21M | $79,071,495 | 24% |
+| Minnesota | $18-22M | $79,199,226 | 25% |
 
 Texas Tech's estimated roster costs slightly more than everything the Big 12
 paid it. Boston College's costs about a fifth of what the ACC paid it.

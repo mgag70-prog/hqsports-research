@@ -9,8 +9,7 @@ through 3. No new dataset.
 
 ## Working titles
 
-1. The Big 12 paid its schools for winning, then stopped. The ACC started in
-   the same year.
+1. The ACC started paying its schools for winning. The Big 12 just stopped.
 2. I said the Big Ten passed playoff money to the schools that earned it. The
    filing says it passed the travel.
 3. Four conferences, four answers, and one of mine was wrong.
@@ -108,8 +107,8 @@ Tech itself.
 
 Put that next to Part 3. The ACC introduced its success initiative in
 2024-25, the first year it paid schools to keep what their own postseason
-generated. In the same window, the Big 12 abolished its participation formula
-and went flat.
+generated. The Big 12 abolished its participation formula, and its equal
+split begins in 2025-26, one season after the ACC's initiative began.
 
 Two conferences, facing the same expanded playoff, moved in opposite
 directions. Label the reading as a judgment: the ACC is trying to keep its

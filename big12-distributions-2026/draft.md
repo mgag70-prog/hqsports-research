@@ -1,4 +1,4 @@
-# The Big 12 paid its schools for winning, then stopped. The ACC started in the same year.
+# The ACC started paying its schools for winning. The Big 12 just stopped.
 
 *Part 4 of the distributions series, and a correction to what I said about the Big Ten.*
 
@@ -61,7 +61,7 @@ A different school leads almost every season, and each time it's a school that d
 
 Beginning in 2025-26, the Big 12 divides all playoff revenue equally among its members. Forbes reported the change in January 2026 and illustrated it with Texas Tech's playoff run, which under the new rule generates the same money for Oklahoma State as for Texas Tech.
 
-Set that beside Part 3. The ACC introduced its success initiative in 2024-25, the first year it paid schools to keep what their own postseason generated, and its full-share spread went from four years inside $3,555,690 to $12,314,878. In the same window the Big 12 abolished its participation formula and went flat.
+Set that beside Part 3. The ACC introduced its success initiative in 2024-25, the first year it paid schools to keep what their own postseason generated, and its full-share spread went from four years inside $3,555,690 to $12,314,878. The Big 12 abolished its participation formula, and its equal split begins in 2025-26, one season after the ACC's initiative began.
 
 Two conferences, the same expanded playoff, opposite directions. What follows is my reading, not the filings': the ACC is paying its best programs more to keep them from leaving, and the Big 12 is paying everyone the same to keep the whole membership from fracturing. A Form 990 can't tell you motive. It can tell you which way each conference moved, and they moved apart.
 

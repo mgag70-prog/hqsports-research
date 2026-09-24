@@ -1,50 +1,16 @@
-# I said the Big Ten passed playoff money to the schools that earned it. The filing says it passed the travel.
+# The Big 12 paid its schools for winning, then stopped. The ACC started in the same year.
 
-*Part 4: the Big 12 paid for winning for five years and just stopped, and a correction to Parts 1 and 3.*
+*Part 4 of the distributions series, and a correction to what I said about the Big Ten.*
 
 ---
 
-*Construction note, before anything else. The Big 12 numbers here come from the conference's Form 990 for the fiscal year ending June 30, 2025, retrieved through ProPublica by the same method as [Part 1](https://www.gridironhq.ai/blog/college-football-playoff-conference-revenue-sharing), [Part 2](https://www.gridironhq.ai/blog/sec-playoff-distribution-revenue-sharing), and [Part 3](https://ledgerandwhistle.substack.com/p/the-acc-paid-its-schools-within-36). The Big Ten numbers that carry the correction were already in that dataset. Nothing new was added.*
+*Construction note, before anything else. The Big 12 numbers here come from the conference's Form 990 for the fiscal year ending June 30, 2025, retrieved through ProPublica by the same method as [Part 1](https://www.gridironhq.ai/blog/college-football-playoff-conference-revenue-sharing), [Part 2](https://www.gridironhq.ai/blog/sec-playoff-distribution-revenue-sharing), and [Part 3](https://ledgerandwhistle.substack.com/p/the-acc-paid-its-schools-within-36). The Big Ten numbers that carry the correction later in the piece were already in that dataset. Nothing new was added.*
 
 *Fiscal years don't line up. The Big 12 and the Big Ten close June 30; the SEC closes August 31. A row labeled 2024-25 covers a different window in each conference, but every window here contains the 2024 season and its playoff.*
 
 *One rule holds throughout. When this piece says what a conference's policy is, that comes from named reporting, Forbes and Business of College Sports. When it says what a filing shows, that's the return. The two never get blended, because the filings don't describe policy and the reporting doesn't audit the filings.*
 
 ---
-
-## The correction
-
-In Part 1 I wrote that the Big Ten passes playoff money to the school that earned it, and that this is what opened the gap inside the conference in 2024-25. Part 3 repeated it as settled. It's wrong, or imprecise enough to mislead, and the filing I'd already been looking at says so.
-
-Here's what I saw. Big Ten full-share spreads, top school to bottom:
-
-| Season | Schools | Spread |
-| --- | --- | --- |
-| 2020-21 | 11 | $185,000 |
-| 2021-22 | 11 | $175,000 |
-| 2022-23 | 12 | $175,000 |
-| 2023-24 | 12 | $375,001 |
-| 2024-25 | 16 | $15,540,424 |
-
-Four years inside $375,001, flatter than the ACC ever managed, and then $15,540,424. Three playoff teams sat at the top of that column, so I read the gap as prize money passing through. That reading fits the shape of the table and doesn't survive the arithmetic.
-
-Take the thirteen full-share schools that played no playoff game and find their median: $78,057,558. Measure the three playoff schools against it.
-
-| School | Playoff games | Premium over median | Per game |
-| --- | --- | --- | --- |
-| Indiana | 1 | $2,952,339 | $2,952,339 |
-| Penn State | 3 | $10,863,604 | $3,621,201 |
-| Ohio State | 4 | $13,494,524 | $3,373,631 |
-
-Indiana played one playoff game, a first-round loss, and received $2,952,339 more than a school that stayed home. The playoff pays each participant a $3,000,000 travel allowance per game. The gap between those two figures is $47,661.
-
-If the Big Ten were passing prize money through, Indiana's line would carry $4,000,000 for the bid on top of the travel, and Ohio State's would carry far more than $13,494,524 for winning the national championship, since the prize money for that run is $20,000,000 before travel. Neither happened. What the filing supports is the policy Forbes has described as the Big Ten's long-standing one: prize money split equally across the membership, travel reimbursement passed to the school that incurred it.
-
-What I can't explain: Penn State and Ohio State both cleared $3,000,000 per game, by $621,201 and $373,631 respectively, and Penn State's per-game figure is higher than Ohio State's despite the shorter run. Something else sits in those two numbers, and the return doesn't break it out. I'm stating that and stopping there.
-
-(Oregon also played a playoff game, one, and is missing from the table above because it's on a partial share under its entry agreement through 2030. It isn't one of the sixteen.)
-
-So the correction is narrow and specific. The Big Ten's 2024-25 gap is real and the size in Parts 1 and 3 is right. The cause I named was wrong. It's travel, not prize money.
 
 ## The Big 12 was never an equal-share conference
 
@@ -101,6 +67,42 @@ Two conferences, the same expanded playoff, opposite directions. What follows is
 
 The next Big 12 return, for the year ending June 30, 2026, is the first one that can show the flat policy in the numbers.
 
+## The correction
+
+I came to these filings for the Big 12 and found the Big Ten wrong along the way. It goes here, before the four-conference summary rather than after it, because that summary depends on the Big Ten characterization being right, and the one I published in Parts 1 and 3 wasn't.
+
+In Part 1, I wrote that the Big Ten passes playoff money to the school that earned it, and that this is what opened the gap inside the conference in 2024-25. Part 3 repeated it as settled. It's wrong, or imprecise enough to mislead, and the filing I'd already been looking at says so.
+
+Here's what I saw. Big Ten full-share spreads, top school to bottom:
+
+| Season | Schools | Spread |
+| --- | --- | --- |
+| 2020-21 | 11 | $185,000 |
+| 2021-22 | 11 | $175,000 |
+| 2022-23 | 12 | $175,000 |
+| 2023-24 | 12 | $375,001 |
+| 2024-25 | 16 | $15,540,424 |
+
+Four years inside $375,001, flatter than the ACC ever managed, and then $15,540,424. Three playoff teams sat at the top of that column, so I read the gap as prize money passing through. That reading fits the shape of the table and doesn't survive the arithmetic.
+
+Take the thirteen full-share schools that played no playoff game and find their median: $78,057,558. Measure the three playoff schools against it.
+
+| School | Playoff games | Premium over median | Per game |
+| --- | --- | --- | --- |
+| Indiana | 1 | $2,952,339 | $2,952,339 |
+| Penn State | 3 | $10,863,604 | $3,621,201 |
+| Ohio State | 4 | $13,494,524 | $3,373,631 |
+
+Indiana played one playoff game, a first-round loss, and received $2,952,339 more than a school that stayed home. The playoff pays each participant a $3,000,000 travel allowance per game. The gap between those two figures is $47,661.
+
+If the Big Ten were passing prize money through, Indiana's line would carry $4,000,000 for the bid on top of the travel, and Ohio State's would carry far more than $13,494,524 for winning the national championship, since the prize money for that run is $20,000,000 before travel. Neither happened. What the filing supports is the policy Forbes has described as the Big Ten's long-standing one: prize money split equally across the membership, travel reimbursement passed to the school that incurred it.
+
+What I can't explain: Penn State and Ohio State both cleared $3,000,000 per game, by $621,201 and $373,631 respectively, and Penn State's per-game figure is higher than Ohio State's despite the shorter run. Something else sits in those two numbers, and the return doesn't break it out. I'm stating that and stopping there.
+
+(Oregon also played a playoff game, one, and is missing from the table above because it's on a partial share under its entry agreement through 2030. It isn't one of the sixteen.)
+
+So the correction is narrow and specific. The Big Ten's 2024-25 gap is real and the size in Parts 1 and 3 is right. The cause I named was wrong. It's travel, not prize money.
+
 ## Where the series lands
 
 Four conferences, four policies, one playoff.
@@ -141,7 +143,7 @@ Same CSV as Parts 1 through 3, unchanged. The Big 12 rows for 2024-25 run the fr
 
 ## Not for publication: alternate titles
 
-1. The Big 12 paid its schools for winning, then stopped. The ACC started in the same year.
+1. I said the Big Ten passed playoff money to the schools that earned it. The filing says it passed the travel.
 2. Four conferences, four answers, and one of mine was wrong.
 3. Indiana played one playoff game and got $2,952,339. The travel allowance is $3,000,000.
 4. The Big Ten's playoff gap is a travel line. I called it prize money twice.

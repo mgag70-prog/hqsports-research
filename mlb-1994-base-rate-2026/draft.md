@@ -18,7 +18,7 @@
 
 Three MLB work stoppages have cost regular-season games, and two of them barely registered in the stands.
 
-| Stoppage | Games lost | Drop from the year before | First year above the year before |
+| Stoppage | Games lost | Drop from the last full season before | First year above that season |
 | --- | --- | --- | --- |
 | 1972 strike | 86 | -3.7% in 1972 | 1973, two years after 1971 |
 | 1981 strike | 712 | -6.8% in 1981 | 1982, two years after 1980 |

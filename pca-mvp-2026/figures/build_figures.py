@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """Build the in-article charts for pca-mvp-2026.
 
+fig-01-season: two panels. FanGraphs WAR by season 2024-2026 as bars, 2026 in
+red; and 2026 in runs above average, Off as one bar split into batting (Off minus
+BsR, calculated) and baserunning, with Def as a separate bar, because BsR is
+inside Off and the three are not additive.
+
 fig-02-savings-curve: extension savings (NPV to 2026) as a function of true
 talent entering 2027, 4 to 11 FanGraphs WAR, drawn from the September 14 model's
 run() at $9.0M per win and 100% capture. The 6.5, 8.0 and 10.6 readings are dots
@@ -56,6 +61,11 @@ DPW, CAPTURE = 9.0, 1.00
 SEASONS = {2025: 5.4, 2026: 10.6}            # FanGraphs WAR, final
 FG_WAR = {2024: 2.6, 2025: 5.4, 2026: 10.6}   # FanGraphs, final, read September 28, 2026
 BR_WAR = {2024: 2.3, 2025: 5.9, 2026: 9.8}    # Baseball Reference, page updated Sept 27, read Sept 28
+# 2026 FanGraphs components, runs above average. Off = batting runs + base running runs
+# (FanGraphs library), so BsR sits inside Off; batting is calculated as Off minus BsR.
+OFF, DEF, BSR = 57.7, 23.2, 8.3
+BAT = round(OFF - BSR, 1)
+RUNS_NOTE = "Runs, not WAR. About 10 runs equal one win (FanGraphs)."
 READINGS = [  # (draft row label, chart label, talent)
     ("September 14 base case", "September 14 base case", 6.5),
     ("Two-season average of 5.4 and 10.6", "Two-season average", 8.0),
@@ -130,8 +140,9 @@ assert S65["control"] > S65["fa"] and S106["fa"] > S106["control"]
 print("draft matches recompute_outline.components(): Section 5 split at 6.5, 8.0, 10.6")
 
 # fig-04: WAR on both scales
-for yr, v in FG_WAR.items():
-    assert f"| {yr} | {v} |" in draft, f"stat block no longer lists fWAR {yr} {v}"
+fw = FG_WAR
+assert (f"his WAR went from {fw[2024]} in 2024 to {fw[2025]} in 2025 and {fw[2026]} this season"
+        in draft), "Section 1 no longer gives fWAR 2024-26"
 for phrase in (f"Baseball Reference has him at {BR_WAR[2024]} in 2024, {BR_WAR[2025]} in 2025 and {BR_WAR[2026]} in 2026",
                f"The last two average {(BR_WAR[2025] + BR_WAR[2026]) / 2:.2f}",
                f"savings at ${savings((BR_WAR[2025] + BR_WAR[2026]) / 2):.1f} million"):
@@ -139,12 +150,28 @@ for phrase in (f"Baseball Reference has him at {BR_WAR[2024]} in 2024, {BR_WAR[2
 assert FG_WAR[2025] < BR_WAR[2025] and FG_WAR[2026] > BR_WAR[2026]   # the fig-04 title's claim
 print("draft matches WAR on both scales: FanGraphs 2024-26, Baseball Reference 2024-26, 7.85 average")
 
+# fig-01: the season, and 2026's components with BsR inside Off
+assert BAT == 49.4
+for phrase in (f"{OFF} runs above average on offense this year and {DEF} on defense",
+               f"The offense figure already contains his {BSR} runs of baserunning",
+               f"batting alone comes to {BAT} runs",
+               f"{BAT} batting runs this year, his offense figure less its baserunning"):
+    assert phrase in draft, f"draft no longer says: {phrase}"
+for additive in ("| 2026 components |", "Off 57.7, Def 23.2, BsR 8.3", "an Off of 57.7"):
+    assert additive not in draft, f"draft still lists the components as if additive: {additive}"
+ratios = (fw[2025] / fw[2024], fw[2026] / fw[2025])
+assert all(1.9 < r < 2.1 for r in ratios), ratios        # the fig-01 title's "doubled twice"
+assert BAT > DEF + BSR                                   # "most ... above average came from the bat"
+print(f"draft matches fig-01: fWAR 2024-26, Off {OFF} = batting {BAT} + BsR {BSR}, Def {DEF}, "
+      f"no additive listing")
+
 # captions
 captions = CAPTIONS.read_text()
 assert BEND_NOTE[0].upper() + BEND_NOTE[1:] in captions and "26.3 million" not in captions
-for key in ("fig-02-savings-curve", "fig-03-savings-split", "fig-04-war-scales"):
+assert RUNS_NOTE in captions or RUNS_NOTE.rstrip(".") in captions
+for key in ("fig-01-season", "fig-02-savings-curve", "fig-03-savings-split", "fig-04-war-scales"):
     assert f"**{key}**" in captions and f"captions.md, {key}]" in draft, key
-print("captions carry the bend clause, no $26.3M figure, and all three draft slots")
+print("captions carry the bend clause, the runs note, no $26.3M figure, and all four draft slots")
 
 # --------------------------------------------------------------------------
 # SVG helpers (house style, shared with mlb-1994-base-rate-2026)
@@ -277,6 +304,71 @@ def fig_savings_curve(stem):
 
 
 fig_savings_curve("fig-02-savings-curve")
+
+# --------------------------------------------------------------------------
+# Fig 01: the season. WAR by season, and 2026's components in runs
+# --------------------------------------------------------------------------
+
+def fig_season(stem):
+    title = "His WAR doubled twice. Most of 2026's value above average came from the bat."
+    sub1 = "Left: FanGraphs WAR by season. Right: his 2026 on FanGraphs, in runs above average."
+    sub2 = "FanGraphs counts baserunning inside offense, so it's drawn as part of the offense bar, not added to it."
+    Y0, Y1 = 196, 546
+    H = Y1 + 104
+    s = SVG(1200, H, title)
+    header(s, title, sub1, sub2)
+
+    # ---- left panel: WAR by season
+    LX0, LX1, WMAX = 110, 540, 12
+    wy = lambda v: Y1 - (Y1 - Y0) * v / WMAX
+    col_head(s, 48, 166, "FANGRAPHS WAR")
+    for v in range(0, WMAX + 1, 2):
+        s.line(LX0, wy(v), LX1, wy(v), NAVY if v == 0 else GRID, 1.5 if v == 0 else 1)
+        s.text(LX0 - 14, wy(v) + 5, str(v), 13, MUTED, anchor="end")
+    years = sorted(FG_WAR)
+    gw, bw = (LX1 - LX0) / len(years), 96
+    for i, yr in enumerate(years):
+        cx = LX0 + gw * (i + 0.5)
+        col = RED if yr == 2026 else NAVY
+        s.rect(cx - bw / 2, wy(FG_WAR[yr]), bw, Y1 - wy(FG_WAR[yr]), col)
+        s.text(cx, wy(FG_WAR[yr]) - 10, f"{FG_WAR[yr]}", 17, col, anchor="middle")
+        s.text(cx, Y1 + 26, str(yr), 15, NAVY, anchor="middle")
+
+    # ---- right panel: 2026 components, runs above average
+    RX0, RX1, RMAX = 680, 1150, 60
+    ry = lambda v: Y1 - (Y1 - Y0) * v / RMAX
+    col_head(s, 630, 166, "2026, RUNS ABOVE AVERAGE")
+    for v in range(0, RMAX + 1, 10):
+        s.line(RX0, ry(v), RX1, ry(v), NAVY if v == 0 else GRID, 1.5 if v == 0 else 1)
+        s.text(RX0 - 14, ry(v) + 5, str(v), 13, MUTED, anchor="end")
+    bw = 110
+    ox, dx = RX0 + 60, RX0 + 280
+    # Off: one bar, batting below, baserunning on top, one total
+    s.rect(ox, ry(BAT), bw, Y1 - ry(BAT), NAVY)
+    s.rect(ox, ry(OFF), bw, ry(BAT) - ry(OFF), FAINT)
+    s.line(ox, ry(BAT), ox + bw, ry(BAT), PAPER, 2)
+    s.text(ox + bw / 2, (ry(BAT) + Y1) / 2 - 4, "batting", 14, PAPER, anchor="middle")
+    s.text(ox + bw / 2, (ry(BAT) + Y1) / 2 + 16, f"{BAT}", 16, PAPER, anchor="middle")
+    s.text(ox + bw + 12, (ry(OFF) + ry(BAT)) / 2 + 5, f"baserunning {BSR}", 14, NAVY)
+    s.text(ox + bw / 2, ry(OFF) - 10, f"{OFF}", 17, NAVY, anchor="middle")
+    s.text(ox + bw / 2, Y1 + 26, "Offense (Off)", 15, NAVY, anchor="middle")
+    # Def: a separate bar
+    s.rect(dx, ry(DEF), bw, Y1 - ry(DEF), MUTED)
+    s.text(dx + bw / 2, ry(DEF) - 10, f"{DEF}", 17, NAVY, anchor="middle")
+    s.text(dx + bw / 2, Y1 + 26, "Defense (Def)", 15, NAVY, anchor="middle")
+    split = RUNS_NOTE.index(" About")
+    s.text(RX1, ry(46), RUNS_NOTE[:split], 13, MUTED, anchor="end")
+    s.text(RX1, ry(46) + 18, RUNS_NOTE[split + 1:], 13, MUTED, anchor="end")
+
+    s.text(48, H - 32, "Source: FanGraphs, final, read September 28, 2026. Batting runs calculated as "
+                       "Off minus BsR; per the FanGraphs library, Off is batting runs plus base running runs.",
+           12, MUTED)
+    s.text(48, H - 14, "Def includes the positional adjustment. WAR also counts replacement-level and league "
+                       "adjustments not shown here.", 12, MUTED)
+    s.write(stem)
+
+
+fig_season("fig-01-season")
 
 # --------------------------------------------------------------------------
 # Fig 03: control years against free agent years

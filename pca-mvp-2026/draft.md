@@ -16,12 +16,11 @@
 
 Crow-Armstrong played all 162 games and hit .280/.372/.570 in 726 plate appearances, with 45 home runs, 107 RBI, 119 runs and 41 steals in 48 attempts, good for a 156 OPS+. The 45 homers tied Kyle Schwarber for the major league lead. He reached 40/40 on September 24 against Miami, the night the Cubs clinched a postseason berth; that made him the first Cub to do it and the seventh player in major league history. On Sunday he singled to open the finale and came out for a pinch runner.
 
-| FanGraphs WAR | |
-|---|---|
-| 2024 | 2.6 |
-| 2025 | 5.4 |
-| 2026 | 10.6 |
-| 2026 components | Off 57.7, Def 23.2, BsR 8.3 |
+On FanGraphs his WAR went from 2.6 in 2024 to 5.4 in 2025 and 10.6 this season. FanGraphs has him 57.7 runs above average on offense this year and 23.2 on defense. The offense figure already contains his 8.3 runs of baserunning, so take those out and batting alone comes to 49.4 runs.
+
+![fig-01: FanGraphs WAR by season, and 2026 in runs above average](figures/fig-01-season.png)
+
+*[Caption: figures/captions.md, fig-01-season]*
 
 Everyone ran the 40/40 story Thursday. It isn't why I'm writing this.
 
@@ -88,7 +87,7 @@ The WAR scale matters. Baseball Reference has him at 2.3 in 2024, 5.9 in 2025 an
 
 *[Caption: figures/captions.md, fig-04-war-scales]*
 
-The aging curve might be too steep. The model has him declining after 27, faster than a typical slugger, because his value leaned on defense and speed, which age badly. With 45 home runs and an Off of 57.7 this year, more of his value now comes from the bat. If that holds, the curve is too pessimistic and the savings in the table are understated. That's a judgment I haven't modeled.
+The aging curve might be too steep. The model has him declining after 27, faster than a typical slugger, because his value leaned on defense and speed, which age badly. With 45 home runs and 49.4 batting runs this year, his offense figure less its baserunning, more of his value now comes from the bat. If that holds, the curve is too pessimistic and the savings in the table are understated. That's a judgment I haven't modeled.
 
 Then there's the labor fight. The CBA expires at 11:59 p.m. ET on December 1, 2026, and the owners' proposed $245.3 million cap for 2027 would change dollars per win and the free agent counterfactual at the same time. Both sit at the center of this model. [The 1994 base-rate piece](https://ledgerandwhistle.substack.com/p/baseballs-first-two-strikes-recovered) covers what a stoppage has cost before.
 

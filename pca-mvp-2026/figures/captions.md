@@ -2,6 +2,9 @@
 
 Paste the line under the matching image in Substack.
 
+**fig-01-season** (new, in "The season", replacing the stat-block table)
+Left, his FanGraphs WAR by season: 2.6 in 2024, 5.4 in 2025 and 10.6 in 2026, which roughly doubled it twice. Right, his 2026 on FanGraphs in runs above average: 57.7 on offense and 23.2 on defense. FanGraphs counts baserunning inside the offense figure, so the offense bar is one bar split in two, 49.4 runs of batting (calculated as offense minus baserunning) and 8.3 of baserunning, and the three numbers don't add together. Runs, not WAR. About 10 runs equal one win (FanGraphs). Defense includes the positional adjustment, and WAR also counts replacement-level and league adjustments that the right panel doesn't show. Source: FanGraphs, final, read September 28, 2026. Batting runs calculated.
+
 **fig-02-savings-curve** (new, in "The one input that moves", replacing the placeholder under the table)
 Extension savings, the present value to 2026 of what the Cubs pay without the extension minus what they pay with it, as a function of true talent entering 2027 on the FanGraphs WAR scale, from 4 to 11 wins. Every other input is the September 14 model unchanged: $9.0 million per win in 2027 inflating 3% a year, a 6% discount rate, arbitration at 25%, 40% and 60% of open-market value, and a hypothetical eight-year free agent deal at 100% capture. Savings cross zero at 5.397 wins; his 2025 season was 5.4, and his 2026 season was 10.6, where the model puts savings at $136.4 million. The dots mark the three readings in the table: the September 14 base case at 6.5, $28.6 million; the two-season average at 8.0, $68.0 million; and 2026 at face value at 10.6. The curve flattens slightly below 5.6 because the model floors free agent WAR at zero for ages 34 to 36. Source: model in pca-extension-2026, run September 28, 2026; WAR from FanGraphs, final. Savings calculated.
 

@@ -1,0 +1,44 @@
+{
+  "subject": "A brass referee's whistle on a coiled lanyard rests on an open, blank accounting ledger on a dark wooden desk.",
+  "seed": 4101,
+  "headline": [
+    "Penn State's $49.7 million",
+    "buyout cost $9 million.",
+    "The contract said it would."
+  ],
+  "square_crop_x": 0.45,
+  "formats": {
+    "wide": {
+      "headline_max_width": 0.31,
+      "headline": [
+        "Penn State's",
+        "$49.7 million buyout",
+        "cost $9 million.",
+        "The contract said",
+        "it would."
+      ]
+    },
+    "square": {
+      "anchor": [
+        "bottom",
+        0.94
+      ],
+      "headline_max_width": 0.84,
+      "headline_max_size": 0.058,
+      "scrim_x": null,
+      "scrim_y": [
+        0.74,
+        0.62
+      ],
+      "zones": [
+        [
+          0.04,
+          0.75,
+          null,
+          0.96,
+          "band"
+        ]
+      ]
+    }
+  }
+}

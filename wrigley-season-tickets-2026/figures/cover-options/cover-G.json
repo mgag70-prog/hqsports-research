@@ -1,0 +1,60 @@
+{
+  "subject": "A daytime view from lower-level box seats along the third-base line, looking out over an entire classic ballpark: the green infield and outfield grass, an ivy-covered brick outfield wall curving around the field, an old dark-green hand-operated board of blank panels above the center-field bleachers, and rooftop bleachers on three-story brick apartment buildings across the street beyond the outfield. Late-afternoon sun, a clear deep-blue sky left open in the upper left. The backs of a few empty green seats in the lower foreground.",
+  "seed": 4302,
+  "headline": [
+    "I paid for the same four",
+    "Wrigley seats for 18 years.",
+    "After inflation, the price rose",
+    "13.0% in the first 11",
+    "and 44.9% in the last six."
+  ],
+  "square_crop_x": 0.3,
+  "formats": {
+    "wide": {
+      "headline_max_width": 0.44,
+      "anchor": [
+        "top",
+        0.13
+      ],
+      "scrim_x": [
+        0.34,
+        0.72
+      ],
+      "scrim_y": [
+        0.3,
+        0.58
+      ],
+      "zones": [
+        [
+          0.04,
+          0.06,
+          null,
+          0.46,
+          "band"
+        ]
+      ]
+    },
+    "square": {
+      "headline_max_width": 0.8,
+      "headline_max_size": 0.062,
+      "anchor": [
+        "top",
+        0.12
+      ],
+      "scrim_x": null,
+      "scrim_y": [
+        0.36,
+        0.62
+      ],
+      "zones": [
+        [
+          0.04,
+          0.06,
+          null,
+          0.48,
+          "band"
+        ]
+      ]
+    }
+  }
+}

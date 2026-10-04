@@ -34,7 +34,7 @@ My spreadsheet shows the total dipping in 2011 and again in 2012. I'm not going 
 
 What the Cubs were selling in those years is a matter of record. Baseball Reference has them at 75-87 in 2010, 71-91 in 2011, 61-101 in 2012, 66-96 in 2013 and 73-89 in 2014, with home attendance falling from 3,062,973 in 2010 to 3,017,966, then 2,882,756, then 2,642,682 in 2013, before a small recovery to 2,652,113 in 2014. Five losing seasons, and roughly 420,000 fewer fans through the gates in 2013 than in 2010.
 
-The Ricketts family took control of the club on October 27, 2009, when the sale from Tribune Company closed (Ballpark Digest, that day). The first price move on record under them came before the 2015 season, when the Cubs raised prices on their best lower-bowl sections, including field box infield; Bruce Levine at CBS Chicago called it the first increase in four years and put the premium-seat average at 6.3% (September 5, 2014). My 2014 figure is rounded, so I can't say what that did to my own invoice. The across-the-board increase came a year later.
+The Ricketts family took control of the club on October 27, 2009, when the sale from Tribune Company closed (Ballpark Digest, that day). The first price move on record under them came before the 2015 season, when the Cubs raised prices on their best lower-bowl sections, including field box infield; Bruce Levine at CBS Chicago called it the first increase in four years and put the premium-seat average at 6.3% (September 5, 2014). My seats were field box outfield, not infield, and my 2014 figure is rounded, so I can't say whether that raise reached my invoice. The across-the-board increase came a year later.
 
 ## Six years at 6.4% a year above inflation, 2015 to 2021
 
@@ -46,7 +46,7 @@ Year by year, before inflation: 15.1% for 2016, 8.1% for 2017, 8.4% for 2018, 4.
 
 *[Caption: figures/captions.md, fig-02-real-total]*
 
-The 2016 increase is the one the Cubs explained in public. On November 16, 2015, ABC7 reported an average season-ticket increase of 10.4%, tied to the 97-win season and the trip to the National League Championship Series. Club box infield, the most expensive seats in the main bowl, rose 12.8% to an average of $117.87 a game; the cheapest seats, upper deck reserved outfield, rose 13.7%; and the club carved a new "terrace box corner" section out of terrace reserved. My seats rose 15.1%, from $23,398 to $26,924.80, both exact. I can't tell you which tier Section 105 fell into, because the Cubs priced by tier and by game by then and the tier names for my section aren't in anything I kept, so the honest comparison is to the announced average, and my increase ran about five points above it. The next year it ran below: ABC7 put the 2017 average at 19.5%, with infield box up 31%, and my seats went up 8.1%.
+The 2016 increase is the one the Cubs explained in public. On November 16, 2015, ABC7 reported an average season-ticket increase of 10.4%, tied to the 97-win season and the trip to the National League Championship Series. Club box infield, the most expensive seats in the main bowl, rose 12.8% to an average of $117.87 a game; the cheapest seats, upper deck reserved outfield, rose 13.7%; and the club carved a new "terrace box corner" section out of terrace reserved. My seats rose 15.1%, from $23,398 to $26,924.80, both exact. My ticket to Game 4 of the 2016 World Series, Aisle 105, $285.00 face, names the tier: Field Box Outfield. ABC7's report gave figures for club box infield and for the cheapest upper-deck seats but none for field box outfield, so the comparison I can make is to the announced average, and my increase ran about five points above it. The next year it ran below: ABC7 put the 2017 average at 19.5%, with infield box up 31%, and my seats went up 8.1%.
 
 Here is what happened in those years, as a timeline and not as a cause. The Cubs won 97 games in 2015 and reached the NLCS. They won the World Series in 2016. The 1060 Project, the renovation of Wrigley Field, was proposed in January 2013, approved by the City Council on July 24, 2013, broke ground on October 11, 2014, and wrapped up its large-scale work with the 2019 home opener, per Ballpark Digest. Marquee Sports Network, the team's own channel, launched on February 22, 2020.
 
@@ -101,6 +101,8 @@ The Cubs' 2027 season-ticket renewal prices go up even with a lockout threatenin
 Two files and a script, in [`wrigley-season-tickets-2026/`](https://github.com/mgag70-prog/hqsports-research/tree/main/wrigley-season-tickets-2026). `data/cubs-season-tickets.csv` has one row per season, 1998 through 2021, with the seat count, the section, the season total, any playoff total, and a precision flag that says whether the total is rounded or exact. `data/cpi-u-annual.csv` is the BLS CPI-U annual average for each year. `model/recompute_outline.py` computes every figure above from the two files, including the sensitivity of the early rate to the 2004 rounding.
 
 Take it and check the work. The invoices are mine, so the one thing you can't check is whether I copied them right; everything after that step is in the repository.
+
+The cover photo is mine too, taken from these seats on the night the Cubs clinched the 2016 pennant, and the ticket on it is my own from World Series Game 4.
 
 ---
 

@@ -13,6 +13,11 @@ itself, with the settlement as a red line.
 fig-03-against-roster: the reported buyout, the roster budget estimate drawn as a
 range, the cash out for the coaching change and Campbell's 2026 pay, on one scale.
 
+fig-02a-year-by-year-table and fig-02b-two-readings-table: the draft's two tables as
+table graphics, so they survive Substack. Every cell is computed from the model and
+compared with the matching cell of the markdown table in draft.md; a mismatch stops
+the build. The markdown tables live in the draft's not-for-publication section.
+
 Every value comes from model/recompute_outline.py, which reads the two CSVs in data/
 and the roster budgets CSV. The outline checks must all pass, and every value drawn
 is asserted against draft.md and captions.md before any SVG is written.
@@ -52,7 +57,9 @@ FONT_STYLE = re.search(r"<style>.*?</style>", REF_SVG.read_text(), re.S).group(0
 HATCH = ('<defs><pattern id="hatch" width="9" height="9" patternUnits="userSpaceOnUse" '
          f'patternTransform="rotate(45)"><rect width="9" height="9" fill="{PAPER}"/>'
          f'<rect width="3.5" height="9" fill="{NAVY}" fill-opacity="0.55"/></pattern></defs>')
-KEYS = ("fig-01-buyout-schedule", "fig-02-two-readings", "fig-03-against-roster")
+KEYS = ("fig-01-buyout-schedule", "fig-02-two-readings", "fig-03-against-roster",
+        "fig-02a-year-by-year-table", "fig-02b-two-readings-table")
+RED_TINT = "rgba(212,85,61,0.09)"
 
 # --------------------------------------------------------------------------
 # Model: the same module that generates the draft's figures from the CSVs
@@ -129,7 +136,52 @@ for phrase in CAPTION_PHRASES:
     assert phrase in captions, f"captions.md no longer says: {phrase}"
 for key in KEYS:
     assert f"**{key}**" in captions and f"captions.md, {key}]" in draft, key
-print(f"captions match the model ({len(CAPTION_PHRASES)} phrases) and all three draft slots exist")
+print(f"captions match the model ({len(CAPTION_PHRASES)} phrases) and all five draft slots exist")
+
+# --------------------------------------------------------------------------
+# The two tables: every cell computed, then matched against the draft's markdown
+# --------------------------------------------------------------------------
+
+def cell(v):
+    """Table cell: $0 for nothing, else one decimal unless the figure needs two."""
+    return "$0" if v == 0 else (f"${v:.2f}M" if round(v * 100) % 10 else f"${v:.1f}M")
+
+
+def markdown_table(first_header_cell):
+    """Rows of the draft's markdown table whose header starts with this cell."""
+    lines = draft.splitlines()
+    for i, line in enumerate(lines):
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        if line.startswith("|") and cells[0] == first_header_cell and len(cells) > 1:
+            rows = [cells]
+            for row in lines[i + 2:]:
+                if not row.startswith("|"):
+                    break
+                rows.append([c.strip() for c in row.strip().strip("|").split("|")])
+            return rows
+    raise AssertionError(f"draft has no table starting with {first_header_cell!r}")
+
+
+TABLE_A = [["Year", "Virginia Tech pays", "Penn State owes", "Franklin's total"]]
+for y, (vt, owed, total) in sorted(R.table.items()):
+    TABLE_A.append([str(y), cell(vt), cell(owed), cell(total)])
+TABLE_A_RED = [i for i, row in enumerate(TABLE_A) if i and R.table[int(row[0])][2] == R.psu[int(row[0])]]
+assert TABLE_A_RED == [1, 2, 3], TABLE_A_RED            # 2026-2028, the three years that add to $8.0M
+
+TABLE_B = [["", "Whole-term offset", "Year-by-year offset"],
+           ["Owed through 2030", "about $0", f"${YBY_FIRM:.1f}M"],
+           ["2031, if he earns nothing that year", f"${R.psu[2031]:.1f}M", f"${R.psu[2031]:.1f}M"],
+           ["Total with nothing earned in 2031", f"${WHOLE_MAX:.1f}M", f"${YBY_MAX:.1f}M"],
+           ["Settlement", f"${R.SETTLEMENT:.1f}M", f"${R.SETTLEMENT:.1f}M"]]
+TABLE_B_RED = [4]
+
+for name, computed, first in (("fig-02a", TABLE_A, "Year"), ("fig-02b", TABLE_B, "")):
+    found = markdown_table(first)
+    assert len(found) == len(computed), f"{name}: draft table has {len(found)} rows, model has {len(computed)}"
+    for r, (want, got) in enumerate(zip(computed, found)):
+        assert want == got, f"{name} row {r}: model {want} vs draft {got}"
+cells = sum(len(r) for r in TABLE_A + TABLE_B)
+print(f"draft tables match the model cell for cell: {cells} cells across fig-02a and fig-02b")
 
 # --------------------------------------------------------------------------
 # SVG helpers (house style, shared with pca-mvp-2026)
@@ -194,6 +246,59 @@ def x_axis(s, xs, y, ticks, x0, x1):
     for t in ticks:
         s.line(xs(t), y, xs(t), y + 5, NAVY, 1)
         s.text(xs(t), y + 22, "$0" if t == 0 else f"${t}M", 13, MUTED, anchor="middle")
+
+# --------------------------------------------------------------------------
+# Table graphics
+# --------------------------------------------------------------------------
+
+def table_figure(stem, title, subs, rows, red_rows, right_cols, col_x, sources):
+    """A table in house style: navy header row, paper body, red for the rows that carry the point."""
+    X0, X1 = 48, 1152
+    HEAD_Y, HEAD_H, PITCH = 150 if len(subs) == 2 else 128, 40, 48
+    H = HEAD_Y + HEAD_H + PITCH * (len(rows) - 1) + 96
+    s = SVG(1200, H, title)
+    header(s, title, *subs)
+    s.rect(X0, HEAD_Y, X1 - X0, HEAD_H, NAVY)
+    for c, label in enumerate(rows[0]):
+        anchor = "end" if c in right_cols else "start"
+        s.text(col_x[c], HEAD_Y + 26, label.upper(), 12, PAPER, anchor=anchor, spacing=1.8)
+    for r, row in enumerate(rows[1:], start=1):
+        y = HEAD_Y + HEAD_H + PITCH * (r - 1)
+        red = r in red_rows
+        if red:
+            s.rect(X0, y, X1 - X0, PITCH, RED_TINT)
+            s.rect(X0, y, 4, PITCH, RED)
+        s.line(X0, y + PITCH, X1, y + PITCH, GRID, 1)
+        for c, value in enumerate(row):
+            anchor = "end" if c in right_cols else "start"
+            s.text(col_x[c], y + 31, value, 18, RED if red else NAVY, anchor=anchor)
+    for i, line in enumerate(sources):
+        s.text(48, H - 14 - 18 * (len(sources) - 1 - i), line, 12, MUTED)
+    s.write(stem)
+
+
+def fig_year_by_year_table(stem):
+    table_figure(
+        stem,
+        "For three years, the two paychecks add up to his guaranteed Penn State pay.",
+        ["Under the year-by-year reading: each year Penn State owes its $8.0M less what Virginia Tech pays, "
+         "never below zero.", "Red rows are the years that add to $8.0M."],
+        TABLE_A, TABLE_A_RED, right_cols={1, 2, 3}, col_x=[72, 500, 820, 1128],
+        sources=["Virginia Tech pays: WSLS, November 21, 2025, base salary plus supplemental pay.",
+                 "Penn State owes and Franklin's total: my arithmetic on published schedules."])
+
+
+def fig_two_readings_table(stem):
+    table_figure(
+        stem,
+        "Two readings of one clause, beside what Penn State paid.",
+        ["What the offset clause alone would have left Penn State owing, under each reading of it, "
+         "against the settlement."],
+        TABLE_B, TABLE_B_RED, right_cols={1, 2}, col_x=[72, 780, 1128],
+        sources=["Both readings: my arithmetic on published schedules (Front Office Sports, October 13, 2025; "
+                 "WSLS, November 21, 2025).", "Settlement: CBS Sports, November 17, 2025. "
+                 "Nothing published says which reading the two sides used."])
+
 
 # --------------------------------------------------------------------------
 # Fig 01: the buyout as it was quoted
@@ -369,4 +474,6 @@ def fig_against_roster(stem):
 fig_buyout_schedule(KEYS[0])
 fig_two_readings(KEYS[1])
 fig_against_roster(KEYS[2])
+fig_year_by_year_table(KEYS[3])
+fig_two_readings_table(KEYS[4])
 print("done ->", OUT)

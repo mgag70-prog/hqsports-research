@@ -52,13 +52,9 @@ There's a detail inside that reading I'll report without leaning on it. Between 
 
 **Year by year.** The other way is one period at a time: in each year Penn State owes its $8.0 million less whatever Virginia Tech pays that year, and never less than zero, so a big Virginia Tech year can't reach back and cancel a small one.
 
-| Year | Virginia Tech pays | Penn State owes | Franklin's total |
-|---|---|---|---|
-| 2026 | $6.0M | $2.0M | $8.0M |
-| 2027 | $5.0M | $3.0M | $8.0M |
-| 2028 | $4.0M | $4.0M | $8.0M |
-| 2029 | $12.75M | $0 | $12.75M |
-| 2030 | $13.25M | $0 | $13.25M |
+![fig-02a: the year-by-year reading, 2026 through 2030](figures/fig-02a-year-by-year-table.png)
+
+*[Caption: figures/captions.md, fig-02a-year-by-year-table]*
 
 That's $9.0 million for 2026 through 2028. The 80 days of 2025 after the firing add about $1.0 million more, 33 days with no offsetting job and then 47 days at the $2.0 million gap between Penn State's rate and Virginia Tech's, for a total near $10.0 million. On top of it sits the same 2031 exposure as before: up to $8.0 million if he earns nothing that year.
 
@@ -66,12 +62,9 @@ For three years under this reading, Virginia Tech's pay plus Penn State's offset
 
 Here are both readings beside what Penn State paid.
 
-| | Whole-term offset | Year-by-year offset |
-|---|---|---|
-| Owed through 2030 | about $0 | $10.0M |
-| 2031, if he earns nothing that year | $8.0M | $8.0M |
-| Total with nothing earned in 2031 | $8.0M | $18.0M |
-| Settlement | $9.0M | $9.0M |
+![fig-02b: the two readings of the clause beside the settlement](figures/fig-02b-two-readings-table.png)
+
+*[Caption: figures/captions.md, fig-02b-two-readings-table]*
 
 ![fig-02: the reported buyout, the two readings of the clause and the settlement](figures/fig-02-two-readings.png)
 
@@ -135,3 +128,22 @@ Take it and check the work. The salary schedules are solid; the reading of one c
 2. The buyout everyone quoted was never the bill.
 
 The outline's third title, about Franklin's two paychecks adding up to his old one, now holds only under the year-by-year reading and only for guaranteed pay, so I've left it off.
+
+## Not for publication: table cells for fig-02a and fig-02b
+
+These are the two tables as rendered. `figures/build_figures.py` checks every cell against the model before drawing them.
+
+| Year | Virginia Tech pays | Penn State owes | Franklin's total |
+|---|---|---|---|
+| 2026 | $6.0M | $2.0M | $8.0M |
+| 2027 | $5.0M | $3.0M | $8.0M |
+| 2028 | $4.0M | $4.0M | $8.0M |
+| 2029 | $12.75M | $0 | $12.75M |
+| 2030 | $13.25M | $0 | $13.25M |
+
+| | Whole-term offset | Year-by-year offset |
+|---|---|---|
+| Owed through 2030 | about $0 | $10.0M |
+| 2031, if he earns nothing that year | $8.0M | $8.0M |
+| Total with nothing earned in 2031 | $8.0M | $18.0M |
+| Settlement | $9.0M | $9.0M |

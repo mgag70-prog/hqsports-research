@@ -1,0 +1,33 @@
+{
+  "subject": "An editorial still-life of a short stack of paper season-ticket invoices and a single paper ticket stub resting on a weathered green stadium seat armrest, with a few ivy leaves at the edge of the frame.",
+  "seed": 4201,
+  "headline": [
+    "I paid for the same four",
+    "Wrigley seats for 18 years.",
+    "After inflation, the price rose",
+    "13.0% in the first 11",
+    "and 44.9% in the last six."
+  ],
+  "square_crop_x": 0.24,
+  "formats": {
+    "wide": {
+      "headline_max_width": 0.42
+    },
+    "square": {
+      "headline_max_width": 0.52,
+      "headline_max_size": 0.07,
+      "anchor": [
+        "top",
+        0.14
+      ],
+      "scrim_x": [
+        0.56,
+        0.92
+      ],
+      "scrim_y": [
+        0.48,
+        0.74
+      ]
+    }
+  }
+}

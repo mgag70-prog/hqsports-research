@@ -42,7 +42,7 @@ Usage, from the repo root:
   python3 tools/compose_cover.py prompt PIECE            # print the full prompt, send nothing
   python3 tools/compose_cover.py generate PIECE          # call fal.ai (needs FAL_KEY), write the record
   python3 tools/compose_cover.py build PIECE [format]    # scrim and type; format is wide or square
-  python3 tools/compose_cover.py measure PIECE [format]  # report type-zone darkness only
+  python3 tools/compose_cover.py measure PIECE [format]  # darkness and the X-card safe-zone check, no files written
 """
 import json
 import os
@@ -120,7 +120,14 @@ EYEBROW_TRACKING_RATIO = 0.035     # tracking as a fraction of the headline size
 GAP_EYEBROW = 0.70                 # gaps in headline cap heights
 GAP_SUB = 0.80
 WORDMARK_SIZE = 15 / 630           # fractions of frame height, from the code-built covers
-WORDMARK_BASELINE = 52 / 630
+WORDMARK_BASELINE = 100 / 630      # low enough to clear the X-card safe zone below
+# Substack's X card does not keep the whole 1200x630 cover. Matching the twitter image Substack
+# served (1600x800) against our cover on October 5, 2026 showed it keeps a centered 1088x544 box,
+# x 54 to 1143 and y 44 to 588 in cover pixels: about a 0.907 zoom, then a 2:1 crop. All type has
+# to sit inside that box with the margin below, so inside x 94 to 1103, y 84 to 548, or measure
+# and build stop. Formats without a safe_box skip the check.
+X_CARD_BOX = (54, 44, 1143, 588)   # x0, y0, x1, y1 in output pixels of the 1200x630 cover
+SAFE_MARGIN_PX = 40
 WORDMARK_TRACKING = 2.7 / 15       # fraction of the wordmark size
 SHADOW = (0.010, 0.005, 0.55)      # blur and downward offset (fractions of height), strength
 
@@ -137,14 +144,14 @@ HEADLINE_ZONE_PAD = 0.015
 TEXT_KEYS = ("headline", "sub", "eyebrow")
 FORMATS = {
     "wide": {
-        "out_name": "cover-fal-1200x630.png", "out_size": (1200, 630),
-        "margin_x": 56 / 1200, "anchor": ("center", 0.53),
+        "out_name": "cover-fal-1200x630.png", "out_size": (1200, 630), "safe_box": X_CARD_BOX,
+        "margin_x": 96 / 1200, "anchor": ("center", 0.53),
         "headline_max_width": 0.46, "headline_max_size": 0.135,
         "scrim_x": (0.30, 0.64), "scrim_y": None,
         "zones": [((0.00, 0.00, 0.40, 1.00), "left"), ((0.04, 0.24, 0.52, 0.78), "band")],
     },
     "square": {
-        "out_name": "cover-fal-1080x1080.png", "out_size": (1080, 1080),
+        "out_name": "cover-fal-1080x1080.png", "out_size": (1080, 1080), "safe_box": None,
         "margin_x": 0.06, "anchor": ("top", 0.15),
         "headline_max_width": 0.66, "headline_max_size": 0.085,
         "scrim_x": (0.66, 1.00), "scrim_y": (0.44, 0.70),
@@ -510,6 +517,24 @@ def composite_type(background: str, type_layer: str, dst: str, size: tuple[int, 
 
 # --- commands --------------------------------------------------------------
 
+def safe_zone(fmt: dict, size: tuple[int, int]) -> tuple[int, int, int, int] | None:
+    """(x0, y0, x1, y1) in source pixels of the format's safe box inset by the margin, or None
+    when the format has no safe box. The box is given in output pixels and scaled to the source."""
+    if not fmt.get("safe_box"):
+        return None
+    sx, sy = size[0] / fmt["out_size"][0], size[1] / fmt["out_size"][1]
+    x0, y0, x1, y1 = fmt["safe_box"]
+    return (round((x0 + SAFE_MARGIN_PX) * sx), round((y0 + SAFE_MARGIN_PX) * sy),
+            round((x1 - SAFE_MARGIN_PX) * sx), round((y1 - SAFE_MARGIN_PX) * sy))
+
+
+def type_bounds(layer: str) -> tuple[int, int, int, int]:
+    """(x0, y0, x1, y1) of the inked type on a transparent layer."""
+    out = magick(layer, "-trim", "-format", "%w %h %X %Y", "info:", capture=True).decode().split()
+    bw, bh, bx, by = (int(float(v)) for v in out)
+    return bx, by, bx + bw, by + bh
+
+
 def describe(name: str, strength: float, met: bool, before: list, after: list) -> str:
     zones = "   ".join("%5.1f/%3.0f -> %5.1f/%3.0f" % (b + a) for b, a in zip(before, after))
     return "%-8s scrim %.2f   %s   %s" % (name, strength, zones, "ok" if met else "TARGET NOT MET")
@@ -556,12 +581,25 @@ def build(piece: str, format_names: list[str], measure_only: bool = False) -> No
             mean, p95 = wordmark_stats(fmt, background, size, strength)
             print("%-8s behind the wordmark %5.1f/%3.0f   %s"
                   % ("", mean, p95, "ok" if p95 <= BAND_TARGET[1] else "TOO BRIGHT"), flush=True)
+            layer = os.path.join(work, "type.png")
+            render_type(fmt, layer, size, text)
+            zone = safe_zone(fmt, size)
+            if zone:
+                bx0, by0, bx1, by1 = type_bounds(layer)
+                zx0, zy0, zx1, zy1 = zone
+                scale = fmt["out_size"][0] / size[0]
+                inside = bx0 >= zx0 and by0 >= zy0 and bx1 <= zx1 and by1 <= zy1
+                ox0, oy0, ox1, oy1 = fmt["safe_box"]
+                print("%-8s type %d,%d to %d,%d in the X-card safe zone %d,%d to %d,%d (output px)   %s"
+                      % ("", bx0 * scale, by0 * scale, bx1 * scale, by1 * scale,
+                         ox0 + SAFE_MARGIN_PX, oy0 + SAFE_MARGIN_PX, ox1 - SAFE_MARGIN_PX, oy1 - SAFE_MARGIN_PX,
+                         "ok" if inside else "TYPE OUTSIDE THE SAFE ZONE"), flush=True)
+                if not inside:
+                    sys.exit("%s: type falls outside the X-card safe zone; move or shrink it before building" % name)
             if measure_only:
                 continue
-            scrimmed, layer = os.path.join(work, "scrimmed.png"), os.path.join(work, "type.png")
-            composed = os.path.join(work, "composed.png")
+            scrimmed, composed = os.path.join(work, "scrimmed.png"), os.path.join(work, "composed.png")
             apply_scrim(fmt, background, scrimmed, strength, size, work)
-            render_type(fmt, layer, size, text)
             composite_type(scrimmed, layer, composed, size, work)
             final = os.path.join(paths["figures"], fmt["out_name"])
             magick(composed, "-resize", "%dx%d!" % fmt["out_size"], "-strip", "-depth", "8", final)

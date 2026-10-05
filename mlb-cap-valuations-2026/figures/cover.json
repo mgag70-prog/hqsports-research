@@ -1,0 +1,19 @@
+{
+  "subject": "An editorial still life of an old brass balance scale on a dark wooden desk, with a worn baseball resting in one pan and a black hockey puck in the other, the pans nearly level. Low directional light.",
+  "seed": 4401,
+  "headline": [
+    "Baseball's owners want",
+    "a salary cap. The last league",
+    "to get one grew slower than",
+    "baseball for seven years."
+  ],
+  "square_crop_x": 0.3,
+  "formats": {
+    "wide": {
+      "headline_max_width": 0.4
+    },
+    "square": {
+      "headline_max_width": 0.42
+    }
+  }
+}

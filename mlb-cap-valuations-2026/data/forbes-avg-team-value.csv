@@ -1,0 +1,50 @@
+league,list_year,published,revenue_season,avg_value_musd,avg_revenue_musd,multiple_stated,value_basis,source
+NHL,1999,1999-12-13,1998-99,135,52.7,,stated,https://www.forbes.com/forbes/1999/1213/6414096a.html
+NHL,2000,2000-12-11,1999-00,148,60.6,,stated,https://www.forbes.com/legacy/forbes/2000/1211/6615132tab1_table.shtml
+NHL,2004,2004-11-29,2003-04,163,,,stated (league revenue $2.2B),https://www.forbes.com/forbes/2004/1129/124/
+NHL,2006,2006-11-09,2005-06,180,,,stated,https://www.forbes.com/2006/11/09/nhl-teams-owners-biz_06nhl_cz_mo_kb_1109nhlintro.html
+NHL,2007,2007-11-08,2006-07,200,81,,stated,https://www.forbes.com/2007/11/08/nhl-team-values-biz-07nhl_cx_mo_kb_1108nhlintro.html
+NHL,2008,2008-10-29,2007-08,220,92,,stated,https://www.forbes.com/2008/10/29/nhl-team-values-biz-sports-nhl08_cz_mo_kb_1029intro.html
+NHL,2009,2009-11-11,2008-09,223,,,stated,https://www.forbes.com/2009/11/11/nhl-team-values-business-sports-hockey-values-09-intro.html
+NHL,2010,2010-11-30,2009-10,228,,,stated,https://www.forbes.com/2010/11/30/leafs-rangers-canadiens-business-sports-hockey-valuations-10-most-valuable-teams.html
+NHL,2011,2011-11-30,2010-11,240,103,,stated,https://www.forbes.com/sites/mikeozanian/2011/11/30/the-business-of-hockey/
+NHL,2012,2012-11-28,2011-12,282,,2.5,stated (multiple per Forbes 2014),https://www.forbes.com/sites/mikeozanian/2012/11/28/nhl-team-values-2012-maple-leafs-first-hockey-team-worth-1-billion/
+NHL,2013,2013-11-25,2012-13,413,,,stated,https://www.forbes.com/sites/mikeozanian/2013/11/25/the-nhls-most-valuable-teams/
+NHL,2014,2014-11-25,2013-14,490,123,4.0,stated,https://www.forbes.com/sites/mikeozanian/2014/11/25/the-most-valuable-teams-in-the-nhl/
+NHL,2015,2015-11-24,2014-15,505,133,,stated,https://www.forbes.com/sites/mikeozanian/2015/11/24/the-nhls-most-valuable-teams-2/
+NHL,2016,2016-11-30,2015-16,517,,,secondary (Island Times),https://islandtimes.org/rangers-are-nhls-most-valuable-team-again-in-annual-forbes-rankings/
+NHL,2017,2017-12-05,2016-17,594,148,,stated,https://www.forbes.com/sites/mikeozanian/2017/12/05/the-nhls-most-valuable-teams-4/
+NHL,2018,2018-12-05,2017-18,630,,,stated,https://www.forbes.com/sites/mikeozanian/2018/12/05/the-nhls-most-valuable-teams/
+NHL,2019,2019-12-11,2018-19,667,,,stated,https://www.forbes.com/sites/forbespr/2019/12/11/forbes-releases-21st-annual-nhl-team-valuations/
+NHL,2020,2020-12-09,2019-20,653,,,stated,https://www.forbes.com/sites/mikeozanian/2020/12/09/nhl-team-values-2020-hockeys-first-decline-in-two-decades/
+NHL,2021,2021-12-08,2020-21,865,,,stated,https://www.forbes.com/sites/mikeozanian/2021/12/08/nhl-team-values-2021-22-new-york-rangers-become-hockeys-first-2-billion-team/
+NHL,2022,2022-12-14,2021-22,1030,185,5.6,stated (multiple per Forbes 2025),https://www.forbes.com/sites/mikeozanian/2022/12/14/nhl-team-values-2022-new-york-rangers-on-top-at-22-billion/
+NHL,2023,2023-12-14,2022-23,1330,201,,stated,https://www.forbes.com/sites/mikeozanian/2023/12/14/the-most-valuable-nhl-teams-2023/
+NHL,2024,2024-12-20,2023-24,1900,225,8.5,stated,https://www.forbes.com/sites/brettknight/2024/12/20/the-nhls-most-valuable-teams-2024/
+NHL,2025,2025-12-11,2024-25,2200,248,8.9,stated,https://www.forbes.com/sites/justinteitelbaum/2025/12/11/the-nhls-most-valuable-teams-2025/
+MLB,1999,1999-05,1998,220.2,88.8,,calc from Forbes team table (SBJ reprint),https://www.sportsbusinessjournal.com/Daily/Issues/2001/07/26/Ratings-Research/FORBES-MLB-VALUATIONS/
+MLB,2000,2000-06-12,1999,233,94.6,,stated (SBJ),https://www.sportsbusinessjournal.com/Daily/Issues/2000/06/01/The-Back-Of-The-Book/FOR-WHAT-ITS-WORTH-FORBES-MLB-FRANCHISE-VALUATIONS/
+MLB,2002,2002-04-15,2001,286,,,stated (Baseball Prospectus quoting Forbes),https://www.baseballprospectus.com/news/article/1406/the-numbers-part-eight-mlb-vs-forbes/
+MLB,2004,2004-04,2003,295,129,,stated (SBJ),https://www.sportsbusinessjournal.com/Daily/Issues/2004/04/15/The-Back-Of-The-Book/Yankees-Still-Atop-Forbes-MLB-Franchise-Valuation-Rankings/
+MLB,2005,2005-04-07,2004,332,142.3,,stated (SBJ),https://www.sportsbusinessjournal.com/Daily/Issues/2005/04/13/The-Back-Of-The-Book/Forbes-MLB-Valuations-Yankees-Value-Tops-League-By-69/
+MLB,2006,2006-04-17,2005,376,159.2,,stated (Forbes text; SBJ table 382.2),https://www.forbes.com/2006/04/17/06mlb_baseball_valuations_land.html
+MLB,2007,2007-04-19,2006,431,,,stated,https://www.forbes.com/2007/04/19/baseball-team-valuations-07mlb-cz_kb_0419baseballintro.html
+MLB,2008,2008-04-16,2007,472,,,stated,https://www.forbes.com/2008/04/16/baseball-team-values-biz-sports-baseball08-cx_mo_kb_0416baseballintro.html
+MLB,2009,2009-04-22,2008,482,,,stated,https://www.forbes.com/2009/04/22/yankees-mets-baseball-values-09-business-sports-land.html
+MLB,2010,2010-04-07,2009,491,,,stated,https://www.forbes.com/2010/04/07/most-valuable-baseball-teams-business-sportsmoney-baseball-valuations-10_land.html
+MLB,2011,2011-03-23,2010,523,,2.5,stated,https://www.forbes.com/sites/kurtbadenhausen/2011/03/23/baseballs-most-valuable-teams/
+MLB,2012,2012-03-21,2011,605,212,,stated,https://www.forbes.com/sites/mikeozanian/2012/03/21/the-business-of-baseball-2012/
+MLB,2013,2013-03-27,2012,744,227,,stated,https://www.forbes.com/sites/mikeozanian/2013/03/27/baseball-team-valuations-2013-yankees-on-top-at-2-3-billion/
+MLB,2014,2014-03-26,2013,811,,,stated,https://www.forbes.com/sites/forbespr/2014/03/26/forbes-releases-17th-annual-mlb-team-valuations/
+MLB,2015,2015-03-25,2014,1200,262,,stated,https://www.forbes.com/sites/mikeozanian/2015/03/25/mlb-worth-36-billion-as-team-values-hit-record-1-2-billion-average/
+MLB,2016,2016-03-23,2015,1300,,5.0,stated ("five times revenue"),https://www.forbes.com/sites/mikeozanian/2016/03/23/baseballs-most-valuable-teams/
+MLB,2017,2017-04-11,2016,1540,,,stated,https://www.forbes.com/sites/mikeozanian/2017/04/11/baseball-team-values-2017/
+MLB,2018,2018-04-11,2017,1645,315,,stated,https://www.forbes.com/sites/mikeozanian/2018/04/11/baseball-team-values-2018/
+MLB,2019,2019-04-10,2018,1780,330,,stated,https://www.forbes.com/sites/mikeozanian/2019/04/10/baseball-team-values-2019-yankees-lead-league-at-46-billion/
+MLB,2020,2020-04-09,2019,1850,,,stated,https://www.forbes.com/sites/mikeozanian/2020/04/09/despite-lockdown-mlb-teams-gain-value-in-2020/
+MLB,2021,2021-03-26,2020,1900,,,stated,https://www.forbes.com/sites/mikeozanian/2021/03/26/baseballs-most-valuable-teams-new-york-yankees-on-top-at-525-billion/
+MLB,2022,2022-03-24,2021,2070,,,stated,https://www.forbes.com/sites/mikeozanian/2022/03/24/baseballs-most-valuable-teams-2022-yankees-hit-6-billion-as-new-cba-creates-new-revenue-streams/
+MLB,2023,2023-03-23,2022,2320,,,stated,https://www.forbes.com/sites/mikeozanian/2023/03/23/baseballs-most-valuable-teams-2023-price-tags-are-up-12-despite-regional-tv-woes/
+MLB,2024,2024-03-28,2023,2400,378,,stated,https://www.forbes.com/sites/mikeozanian/2024/03/28/baseballs-most-valuable-teams-2024/
+MLB,2025,2025-03-26,2024,2600,407,,stated,https://www.forbes.com/sites/justinteitelbaum/2025/03/26/baseballs-most-valuable-teams-2025/
+MLB,2026,2026-03-20,2025,2900,,7.0,stated,https://www.forbes.com/sites/justinteitelbaum/2026/03/20/baseballs-most-valuable-teams-2026/

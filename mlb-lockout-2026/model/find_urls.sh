@@ -1,0 +1,16 @@
+#!/bin/bash
+# Probe candidate season-ticket terms URLs for each club; print status, title, size.
+clubs="${CLUBS}"
+paths="tickets/season-tickets/holders/terms-and-conditions tickets/season-tickets/terms-and-conditions tickets/season-tickets/holders/terms tickets/season-tickets/terms tickets/season-tickets/holders/terms-conditions tickets/season-tickets/terms-conditions"
+for c in $clubs; do
+  for p in $paths; do
+    u="https://www.mlb.com/$c/$p"
+    out=$(curl -sL -m 15 -A "Mozilla/5.0" -o /tmp/probe_$$.html -w "%{http_code} %{url_effective}" "$u")
+    code=${out%% *}
+    t=$(grep -o "<title>[^<]*" /tmp/probe_$$.html | head -1 | sed 's/<title>//')
+    sz=$(wc -c < /tmp/probe_$$.html)
+    if [ "$code" = "200" ] && ! echo "$t" | grep -qi "not found\|404"; then
+      echo "$c|$u|$code|$sz|$t"
+    fi
+  done
+done

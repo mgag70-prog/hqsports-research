@@ -1,0 +1,20 @@
+{
+  "subject": "An editorial still life of a single season-ticket invoice page and a blank contract page on a wooden desk in an empty ballpark concourse, one held by a steel paper clip and the other stamped with a plain red rubber stamp, soft morning light, empty green seats out of focus beyond.",
+  "seed": 4501,
+  "headline": [
+    "Four MLB teams'",
+    "season-ticket contracts",
+    "mention a lockout.",
+    "Only one promises",
+    "your money back."
+  ],
+  "square_crop_x": 0.25,
+  "formats": {
+    "wide": {
+      "headline_max_width": 0.38
+    },
+    "square": {
+      "headline_max_width": 0.35
+    }
+  }
+}

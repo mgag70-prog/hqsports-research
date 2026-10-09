@@ -6,3 +6,6 @@ base_case.json
 .ipynb_checkpoints/
 # raw fal.ai cover backgrounds stay local; finished covers and cover-prompt.md are committed
 */figures/raw/
+
+# lockout survey: raw HTML stays local; extracted .txt is committed so quote checks rerun
+mlb-lockout-2026/raw/*.html

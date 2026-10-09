@@ -152,7 +152,7 @@ FORMATS = {
     },
     "square": {
         "out_name": "cover-fal-1080x1080.png", "out_size": (1080, 1080), "safe_box": None,
-        "margin_x": 0.06, "anchor": ("top", 0.15),
+        "margin_x": 0.06, "anchor": ("top", 0.21),
         "headline_max_width": 0.66, "headline_max_size": 0.085,
         "scrim_x": (0.66, 1.00), "scrim_y": (0.44, 0.70),
         "zones": [((0.04, 0.03, 0.74, 0.46), "band")],

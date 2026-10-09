@@ -1,4 +1,4 @@
-# Cover prompt: mlb-lockout-2026 (option A)
+# Cover prompt: A
 
 - Date: 2026-10-08
 - Model: fal-ai/nano-banana-pro

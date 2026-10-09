@@ -1,0 +1,20 @@
+{
+  "subject": "A wide view of a snow-dusted, empty major league ballpark at dusk, every seat empty, a tarp on the infield, the stadium lights off, one gate in the foreground chained shut.",
+  "seed": 4603,
+  "headline": [
+    "Four MLB teams'",
+    "season-ticket contracts",
+    "mention a lockout.",
+    "Only one promises",
+    "your money back."
+  ],
+  "square_crop_x": 0.25,
+  "formats": {
+    "wide": {
+      "headline_max_width": 0.38
+    },
+    "square": {
+      "headline_max_width": 0.35
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "subject": "A stack of season-ticket envelopes and plastic ticket cards on a dark wood table with a padlock resting on top, ballpark lights glowing out of focus through a window behind.",
+  "seed": 4602,
+  "headline": [
+    "Four MLB teams'",
+    "season-ticket contracts",
+    "mention a lockout.",
+    "Only one promises",
+    "your money back."
+  ],
+  "square_crop_x": 0.25,
+  "formats": {
+    "wide": {
+      "headline_max_width": 0.38
+    },
+    "square": {
+      "headline_max_width": 0.35
+    }
+  }
+}

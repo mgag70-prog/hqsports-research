@@ -1,0 +1,20 @@
+{
+  "subject": "An extreme close-up of a contract page covered in dense, blurred fine print, a red pen circling one paragraph, a padlock key lying across the page, shallow depth of field.",
+  "seed": 4604,
+  "headline": [
+    "Four MLB teams'",
+    "season-ticket contracts",
+    "mention a lockout.",
+    "Only one promises",
+    "your money back."
+  ],
+  "square_crop_x": 0.25,
+  "formats": {
+    "wide": {
+      "headline_max_width": 0.38
+    },
+    "square": {
+      "headline_max_width": 0.35
+    }
+  }
+}

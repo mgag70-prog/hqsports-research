@@ -1,0 +1,11 @@
+item,value,source
+players_pool_2025_usd,128200000,"Sportico Dec 2025 (postseason shares); pool is funded from the minimum games per series"
+players_pool_2024_usd,129100000,"Sportico Dec 2025"
+pool_games_2025,32,"computed: Wild Card 4 series x 2 + Division Series 4 x 3 + LCS 2 x 4 + World Series 4"
+wild_card_pool_games_2025,8,"computed: 4 Wild Card series x 2 games"
+pool_share_wild_card,0.50,"MLB.com glossary, Postseason Share: 50 percent of the gate receipts from the Wild Card Games"
+pool_share_ds_games_1_3,0.60,"MLB.com glossary, Postseason Share: 60 percent of the gate receipts from the first three games of the Division Series"
+pool_share_lcs_ws_games_1_4,0.60,"MLB.com glossary, Postseason Share: 60 percent of the gate receipts from the first four games of the LCS and World Series"
+split_wc_games_1_2,"15% Commissioner, 50% players' pool, 35% two clubs","FanGraphs, Wendy Thurm, Oct 7 2014 (rules per CBA as of 2014); pool share matches MLB.com glossary"
+split_ds_games_1_3,"15% Commissioner, 60% players' pool, 25% two clubs","FanGraphs, Wendy Thurm, Oct 7 2014 (rules per CBA as of 2014)"
+split_ds_games_4_plus,"15% Commissioner, 0% players' pool, 85% two clubs","FanGraphs, Wendy Thurm, Oct 7 2014"

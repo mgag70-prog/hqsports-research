@@ -1,0 +1,24 @@
+{
+  "subject": "An empty, dark major league ballpark at night with the field lights off, seen from outside its closed gates, and parked beside the gates a lit television broadcast truck with its satellite dish raised, its work lights the only glow on the street.",
+  "seed": 4701,
+  "headline": [
+    "Eight fewer games is",
+    "3.5 million fewer tickets.",
+    "The money that pays for",
+    "the cut isn't at the gate."
+  ],
+  "square_crop_x": 0.3,
+  "formats": {
+    "wide": {
+      "headline_max_width": 0.38
+    },
+    "square": {
+      "headline_max_width": 0.42,
+      "scrim_x": null,
+      "scrim_y": [
+        0.4,
+        0.66
+      ]
+    }
+  }
+}

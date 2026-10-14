@@ -1,0 +1,8 @@
+fiscal_year,item,football,mens_basketball,womens_basketball,other_sports,non_program_specific,total,source_file,source_line
+2025,total_operating_revenues,87939659,35275590,2186498,5088629,64270802,194761178,raw/FY25_NCAA_report.txt,3474
+2025,total_operating_expenses,49268450,18619676,7052333,30469767,84449312,189859538,raw/FY25_NCAA_report.txt,3568
+2025,excess_revenues_over_expenses,38671209,16655914,-4865835,-25381138,-20178510,4901640,raw/FY25_NCAA_report.txt,3570
+2025,cat44_institutional_nil_revenue_share,0,0,0,0,0,0,raw/FY25_NCAA_report.txt,3566
+2024,total_operating_revenues,68731139,30127277,3690635,5715750,65802635,174067436,raw/FY24_NCAA_report.txt,3036
+2024,total_operating_expenses,38984930,18970439,6565976,27469311,77483856,169474512,raw/FY24_NCAA_report.txt,3100
+2024,excess_revenues_over_expenses,29746209,11156838,-2875341,-21753561,-11681221,4592924,raw/FY24_NCAA_report.txt,3102

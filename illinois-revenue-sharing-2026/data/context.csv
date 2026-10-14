@@ -1,0 +1,10 @@
+item,value,unit,source
+revenue_share_cap_2025_26,20.5,usd_millions,"Sportico, July 18, 2025: ""Starting in 2025-26, schools will be permitted to directly pay athletes up to $20.5 million annually in revenue-sharing""; CBS Sports, June 7, 2025: ""Schools can share as much as $20.5 million of their revenues with players during the upcoming academic year"""
+athletic_illinois_estimate_low,19,usd_millions,"The Athletic, September 16, 2026 (football roster budget estimate; big-ten-spending-2026/data/big-ten-records-2024-2025.csv)"
+athletic_illinois_estimate_high,23,usd_millions,"The Athletic, September 16, 2026 (same)"
+fy24_mfrs_posted,2025-01-23,date,"URL path of the FY24 report on the disclosure page: documents/2025/1/23/UIUC_NCAA_Report_Final_1.15.25.pdf"
+fy25_mfrs_posted,2026-01-29,date,"URL path of the FY25 report on the disclosure page: documents/2026/1/29/FY25_IL_NCAA_Full_Report__Revised_1-22-26_.pdf"
+foia_request_received,2026-10-05,date,"FOIA 26-2759 response letter"
+foia_response,2026-10-12,date,"FOIA 26-2759 response letter"
+revenue_sharing_payments_began,2025-07-01,date,"House settlement; FY2026 begins July 1, 2025"
+prediction_deadline,2027-02-28,date,"Matt's prediction window for the FY2026 posting"

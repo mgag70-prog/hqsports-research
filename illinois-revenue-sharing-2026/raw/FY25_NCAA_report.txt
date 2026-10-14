@@ -1,0 +1,3578 @@
+Reporting Institution: University of Illinois Urbana-Champaign                      Reporting Year (FY): 2025
+
+
+                                                 School Info
+We agree to release the institution's data to the conference: Yes
+
+We agree to allow the NCAA to release our school's MFRS institutional Program Revenue data to the
+College Sports Commission (CSC) for a limited purpose consistent with the House settlement terms: Yes
+
+Institutional Contacts:
+
+        Primary Contact John Chipman                                 Title: Senior Associate Director of
+                Person:                                                     Athletics
+                    Phone: 2172658151                               Email: jchipman@illinois.edu
+                     CEO: Dr. Charles                      CEO Email: chancellor@illinois.edu
+                          Isbell
+           University CFO: Paul Ellinger         University CFO Email: pellinge@illinois.edu
+               Audit Firm: James Moore            AUP Report Issuance 01/14/2026
+                                                                Date:
+
+Classification & Conference:
+
+    NCAA Primary Division: I-FBS
+           Athletic Conference: Big Ten Conference
+
+Sports Sponsorship:
+
+             Sport                  Men's Teams Only           Women's Teams Only              Mixed Teams
+Acrobatics and Tumbling
+Baseball                                     x
+Basketball                                   x                             x
+Beach Volleyball
+Bowling
+Cross Country                                x                             x
+Equestrian
+Fencing
+Field Hockey
+Football                                     x
+Golf                                         x                             x
+Gymnastics                                   x                             x
+Ice Hockey
+
+NCAA Membership Financial Reporting System                                                          Page 1 of 94
+Reporting Institution: University of Illinois Urbana-Champaign             Reporting Year (FY): 2025
+
+
+             Sport                 Men's Teams Only         Women's Teams Only      Mixed Teams
+Lacrosse
+Rifle
+Rowing
+Rugby
+Skiing
+Soccer                                                              x
+Softball                                                            x
+Stunt
+Swimming and Diving                                                 x
+Tennis                                      x                       x
+Track, Indoor                               x                       x
+Track, Outdoor                              x                       x
+Triathlon
+Volleyball                                                          x
+Water Polo
+Wrestling                                   x
+Others
+Totals                                     10                       11                   0
+
+
+
+
+NCAA Membership Financial Reporting System                                              Page 2 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                       Reporting Year (FY): 2025
+
+
+                                  Revenue/Expense Summary
+ ID            Item            Amount                                   Definition
+Revenues
+1    Ticket Sales             $29,973,328 Input revenue received for sales of admissions to athletic events.
+                                          This may include:
+
+                                           • Public and faculty sales.
+                                           • Student sales
+                                           • Shipping and Handling fees.
+
+                                           Please report amounts paid in excess of ticket's face value to
+                                           obtain preferential seating or priority in Category 8
+                                           (Contributions).
+2    Direct State or Other     $7,970,572 Input state, municipal, federal and other appropriations made in
+     Government Support                   support of athletics.
+
+                                           This amount includes funding specifically earmarked for the
+                                           athletics department by government agencies for which the
+                                           institution cannot reallocate.
+
+                                           This amount also includes state funded employee benefits.
+                                           Corresponding expenses should be reported in Categories 22 and
+                                           24.
+
+                                           Any state or other government support appropriated to the
+                                           university, for which the university determines the dollar
+                                           allocation to the athletics department shall be reported in Direct
+                                           Institutional Support (Category 4).
+3    Student Fees              $3,639,531 Input student fees assessed and restricted for support of
+                                          intercollegiate athletics.
+4    Direct Institutional         $22,395 Input direct funds provided by the institution to athletics for the
+     Support                              operations of intercollegiate athletics including:
+
+                                           • Unrestricted funds allocated to the athletics department by the
+                                             university (e.g. state funds, tuition, tuition discounts/waivers,
+                                             transfers)
+                                           • Federal work study support for student workers employed by
+                                             athletics.
+                                           • Endowment unrestricted income, spending policy distributions
+                                             and other investment income distributed to athletics in the
+                                             reporting year to support athletic operations. Athletics restricted
+                                             endowment income for athletics should be reported in Category
+                                             17.
+
+
+NCAA Membership Financial Reporting System                                                          Page 3 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                      Reporting Year (FY): 2025
+
+
+ ID           Item             Amount                                    Definition
+5   Less - Transfers to         -$142,446 If the institution allocated funds to athletics as represented in
+    Institution                           Categories 3-4 and the athletics department provided a transfer of
+                                          funds back to the institution in the reporting year, report the
+                                          transfer amount as a negative in this category. The transfer amount
+                                          may not exceed the total of Categories 3-4. Transfers back to the
+                                          institution in excess of Categories 3-4 should be reported in
+                                          Category 50 - excess transfers to institution.
+6    Indirect Institutional            $0 Input value of costs covered and services provided by the
+     Support                              institution to athletics but not charged to athletics including:
+
+                                          • Administrative services provided by the university to athletics
+                                            but not charged such as HR, Accounting and IT.
+                                          • Facilities maintenance.
+                                          • Security.
+                                          • Risk Management.
+                                          • Utilities.
+
+                                          Do not include depreciation.
+
+                                          Note: This category should equal Category 36. If the institution is
+                                          paying for debt service, leases, or rental fees for athletic facilities,
+                                          but not charging to athletics, include those amounts in Category
+                                          6A.
+6A Indirect Institutional              $0 Input debt service payments (principal and interest, including
+   Support - Athletic                     internal loan programs), leases and rental fees for athletics
+   Facilities Debt Service,               facilities for the reporting year provided by the institution to
+   Lease and Rental Fees                  athletics but not charged to athletics.
+
+                                          Do not report depreciation.
+
+                                          Note: If the institution is paying for all athletic facilities debt
+                                          service, lease and rental fees and not charging to athletics, this
+                                          category will equal Category 34. If athletics or other entities are
+                                          also paying these expenses or the institution is charging directly to
+                                          athletics, this category will not equal Category 34.
+7    Guarantees                  $421,944 Input revenue received from participation in away games. This
+                                          includes payments received due to game cancellations.
+
+
+
+
+NCAA Membership Financial Reporting System                                                            Page 4 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                     Reporting Year (FY): 2025
+
+
+ ID          Item              Amount                                Definition
+8   Contributions             $50,481,505 Input contributions provided and used by athletics in the
+                                          reporting year including:
+
+                                           • Amounts received from individuals, corporations, associations,
+                                             foundations, clubs or other organizations designated for the
+                                             operations of the athletics program.
+                                           • Funds contributed by outside contributors for the payment of
+                                             debt service, lease payments or rental fee expenses for athletic
+                                             facilities in the reporting year.
+                                           • Amounts received above face value for tickets.
+
+                                           Contributions shall include cash and marketable securities.
+
+                                           Do not report:
+
+                                           • Pledges until funds are provided to athletics for use.
+                                           • Contributions to be used in other reporting years.
+
+9    In-Kind                     $238,700 Input market value of in-kind contributions in the reporting year
+                                          including:
+
+                                           • Dealer provided automobiles.
+                                           • Equipment.
+                                           • Services.
+                                           • Nutritional product.
+
+                                           All in-kind contributions that are made as a result of a licensing or
+                                           sponsorship agreement should be reported in Category 15.
+
+                                           Please offset in-kind values in the appropriate expense category.
+
+
+
+
+NCAA Membership Financial Reporting System                                                            Page 5 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                      Reporting Year (FY): 2025
+
+
+ ID           Item             Amount                                   Definition
+10 Compensation and                     $0 Input all benefits provided by a third party and contractually
+    Benefits provided by a                 guaranteed by the institution, but not included on the institution's
+    third party                            W-2. These may include:
+
+                                           • Car stipend.
+                                           • Country club membership.
+                                           • Allowances for clothing, housing, entertainment.
+                                           • Speaking fees.
+                                           • Camps compensation.
+                                           • Media income.
+                                           • Shoe and apparel income.
+
+                                           The total of this category should equal expense Categories 23 and
+                                           25 combined.
+11   Media Rights             $66,801,333 Input all revenue received for radio, television, internet, digital and
+                                          e-commerce rights, including the portion of conference
+                                          distributions related to media rights - if applicable.
+
+                                           Consult with your conference offices if you do not have the media
+                                           rights distribution amount available.
+12   Total NCAA                $3,548,621 Total revenues received from the NCAA excluding football (sum
+     Distributions                        of categories 12A through 12C).
+12A NCAA Distributions         $3,324,923 Input revenues received from the NCAA which could include
+                                          revenue distributions and grants.
+
+                                           NCAA distributions or grants may be provided by the conference
+                                           office. Consult with the conference office to accurately account for
+                                           the amount received to then include in this category.
+12B NCAA Host Revenue                   $0 Input payments received from the NCAA for hosting a tournament
+    Settlements                            or championship.
+12C Post-Season Non-             $223,698 Input all amounts received related to participation in a post-season
+    Football NCAA                         play game other than football, including:
+    Expense
+    Reimbursements                         • Expense reimbursements
+                                           • NCAA travel reimbursements
+
+
+
+
+NCAA Membership Financial Reporting System                                                          Page 6 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                   Reporting Year (FY): 2025
+
+
+ ID           Item             Amount                                  Definition
+13 Conference                    $36,739 Input all revenues received by conference distribution, excluding
+    Distributions (Non                   portions of distribution relating to media rights, reported in
+    Media and Non Post                   Category 11, or NCAA distributions, reported in Category 12 in
+    Season)                              total.
+
+                                          Note: Conference distributions of revenue generated by post-
+                                          season play to conference members are to be recorded in Category
+                                          13A. Distributions for reimbursement of post-season play
+                                          expenses for non-football are to be recorded in Category 12C and
+                                          for football in Category 19.
+13A Conference                $12,756,572 Input conference distributions of revenue generated by post-season
+    Distributions of Post-                play to conference members for all sports.
+    Season Generated
+    Revenue                               Note: Distributions for reimbursement of post-season non-football
+                                          expenses should be included in Category 12C and football
+                                          expenses in Category 19. Portions of the distribution related to
+                                          media rights are reported in Category 11, NCAA revenue
+                                          distributions/grants are reported in Category 12A and all other
+                                          conference distributions are reported in Category 13 or 13A.
+14   Program, Novelty,         $3,141,447 Input revenues from:
+     Parking and
+     Concession Sales                     • Game Programs.
+                                          • Novelties.
+                                          • Food and Concessions.
+                                          • Parking.
+
+                                          Advertising should be included in Category 15.
+15   Royalties, Licensing,     $8,725,169 Input revenues from:
+     Advertisement and
+     Sponsorships                         • Sponsorships.
+                                          • Licensing Agreements.
+                                          • Advertisement.
+                                          • Royalties.
+                                          • In-kind products and services as part of sponsorship agreement.
+
+                                          An allocation may be necessary to distinguish revenues generated
+                                          by athletics versus the university if payments are combined.
+16   Sports Camp Revenues        $341,376 Input amounts received by the athletics department for sports
+                                          camps and clinics.
+
+
+
+
+NCAA Membership Financial Reporting System                                                      Page 7 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                     Reporting Year (FY): 2025
+
+
+ ID          Item              Amount                                 Definition
+17 Athletics Restricted        $3,039,325 Please report spending policy distributions from athletics restricted
+    Endowment and                         endowments and investment income used for athletics operations
+    Investments Income                    in the reporting year.
+
+                                           This category includes only restricted investment and endowment
+                                           income used for the operations of intercollegiate athletics;
+                                           institutional allocations of income from unrestricted endowments
+                                           qualify as ""Direct Institutional Support"" and should be reported
+                                           in Category 4.
+
+                                           Note: Please make sure amounts reported are only up to the
+                                           amount of expenses covered by the endowment for the reporting
+                                           year.
+18   Other Operating           $3,176,652 Input any operating revenues received by athletics in the report
+     Revenue                              year which cannot be classified into one of the stated categories.
+
+                                           If the figure is greater than 10% of total revenues, please report the
+                                           top three activities included in this category in the comments
+                                           section.
+19   Post-Season Football        $588,415 Input all amounts received related to participation in a post-season
+     Expense                              play game, including:
+     Reimbursements
+                                           • Expense reimbursements.
+                                           • Ticket sales.
+                                           • NCAA travel reimbursements
+
+                                           Note: The amounts entered should not include conference
+                                           tournaments or championship revenues.
+     Total Operating        $194,761,178 Total of Categories 1-19.
+     Revenues
+Expenses
+
+
+
+
+NCAA Membership Financial Reporting System                                                          Page 8 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                     Reporting Year (FY): 2025
+
+
+ ID          Item              Amount                                 Definition
+20 Athletic Student Aid       $13,337,620 Input the total dollar amount of athletic student-aid for the
+                                          reporting year including:
+                                           • Summer school.
+                                           • Tuition discounts and waivers (unless it is a discount or waiver
+                                             available to the general student body).
+                                           • Aid given to student-athletes who are inactive (medical reasons)
+                                             or no longer eligible (exhausted eligibility).
+                                           • Other expenses related to attendance.
+
+                                           Note: Division I Grants-in-aid equivalencies are calculated by
+                                           using the revenue distribution equivalencies by sport and in
+                                           aggregate. (Athletic grant amount divided by the full grant
+                                           amount). Other expenses related to attendance (also known as cost
+                                           of attendance) should not be included in the grants-in-aid revenue
+                                           distribution equivalencies. Only tuition, fees, living expenses and
+                                           course related books are countable for grants-in-aid revenue
+                                           distribution per Bylaw 20.02.11.
+
+                                           Athletics aid awarded to non-athletes (student-managers, graduate
+                                           assistants, trainers) should be reported as Expenses Not Related to
+                                           Specific Teams. It is permissible to report only dollars in the
+                                           Expenses Not Related to Specific Teams row as long as you have
+                                           reported non- zero entries for Equivalencies, Number of Students,
+                                           and Dollars (all 3 required for at least one sport).
+
+                                           Note: Pell grants are provided by the government, not the
+                                           institution or athletics department, and therefore should be
+                                           excluded from reporting in this category.
+
+                                           Note: This information can be managed within the NCAA's
+                                           Compliance Assistance (CA) software. The equivalencies entered
+                                           into compliance assistance will automatically populate to the
+                                           athletic student aid section within the NCAA Financial Reporting
+                                           System when the CA import feature is selected.
+21   Guarantees                $2,767,250 Input amounts paid to visiting participating institutions, including
+                                          per diems and/or travel and meal expenses. This includes
+                                          payments made due to game cancellations.
+
+
+
+
+NCAA Membership Financial Reporting System                                                         Page 9 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                    Reporting Year (FY): 2025
+
+
+ ID           Item             Amount                                  Definition
+22 Coaching Salaries,         $35,517,131 Input compensation, bonuses and benefits paid to all coaches
+    Benefits and Bonuses                  reportable on the university or related entities W-2 and 1099
+    paid by the University                forms, as well as non-taxable benefits (1098T), inclusive of:
+    and Related Entities
+                                           • Gross wages and bonuses.
+                                           • Taxable and non-taxable benefits include allowances, speaking
+                                             fees, retirement, stipends, memberships, media income, tuition
+                                             reimbursement/exemptions (for self or a dependent) and earned
+                                             deferred compensation, including those funded by the state.
+
+                                           Place any severance payments in Category 26.
+
+                                           Note: Bonuses related to participation in a post-season game
+                                           should be included in Category 41A or 42A respectively.
+23   Coaching Salaries,                $0 Input compensation, bonuses and benefits paid to all coaches by a
+     Benefits and Bonuses                 third party and contractually guaranteed by the institution, but not
+     paid by a Third Party                included on the institutions W-2, as well as any non-taxable
+                                          benefits, including:
+
+                                           • Car stipend.
+                                           • Country club membership.
+                                           • Allowances for clothing, housing, and entertainment.
+                                           • Speaking fees.
+                                           • Camp compensation.
+                                           • Media income.
+                                           • Shoe and apparel income.
+
+                                           Expense Category 23 and 25 should equal Category 10.
+
+                                           Note: Bonuses related to participation in a post-season game
+                                           should be included in Category 41A or 42A respectively.
+
+
+
+
+NCAA Membership Financial Reporting System                                                       Page 10 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                      Reporting Year (FY): 2025
+
+
+ ID          Item           Amount                                   Definition
+24 Support Staff/          $31,963,461 Input compensation, bonuses and benefits paid to all
+    Administrative                     administrative and support staff reportable on the university or
+    Compensation, Benefits             related entities (e.g. foundations or booster clubs) W-2 and 1099
+    and Bonuses paid by                forms, as well as any non-taxable benefits, inclusive of:
+    the University and                 • Gross wages and bonuses.
+    Related Entities
+                                       • Benefits including allowances, speaking fees, retirement,
+                                          stipends, memberships, media income, tuition reimbursement/
+                                          exemptions and earned deferred compensation, including those
+                                          funded by the state.
+
+                                           Staff members responsible for the gender-specific athletics
+                                           department, but not a specific sport (i.e., director of men's
+                                           athletics), will have their compensation figures reported as
+                                           Expenses Not Related to Specific Teams fields. Athletics
+                                           department staff members who assist both men's and women's
+                                           teams (sports information director, academic advisor) will be
+                                           reported as Not Allocated by Gender column.
+25   Support Staff/                     $0 Input compensation, bonuses and benefits paid to administrative
+     Administrative                        and support staff by a third party and contractually guaranteed by
+     Compensation, Benefits                the institution, but not included on the institutions W-2, as well as
+     and Bonuses paid by                   non-taxable benefits, including:
+     Third Party                           • Car stipend.
+                                           • Country club membership.
+                                           • Allowances for clothing, housing, entertainment.
+                                           • Speaking fees.
+                                           • Camps compensation.
+                                           • Media income.
+                                           • Shoe and apparel income.
+
+                                           Expense Category 23 and 25 should equal Category 10.
+26   Severance Payments          $546,909 Input severance payments and applicable benefits recognized for
+                                          past coaching and administrative personnel.
+27   Recruiting                $3,563,849 Input transportation, lodging and meals for prospective student-
+                                          athletes and institutional personnel on official and unofficial visits,
+                                          telephone call charges, postage and such. Include value of use of
+                                          institution's own vehicles or airplanes as well as in-kind value of
+                                          loaned or contributed transportation.
+
+
+
+
+NCAA Membership Financial Reporting System                                                         Page 11 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                     Reporting Year (FY): 2025
+
+
+ ID        Item                Amount                                   Definition
+28 Team Travel                 $8,863,220 Input air travel, ground travel, lodging, meals, and incidentals
+                                          (including housing costs incurred during school break period) for
+                                          competition related to preseason and regular season. Amounts
+                                          incurred for food, lodging for housing the team before a home
+                                          game, use of the institution’s own vehicles, airplanes, or in-kind
+                                          value of donor-provided transportation should be included.
+
+                                           Note: Expenses related to post-season play should be included in
+                                           Categories 41 or 42 respectively.
+29   Sports Equipment          $2,585,157 Input items that are provided to the teams only. Equipment
+     Uniforms and Supplies                amounts are those expended from current or operating funds.
+                                          Include value of in-kind equipment provided.
+
+                                           Note: Expenses related to post-season play should be included in
+                                           Categories 41 or 42 respectively.
+30   Game Expenses             $4,488,756 Input game-day expenses other than travel which are necessary for
+                                          intercollegiate athletics competition, including officials, security,
+                                          event staff, ambulance, etc. Input any payments back to the
+                                          conference for hosting a tournament.
+
+                                           Note: Expenses related to post-season play should be included in
+                                           Categories 41 or 42 respectively.
+31   Fund Raising,            $21,888,016 Input costs associated with fund raising, marketing and promotion
+     Marketing and                        for media guides, brochures, recruiting publications and such.
+     Promotion
+32   Sports Camp Expenses        $276,292 Input all expenses paid by the athletics department, including non-
+                                          athletics personnel salaries and benefits, from hosting sports
+                                          camps and clinics. Athletics personnel salaries and benefits should
+                                          be reported in Categories 22-25.
+33   Spirit Groups               $602,736 Include support for spirit groups including bands, cheerleaders,
+                                          mascots, dancers, etc.
+
+                                           Note: Expenses related to post-season play should be included in
+                                           Categories 41 or 42 respectively.
+
+
+
+
+NCAA Membership Financial Reporting System                                                       Page 12 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                       Reporting Year (FY): 2025
+
+
+ ID           Item             Amount                                    Definition
+34 Athletic Facilities Debt   $17,770,740 Input debt service payments (principal and interest, including
+    Service, Leases and                   internal loan programs), leases and rental fees for athletics
+    Rental Fee                            facilities for the reporting year regardless of entity paying
+                                          (athletics, institution or other).
+
+                                           Do not report depreciation.
+
+                                           Note: If the institution is paying for all debt service, leases, or
+                                           rental fees for athletic facilities but not charging to athletics, this
+                                           category should equal Category 6A. If athletics or other entities
+                                           are paying these expenses or the institution is charging directly to
+                                           athletics, this category will not equal Category 6A.
+35   Direct Overhead and      $15,533,515 Input overhead and administrative expenses paid by or charged
+     Administrative                       directly to athletics including:
+     Expenses
+                                           • Administrative/Overhead fees charged by the institution to
+                                             athletics.
+                                           • Security.
+                                           • Risk Management.
+                                           • Other Administrative Expenses.
+
+35A Facilities Maintenance     $7,954,285 Input facilities maintenance and operations expenses paid by or
+    and Operations                        charged directly to athletics including:
+
+                                           • Facilities maintenance.
+                                           • Utilities.
+                                           • Equipment Repair.
+
+
+
+
+NCAA Membership Financial Reporting System                                                           Page 13 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                      Reporting Year (FY): 2025
+
+
+ ID          Item              Amount                                    Definition
+36 Indirect Institutional               $0 Input overhead and administrative expenses NOT paid by or
+    Support                                charged directly to athletics including:
+
+                                           • Administrative/Overhead fees not charged by the institution to
+                                             athletics.
+                                           • Facilities maintenance.
+                                           • Security.
+                                           • Risk Management.
+                                           • Utilities.
+                                           • Equipment Repair.
+                                           • Telephone.
+                                           • Other Administrative Expenses.
+
+                                           Do not report depreciation.
+
+                                           Note: This category should equal Category 6.
+37   Medical Expenses and      $2,258,590 Input medical expenses and medical insurance premiums for
+     Insurance                            student-athletes.
+38   Memberships and Dues        $303,236 Input memberships, conference and association dues.
+39   Student-Athlete Meals     $4,459,569 Include meal allowance and food/snacks provided to student-
+     (non-travel)                         athletes.
+
+                                           Note: Meals provided during team travel should be reported in
+                                           Category 28.
+40   Other Operating           $6,802,815 Input any operating expenses paid by athletics in the report year
+     Expenses                             which cannot be classified into one of the stated categories,
+                                          including:
+
+                                           • Non-team travel (conferences, etc.).
+                                           • Team banquets and awards.
+
+                                           If the figure is greater than 10% of total expenses, please report the
+                                           top three activities included in this category in the comments
+                                           section.
+
+
+
+
+NCAA Membership Financial Reporting System                                                         Page 14 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                     Reporting Year (FY): 2025
+
+
+ ID          Item              Amount                                  Definition
+41 Post-Season Football        $2,829,500 Input all expenditures related to participation in a post-season
+    Expenses                              football game, including:
+
+                                           • Team travel, lodging and meal expenses, including NCAA
+                                             tournaments.
+                                           • Bonuses related to participation.
+                                           • Spirit groups.
+                                           • Uniforms.
+
+                                           Note: All post-season football play-related coaching
+                                           compensation/bonuses and host settlements should be reported in
+                                           Category 41A and 41B, respectively. Entries should not include
+                                           conference tournaments or championships.
+41A Post-Season Football         $911,087 Input all coaching bonuses related to participation in a post-season
+    Expenses – Coaching                   football game.
+    Compensation/
+    Bonuses                                Note: Entries should not include conference tournaments or
+                                           championships.
+41B NCAA Football Host                 $0 Input expenses incurred for hosting a NCAA football tournament
+    Expense Settlements                   or championship.
+42   NCAA Post-Season          $1,334,408 Input all expenditures related to participation in a non-football
+     Non-Football Expenses                post-season championship game, including:
+
+                                           • Team travel, lodging and meal expenses, including NCAA
+                                             tournaments.
+                                           • Bonuses related to participation.
+                                           • Spirit groups.
+                                           • Uniforms.
+
+                                           Note: All post-season non-football play-related coaching
+                                           compensation/bonuses and host settlements should be reported in
+                                           Category 42A and 42B, respectively.
+42A NCAA Post-Season             $697,275 Input all coaching bonuses related to participation in a non-
+    Non-Football                          football post-season game.
+    Expenses – Coaching
+    Compensation/
+    Bonuses
+42B NCAA Non-Football             $37,060 Input expenses incurred for hosting a non-football NCAA
+    Host Expense                          tournament or championship.
+    Settlements
+
+
+
+NCAA Membership Financial Reporting System                                                        Page 15 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                    Reporting Year (FY): 2025
+
+
+ ID           Item             Amount                                   Definition
+43 Enhanced Educational        $2,567,061 Input any academic or graduation awards or incentives (Alston or
+    Benefits (Alston or                   other) paid by the institution within the reporting year that would
+    other)                                not be included in the cost of attendance calculation.
+44   Institutional NIL                 $0 Input institutional payments to student-athletes for use of Name,
+     Revenue Share                        Image and Likeness (NIL) (including from institutional designee
+                                          or contractor). Please include other direct institutional payments or
+                                          additional benefits to student-athletes and/or student-athletes’
+                                          families not currently permitted or permitted prior to the House
+                                          settlement approval. However, do not include additional
+                                          scholarships or enhanced educational benefits.
+     Total Operating        $189,859,538 Total of Categories 20-44.
+     Expenses
+
+
+
+
+NCAA Membership Financial Reporting System                                                       Page 16 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                       Reporting Year (FY): 2025
+
+
+                                      Revenue/Expense Details
+1 Ticket     $29,973,328 Input revenue received for sales of admissions to athletic events. This may include:
+  Sales
+                          • Public and faculty sales.
+                          • Student sales
+                          • Shipping and Handling fees.
+
+                          Please report amounts paid in excess of ticket's face value to obtain preferential
+                          seating or priority in Category 8 (Contributions).
+
+
+
+                                         Men's Teams Only Women's Teams Only Not Allocated by Gender
+           Revenues by Source              Ticket Sales      Ticket Sales          Ticket Sales
+Baseball                                                0
+Basketball                                        14,234,780                 365,914
+Football                                          15,019,016
+Golf                                                        0                  31,150
+Gymnastics                                                 94                        0
+Soccer                                                                               0
+Softball                                                                        2,220
+Swimming and Diving                                                                  0
+Tennis                                                      0                   1,978
+Track and Field, X-Country                               445                      505
+Volleyball                                                                   296,456
+Wrestling                                             22,990
+Others
+Subtotal All Teams                                29,277,325                 698,223                            0
+Revenue Not Related to Specific Teams                                                                      -2,220
+Total Revenue                                     29,277,325                 698,223                       -2,220
+
+
+
+
+NCAA Membership Financial Reporting System                                                          Page 17 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                       Reporting Year (FY): 2025
+
+
+2 Direct State or Other $7,970,572 Input state, municipal, federal and other appropriations made in support of
+  Government Support               athletics.
+
+                                    This amount includes funding specifically earmarked for the athletics
+                                    department by government agencies for which the institution cannot
+                                    reallocate.
+
+                                    This amount also includes state funded employee benefits. Corresponding
+                                    expenses should be reported in Categories 22 and 24.
+
+                                    Any state or other government support appropriated to the university, for
+                                    which the university determines the dollar allocation to the athletics
+                                    department shall be reported in Direct Institutional Support (Category 4).
+
+
+
+                             Men's Teams Only            Women's Teams Only          Not Allocated by Gender
+  Revenues by Source        Direct State or Other        Direct State or Other        Direct State or Other
+                            Government Support           Government Support           Government Support
+Baseball                                    136,529
+Basketball                                   283,218                      238,166
+Football                                     609,814
+Golf                                           79,173                       62,615
+Gymnastics                                     68,400                       68,019
+Soccer                                                                    100,473
+Softball                                                                  124,963
+Swimming and Diving                                                         89,950
+Tennis                                         78,290                       65,213
+Track and Field, X-                          105,670                      105,670
+Country
+Volleyball                                                                135,420
+Wrestling                                    130,596
+Others
+Subtotal All Teams                         1,491,690                      990,489                                0
+Revenue Not Related to                                                                                5,488,393
+Specific Teams
+Total Revenue                              1,491,690                      990,489                     5,488,393
+
+
+
+
+NCAA Membership Financial Reporting System                                                        Page 18 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                       Reporting Year (FY): 2025
+
+
+3 Student Fees    $3,639,531 Input student fees assessed and restricted for support of intercollegiate athletics.
+
+
+
+                                         Men's Teams Only Women's Teams Only Not Allocated by Gender
+           Revenues by Source              Student Fees      Student Fees         Student Fees
+Baseball
+Basketball
+Football
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and Diving
+Tennis
+Track and Field, X-Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                                          0                       0                           0
+Revenue Not Related to Specific Teams                                                                  3,639,531
+Total Revenue                                               0                       0                  3,639,531
+
+
+
+
+NCAA Membership Financial Reporting System                                                          Page 19 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                          Reporting Year (FY): 2025
+
+
+4 Direct             $22,395 Input direct funds provided by the institution to athletics for the operations of
+  Institutional              intercollegiate athletics including:
+  Support
+                              • Unrestricted funds allocated to the athletics department by the university (e.g.
+                                state funds, tuition, tuition discounts/waivers, transfers)
+                              • Federal work study support for student workers employed by athletics.
+                              • Endowment unrestricted income, spending policy distributions and other
+                                investment income distributed to athletics in the reporting year to support
+                                athletic operations. Athletics restricted endowment income for athletics should
+                                be reported in Category 17.
+
+
+
+
+                                     Men's Teams Only           Women's Teams Only           Not Allocated by
+                                                                                                 Gender
+       Revenues by Source            Direct Institutional        Direct Institutional       Direct Institutional
+                                          Support                     Support                    Support
+Baseball
+Basketball
+Football
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and Diving
+Tennis
+Track and Field, X-Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                                          0                           0                          0
+Revenue Not Related to Specific                                                                            22,395
+Teams
+Total Revenue                                               0                           0                  22,395
+
+
+
+
+NCAA Membership Financial Reporting System                                                           Page 20 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                       Reporting Year (FY): 2025
+
+
+5 Less -       -$142,446 If the institution allocated funds to athletics as represented in Categories 3-4 and the
+  Transfers to           athletics department provided a transfer of funds back to the institution in the
+  Institution            reporting year, report the transfer amount as a negative in this category. The transfer
+                         amount may not exceed the total of Categories 3-4. Transfers back to the institution
+                         in excess of Categories 3-4 should be reported in Category 50 - excess transfers to
+                         institution.
+
+
+
+                                    Men's Teams Only          Women's Teams Only Not Allocated by Gender
+       Revenues by Source           Less - Transfers to        Less - Transfers to Less - Transfers to
+                                       Institution                Institution           Institution
+Baseball
+Basketball
+Football
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and Diving
+Tennis
+Track and Field, X-Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                                        0                          0                          0
+Revenue Not Related to Specific                                                                         -142,446
+Teams
+Total Revenue                                             0                          0                  -142,446
+
+
+
+
+NCAA Membership Financial Reporting System                                                          Page 21 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                        Reporting Year (FY): 2025
+
+
+6 Indirect           $0 Input value of costs covered and services provided by the institution to athletics but
+  Institutional         not charged to athletics including:
+  Support
+                         • Administrative services provided by the university to athletics but not charged such
+                           as HR, Accounting and IT.
+                         • Facilities maintenance.
+                         • Security.
+                         • Risk Management.
+                         • Utilities.
+
+                         Do not include depreciation.
+
+                         Note: This category should equal Category 36. If the institution is paying for debt
+                         service, leases, or rental fees for athletic facilities, but not charging to athletics,
+                         include those amounts in Category 6A.
+
+
+
+                                  Men's Teams Only            Women's Teams Only Not Allocated by Gender
+       Revenues by Source        Indirect Institutional       Indirect Institutional Indirect Institutional
+                                       Support                      Support                Support
+Baseball
+Basketball
+Football
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and Diving
+Tennis
+Track and Field, X-Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                                        0                           0                            0
+Revenue Not Related to
+Specific Teams
+Total Revenue                                             0                           0                            0
+
+
+
+NCAA Membership Financial Reporting System                                                            Page 22 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                          Reporting Year (FY): 2025
+
+
+6A Indirect Institutional        $0 Input debt service payments (principal and interest, including internal loan
+   Support - Athletic Facilities    programs), leases and rental fees for athletics facilities for the reporting
+   Debt Service, Lease and          year provided by the institution to athletics but not charged to athletics.
+   Rental Fees
+                                    Do not report depreciation.
+
+                                    Note: If the institution is paying for all athletic facilities debt service, lease
+                                    and rental fees and not charging to athletics, this category will equal
+                                    Category 34. If athletics or other entities are also paying these expenses or
+                                    the institution is charging directly to athletics, this category will not equal
+                                    Category 34.
+
+
+
+                      Men's Teams Only             Women's Teams Only           Not Allocated by Gender
+  Revenues by        Indirect Institutional        Indirect Institutional        Indirect Institutional
+    Source         Support - Athletic Facilities Support - Athletic Facilities Support - Athletic Facilities
+                    Debt Service, Lease and       Debt Service, Lease and       Debt Service, Lease and
+                          Rental Fees                   Rental Fees                   Rental Fees
+Baseball
+Basketball
+Football
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and
+Diving
+Tennis
+Track and Field,
+X-Country
+Volleyball
+Wrestling
+Others
+Subtotal All                                     0                                 0                                 0
+Teams
+Revenue Not
+Related to
+Specific Teams
+Total Revenue                                    0                                 0                                 0
+
+
+NCAA Membership Financial Reporting System                                                              Page 23 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                 Reporting Year (FY): 2025
+
+
+7 Guarantees $421,944 Input revenue received from participation in away games. This includes payments
+                      received due to game cancellations.
+
+
+
+                                        Men's Teams Only Women's Teams Only Not Allocated by Gender
+           Revenues by Source             Guarantees        Guarantees            Guarantees
+Baseball                                          32,173
+Basketball                                        389,771
+Football
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and Diving
+Tennis
+Track and Field, X-Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                                421,944                      0                        0
+Revenue Not Related to Specific Teams
+Total Revenue                                     421,944                      0                        0
+
+
+
+
+NCAA Membership Financial Reporting System                                                   Page 24 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                      Reporting Year (FY): 2025
+
+
+8 Contributions $50,481,505 Input contributions provided and used by athletics in the reporting year
+                            including:
+
+                             • Amounts received from individuals, corporations, associations, foundations,
+                               clubs or other organizations designated for the operations of the athletics
+                               program.
+                             • Funds contributed by outside contributors for the payment of debt service,
+                               lease payments or rental fee expenses for athletic facilities in the reporting
+                               year.
+                             • Amounts received above face value for tickets.
+
+                             Contributions shall include cash and marketable securities.
+
+                             Do not report:
+
+                             • Pledges until funds are provided to athletics for use.
+                             • Contributions to be used in other reporting years.
+
+
+
+
+                                        Men's Teams Only Women's Teams Only Not Allocated by Gender
+           Revenues by Source            Contributions     Contributions         Contributions
+Baseball                                         282,836
+Basketball                                        1,023,910                 989,554
+Football                                          2,333,455
+Golf                                                648,360                   77,126
+Gymnastics                                            3,849                      794
+Soccer                                                                        55,080
+Softball                                                                    426,385
+Swimming and Diving                                                            9,336
+Tennis                                              160,051                    2,100
+Track and Field, X-Country                           99,815                   87,413
+Volleyball                                                                     9,000
+Wrestling                                            72,675
+Others
+Subtotal All Teams                                4,624,951               1,656,788                        0
+Revenue Not Related to Specific Teams                                                             44,199,766
+Total Revenue                                     4,624,951               1,656,788               44,199,766
+
+
+
+NCAA Membership Financial Reporting System                                                      Page 25 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                      Reporting Year (FY): 2025
+
+
+9 In-Kind $238,700 Input market value of in-kind contributions in the reporting year including:
+
+                     • Dealer provided automobiles.
+                     • Equipment.
+                     • Services.
+                     • Nutritional product.
+
+                     All in-kind contributions that are made as a result of a licensing or sponsorship agreement
+                     should be reported in Category 15.
+
+                     Please offset in-kind values in the appropriate expense category.
+
+
+
+                                         Men's Teams Only Women's Teams Only Not Allocated by Gender
+           Revenues by Source                In-Kind          In-Kind                In-Kind
+Baseball                                           14,526
+Basketball                                            39,787                  25,301
+Football                                              43,587
+Golf                                                        0                  2,078
+Gymnastics                                             3,771                   2,040
+Soccer                                                                         3,759
+Softball                                                                      16,926
+Swimming and Diving                                                            6,280
+Tennis                                                11,713                  11,871
+Track and Field, X-Country                             1,214                   1,214
+Volleyball                                                                          0
+Wrestling                                             10,838
+Others
+Subtotal All Teams                                   125,436                  69,469                           0
+Revenue Not Related to Specific Teams                                                                    43,795
+Total Revenue                                        125,436                  69,469                     43,795
+
+
+
+
+NCAA Membership Financial Reporting System                                                         Page 26 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                    Reporting Year (FY): 2025
+
+
+10 Compensation and Benefits    $0 Input all benefits provided by a third party and contractually guaranteed
+   provided by a third party       by the institution, but not included on the institution's W-2. These may
+                                   include:
+
+                                    • Car stipend.
+                                    • Country club membership.
+                                    • Allowances for clothing, housing, entertainment.
+                                    • Speaking fees.
+                                    • Camps compensation.
+                                    • Media income.
+                                    • Shoe and apparel income.
+
+                                    The total of this category should equal expense Categories 23 and 25
+                                    combined.
+
+
+
+                       Men's Teams Only         Women's Teams Only      Not Allocated by Gender
+Revenues by Source Compensation and Benefits Compensation and Benefits Compensation and Benefits
+                    provided by a third party provided by a third party provided by a third party
+Baseball
+Basketball
+Football
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and
+Diving
+Tennis
+Track and Field, X-
+Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                               0                            0                                0
+Revenue Not Related
+to Specific Teams
+Total Revenue                                    0                            0                                0
+
+
+NCAA Membership Financial Reporting System                                                      Page 27 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                        Reporting Year (FY): 2025
+
+
+11 Media      $66,801,333 Input all revenue received for radio, television, internet, digital and e-commerce
+   Rights                 rights, including the portion of conference distributions related to media rights - if
+                          applicable.
+
+                           Consult with your conference offices if you do not have the media rights distribution
+                           amount available.
+
+
+
+                                          Men's Teams Only Women's Teams Only Not Allocated by Gender
+           Revenues by Source              Media Rights      Media Rights          Media Rights
+Baseball                                            25,000
+Basketball                                         14,711,892                   75,000
+Football                                           51,939,441
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and Diving
+Tennis
+Track and Field, X-Country
+Volleyball                                                                      50,000
+Wrestling
+Others
+Subtotal All Teams                                 66,676,333                 125,000                              0
+Revenue Not Related to Specific Teams
+Total Revenue                                      66,676,333                 125,000                              0
+
+
+
+
+NCAA Membership Financial Reporting System                                                           Page 28 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                   Reporting Year (FY): 2025
+
+
+12 Total NCAA          $3,548,621 Total revenues received from the NCAA excluding football (sum of
+   Distributions                  categories 12A through 12C).
+
+
+
+                                     Men's Teams Only       Women's Teams Only        Not Allocated by
+                                                                                          Gender
+         Revenues by Source            Total NCAA                Total NCAA            Total NCAA
+                                       Distributions             Distributions         Distributions
+Baseball
+Basketball                                         68,683                   78,475
+Football
+Golf                                               11,256
+Gymnastics                                         28,558
+Soccer
+Softball
+Swimming and Diving
+Tennis                                              2,246
+Track and Field, X-Country                          7,799                   26,681
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                                118,542                  105,156                       0
+Revenue Not Related to Specific                         0                         0             3,324,923
+Teams
+Total Revenue                                     118,542                  105,156              3,324,923
+
+
+
+
+NCAA Membership Financial Reporting System                                                   Page 29 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                   Reporting Year (FY): 2025
+
+
+12A NCAA        $3,324,923 Input revenues received from the NCAA which could include revenue
+    Distributio            distributions and grants.
+    ns
+                           NCAA distributions or grants may be provided by the conference office. Consult
+                           with the conference office to accurately account for the amount received to then
+                           include in this category.
+
+
+
+                                         Men's Teams Only Women's Teams OnlyNot Allocated by Gender
+           Revenues by Source           NCAA Distributions NCAA Distributions NCAA Distributions
+Baseball
+Basketball
+Football
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and Diving
+Tennis
+Track and Field, X-Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                                        0                      0                            0
+Revenue Not Related to Specific Teams                                                             3,324,923
+Total Revenue                                             0                      0                3,324,923
+
+
+
+
+NCAA Membership Financial Reporting System                                                     Page 30 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                Reporting Year (FY): 2025
+
+
+12B NCAA Host Revenue             $0 Input payments received from the NCAA for hosting a tournament or
+    Settlements                      championship.
+
+
+
+                                Men's Teams Only         Women's Teams Only Not Allocated by Gender
+    Revenues by Source         NCAA Host Revenue         NCAA Host Revenue   NCAA Host Revenue
+                                  Settlements               Settlements           Settlements
+Baseball
+Basketball
+Football
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and Diving
+Tennis
+Track and Field, X-Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                                   0                        0                          0
+Revenue Not Related to
+Specific Teams
+Total Revenue                                        0                        0                          0
+
+
+
+
+NCAA Membership Financial Reporting System                                                  Page 31 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                   Reporting Year (FY): 2025
+
+
+12C Post-Season Non-Football NCAA       $223,698 Input all amounts received related to participation in a
+    Expense Reimbursements                       post-season play game other than football, including:
+
+                                                   • Expense reimbursements
+                                                   • NCAA travel reimbursements
+
+
+
+
+                      Men's Teams Only               Women's Teams Only          Not Allocated by Gender
+Revenues by Source Post-Season Non-Football        Post-Season Non-Football      Post-Season Non-Football
+                        NCAA Expense                    NCAA Expense                  NCAA Expense
+                       Reimbursements                  Reimbursements                Reimbursements
+Baseball
+Basketball                                68,683                        78,475
+Football
+Golf                                      11,256
+Gymnastics                                28,558
+Soccer
+Softball
+Swimming and
+Diving
+Tennis                                     2,246
+Track and Field, X-                        7,799                        26,681
+Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                       118,542                      105,156                               0
+Revenue Not
+Related to Specific
+Teams
+Total Revenue                            118,542                      105,156                               0
+
+
+
+
+NCAA Membership Financial Reporting System                                                      Page 32 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                    Reporting Year (FY): 2025
+
+
+13 Conference              $36,739 Input all revenues received by conference distribution, excluding portions
+   Distributions (Non              of distribution relating to media rights, reported in Category 11, or NCAA
+   Media and Non Post              distributions, reported in Category 12 in total.
+   Season)
+                                   Note: Conference distributions of revenue generated by post-season play
+                                   to conference members are to be recorded in Category 13A. Distributions
+                                   for reimbursement of post-season play expenses for non-football are to be
+                                   recorded in Category 12C and for football in Category 19.
+
+
+
+                      Men's Teams Only                Women's Teams Only           Not Allocated by Gender
+Revenues by Source Conference Distributions         Conference Distributions      Conference Distributions
+                   (Non Media and Non Post          (Non Media and Non Post       (Non Media and Non Post
+                           Season)                          Season)                        Season)
+Baseball
+Basketball
+Football
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and
+Diving
+Tennis
+Track and Field, X-
+Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                              0                             0                             0
+Revenue Not                                                                                           36,739
+Related to Specific
+Teams
+Total Revenue                                   0                             0                       36,739
+
+
+
+
+NCAA Membership Financial Reporting System                                                      Page 33 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                Reporting Year (FY): 2025
+
+
+13A Conference        $12,756,572 Input conference distributions of revenue generated by post-season
+    Distributions of              play to conference members for all sports.
+    Post-Season
+    Generated Revenue             Note: Distributions for reimbursement of post-season non-football
+                                  expenses should be included in Category 12C and football expenses in
+                                  Category 19. Portions of the distribution related to media rights are
+                                  reported in Category 11, NCAA revenue distributions/grants are
+                                  reported in Category 12A and all other conference distributions are
+                                  reported in Category 13 or 13A.
+
+
+
+                       Men's Teams Only           Women's Teams Only        Not Allocated by Gender
+Revenues by Source Conference Distributions of Conference Distributions of Conference Distributions of
+                     Post-Season Generated       Post-Season Generated       Post-Season Generated
+                            Revenue                     Revenue                     Revenue
+Baseball
+Basketball                               288,057
+Football                              12,450,515
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and
+Diving
+Tennis
+Track and Field, X-                        9,000                      9,000
+Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                    12,747,572                      9,000                           0
+Revenue Not
+Related to Specific
+Teams
+Total Revenue                         12,747,572                      9,000                           0
+
+
+
+
+NCAA Membership Financial Reporting System                                                 Page 34 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                  Reporting Year (FY): 2025
+
+
+14 Program, Novelty, Parking and Concession       $3,141,447 Input revenues from:
+   Sales
+                                                             • Game Programs.
+                                                             • Novelties.
+                                                             • Food and Concessions.
+                                                             • Parking.
+
+                                                             Advertising should be included in Category
+                                                             15.
+
+
+
+                       Men's Teams Only         Women's Teams Only       Not Allocated by Gender
+ Revenues by Source Program, Novelty, Parking Program, Novelty, Parking Program, Novelty, Parking
+                      and Concession Sales      and Concession Sales      and Concession Sales
+Baseball                               15,883
+Basketball                                765,460                     109,008
+Football                                1,612,939
+Golf                                             0                          0
+Gymnastics                                     158                        587
+Soccer                                                                 31,851
+Softball                                                                2,389
+Swimming and Diving
+Tennis                                         181
+Track and Field, X-                             76                        112
+Country
+Volleyball                                                             10,360
+Wrestling                                     2,844
+Others
+Subtotal All Teams                      2,397,541                     154,307                             0
+Revenue Not Related                                                                               589,599
+to Specific Teams
+Total Revenue                           2,397,541                     154,307                     589,599
+
+
+
+
+NCAA Membership Financial Reporting System                                                   Page 35 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                     Reporting Year (FY): 2025
+
+
+15 Royalties, Licensing,          $8,725,169 Input revenues from:
+   Advertisement and
+   Sponsorships                               • Sponsorships.
+                                              • Licensing Agreements.
+                                              • Advertisement.
+                                              • Royalties.
+                                              • In-kind products and services as part of sponsorship
+                                                agreement.
+
+                                              An allocation may be necessary to distinguish revenues
+                                              generated by athletics versus the university if payments are
+                                              combined.
+
+
+
+                            Men's Teams Only          Women's Teams Only           Not Allocated by Gender
+Revenues by Source         Royalties, Licensing,      Royalties, Licensing,         Royalties, Licensing,
+                           Advertisement and           Advertisement and             Advertisement and
+                              Sponsorships               Sponsorships                   Sponsorships
+Baseball                                     52,023
+Basketball                               3,166,373                       196,028
+Football                                 2,713,736
+Golf
+Gymnastics                                  14,024                        14,777
+Soccer                                                                    28,650
+Softball                                                                  28,650
+Swimming and
+Diving
+Tennis                                      14,024                        14,777
+Track and Field, X-                         15,531                        14,777
+Country
+Volleyball                                                               131,942
+Wrestling                                   29,404
+Others
+Subtotal All Teams                       6,005,115                       429,601                             0
+Revenue Not Related                                                                                  2,290,453
+to Specific Teams
+Total Revenue                            6,005,115                       429,601                     2,290,453
+
+
+
+NCAA Membership Financial Reporting System                                                        Page 36 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                   Reporting Year (FY): 2025
+
+
+16 Sports Camp            $341,376 Input amounts received by the athletics department for sports camps and
+   Revenues                        clinics.
+
+
+
+                                       Men's Teams Only Women's Teams Only               Not Allocated by
+                                                                                             Gender
+           Revenues by Source             Sports Camp            Sports Camp          Sports Camp Revenues
+                                           Revenues               Revenues
+Baseball
+Basketball                                                                      731
+Football                                             16,749
+Golf                                                 64,708
+Gymnastics                                            -1,971
+Soccer
+Softball
+Swimming and Diving
+Tennis                                                                     199,623
+Track and Field, X-Country
+Volleyball
+Wrestling                                              1,625
+Others
+Subtotal All Teams                                   81,111                200,354                           0
+Revenue Not Related to Specific                                                                       59,911
+Teams
+Total Revenue                                        81,111                200,354                    59,911
+
+
+
+
+NCAA Membership Financial Reporting System                                                     Page 37 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                     Reporting Year (FY): 2025
+
+
+17 Athletics Restricted    $3,039,325 Please report spending policy distributions from athletics restricted
+   Endowment and                      endowments and investment income used for athletics operations in the
+   Investments Income                 reporting year.
+
+                                      This category includes only restricted investment and endowment
+                                      income used for the operations of intercollegiate athletics; institutional
+                                      allocations of income from unrestricted endowments qualify as ""Direct
+                                      Institutional Support"" and should be reported in Category 4.
+
+                                      Note: Please make sure amounts reported are only up to the amount of
+                                      expenses covered by the endowment for the reporting year.
+
+
+
+                           Men's Teams Only           Women's Teams Only           Not Allocated by Gender
+Revenues by Source        Athletics Restricted        Athletics Restricted           Athletics Restricted
+                            Endowment and               Endowment and                  Endowment and
+                          Investments Income          Investments Income             Investments Income
+Baseball                                    58,677
+Basketball                                283,659                       108,321
+Football                                  612,437
+Golf                                      162,799                         75,881
+Gymnastics                                 29,252                         10,506
+Soccer                                                                    21,738
+Softball                                                                  14,067
+Swimming and                                                              16,175
+Diving
+Tennis                                     17,286                              0
+Track and Field, X-                        28,836                         12,760
+Country
+Volleyball                                                                19,159
+Wrestling
+Others
+Subtotal All Teams                      1,192,946                       278,607                               0
+Revenue Not Related                                                                                  1,567,772
+to Specific Teams
+Total Revenue                           1,192,946                       278,607                      1,567,772
+
+
+
+
+NCAA Membership Financial Reporting System                                                        Page 38 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                       Reporting Year (FY): 2025
+
+
+18 Other Operating    $3,176,652 Input any operating revenues received by athletics in the report year which
+   Revenue                       cannot be classified into one of the stated categories.
+
+                                  If the figure is greater than 10% of total revenues, please report the top three
+                                  activities included in this category in the comments section.
+
+
+
+                                     Men's Teams Only          Women's Teams Only           Not Allocated by
+                                                                                                Gender
+         Revenues by Source           Other Operating            Other Operating            Other Operating
+                                         Revenue                    Revenue                     Revenue
+Baseball                                           5,000
+Basketball                                            20,000
+Football                                                -445
+Golf
+Gymnastics                                               -94
+Soccer
+Softball
+Swimming and Diving
+Tennis
+Track and Field, X-Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                                    24,461                          0                          0
+Revenue Not Related to Specific                                                                         3,152,191
+Teams
+Total Revenue                                         24,461                          0                 3,152,191
+
+
+
+
+NCAA Membership Financial Reporting System                                                          Page 39 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                     Reporting Year (FY): 2025
+
+
+19 Post-Season Football Expense     $588,415 Input all amounts received related to participation in a post-
+   Reimbursements                            season play game, including:
+
+                                              • Expense reimbursements.
+                                              • Ticket sales.
+                                              • NCAA travel reimbursements
+
+                                              Note: The amounts entered should not include conference
+                                              tournaments or championship revenues.
+
+
+
+                           Men's Teams Only     Women's Teams Only    Not Allocated by Gender
+ Revenues by Source       Post-Season Football   Post-Season Football   Post-Season Football
+                        Expense Reimbursements Expense Reimbursements Expense Reimbursements
+Baseball
+Basketball
+Football                                  588,415
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and Diving
+Tennis
+Track and Field, X-
+Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                        588,415                              0                              0
+Revenue Not Related
+to Specific Teams
+Total Revenue                             588,415                              0                              0
+
+
+
+
+NCAA Membership Financial Reporting System                                                       Page 40 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                      Reporting Year (FY): 2025
+
+
+             Total Operating Revenues                         $194,761,178 Total of Categories 1-19.
+
+
+
+                                        Men's Teams Only       Women's Teams Only         Not Allocated by
+                                                                                              Gender
+         Revenues by Source              Total Operating          Total Operating         Total Operating
+                                            Revenues                 Revenues                Revenues
+Baseball                                            622,647
+Basketball                                       35,275,590                 2,186,498
+Football                                         87,939,659
+Golf                                                966,296                   248,850
+Gymnastics                                          146,041                    96,723
+Soccer                                                                        241,551
+Softball                                                                      615,600
+Swimming and Diving                                                           121,741
+Tennis                                              283,791                   295,562
+Track and Field, X-Country                          268,386                   258,132
+Volleyball                                                                    652,337
+Wrestling                                           270,972
+Others
+Subtotal All Teams                              125,773,382                 4,716,994                        0
+Revenue Not Related to Specific                                                                    64,270,802
+Teams
+Total Revenue                                   125,773,382                 4,716,994              64,270,802
+
+
+
+
+NCAA Membership Financial Reporting System                                                       Page 41 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                     Reporting Year (FY): 2025
+
+
+20 Athletic Total Dollar      $13,337,620 Input the total dollar amount of athletic student-aid for the
+   Student Amount                         reporting year including:
+   Aid                                      • Summer school.
+                                            • Tuition discounts and waivers (unless it is a discount or waiver
+                                              available to the general student body).
+                                            • Aid given to student-athletes who are inactive (medical reasons)
+                                              or no longer eligible (exhausted eligibility).
+                                            • Other expenses related to attendance.
+
+                                            Note: Division I Grants-in-aid equivalencies are calculated by
+                                            using the revenue distribution equivalencies by sport and in
+                                            aggregate. (Athletic grant amount divided by the full grant
+                                            amount). Other expenses related to attendance (also known as cost
+                                            of attendance) should not be included in the grants-in-aid revenue
+                                            distribution equivalencies. Only tuition, fees, living expenses and
+                                            course related books are countable for grants-in-aid revenue
+                                            distribution per Bylaw 20.02.11.
+
+                                            Athletics aid awarded to non-athletes (student-managers, graduate
+                                            assistants, trainers) should be reported as Expenses Not Related to
+                                            Specific Teams. It is permissible to report only dollars in the
+                                            Expenses Not Related to Specific Teams row as long as you have
+                                            reported non- zero entries for Equivalencies, Number of Students,
+                                            and Dollars (all 3 required for at least one sport).
+
+                                            Note: Pell grants are provided by the government, not the
+                                            institution or athletics department, and therefore should be
+                                            excluded from reporting in this category.
+
+                                            Note: This information can be managed within the NCAA's
+                                            Compliance Assistance (CA) software. The equivalencies entered
+                                            into compliance assistance will automatically populate to the
+                                            athletic student aid section within the NCAA Financial Reporting
+                                            System when the CA import feature is selected.
+             Total                 272.86
+             Equivalencies
+             Awarded
+             Total Students           406
+             Receiving Aid
+
+                                      Male Athlete Scholarships
+
+
+
+NCAA Membership Financial Reporting System                                                        Page 42 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                 Reporting Year (FY): 2025
+
+
+         Sport     Athletic Aid         Exhausted        Total Equivalencies Number of       Total Dollar
+                   Equivalency         Eligibility or     Awarded (A+B) Students Receiving Amount
+                       (A)               Medical                             Athletic Aid
+                                      Equivalency (B)
+Baseball                    12.72                   0.34              13.06               30     574,974
+Basketball                     13                   0.5               13.5                14     593,379
+Football                       89                  0.07              89.07               113   4,350,416
+Golf                         4.62                                     4.62                 7     214,574
+Gymnastics                   6.62                  0.14               6.76                11     359,951
+Tennis                       4.77                                     4.77                 9     248,659
+Track and Field,            12.78                  1.55              14.33                25     564,068
+X-Country
+Wrestling                   10.56                                    10.56                21     354,435
+Expenses Not
+Related to
+Specific Teams
+Totals                     154.07                   2.6            156.67                230   7,260,456
+
+                                      Female Athlete Scholarships
+
+         Sport     Athletic Aid         Exhausted     Total Equivalencies Number of       Total Dollar
+                   Equivalency         Eligibility or  Awarded (A+B) Students Receiving Amount
+                       (A)               Medical                          Athletic Aid
+                                      Equivalency (B)
+Basketball                     14                                     14               15     611,501
+Golf                         5.76                                     5.76                 6     275,167
+Gymnastics                     11                     2                13                 13     551,337
+Soccer                      14.92                  0.71              15.63                27     986,953
+Softball                    12.83                  0.75              13.58                26     510,763
+Swimming and                 14.9                  0.28              15.18                37     670,501
+Diving
+Tennis                            8                                      8                 8     322,174
+Track and Field,            18.22                  0.82              19.04                29     887,443
+X-Country
+Volleyball                     11                     1                12                 15     641,036
+Expenses Not
+Related to
+Specific Teams
+Totals                     110.63                  5.56            116.19                176   5,456,875
+NCAA Membership Financial Reporting System                                                  Page 43 of 94
+Reporting Institution: University of Illinois Urbana-Champaign         Reporting Year (FY): 2025
+
+
+                               Not Allocated by Gender Scholarships
+
+     Sport        Athletic Aid Exhausted Eligibility Total Equivalencies Number of      Total
+                 Equivalency (A)   or Medical         Awarded (A+B) Students Receiving Dollar
+                                 Equivalency (B)                         Athletic Aid  Amount
+Expenses Not                                                                            620,289
+Related to
+Specific Teams
+Totals                         0                     0            0                0    620,289
+
+
+
+
+NCAA Membership Financial Reporting System                                         Page 44 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                     Reporting Year (FY): 2025
+
+
+21 Guarantees $2,767,250 Input amounts paid to visiting participating institutions, including per diems and/or
+                         travel and meal expenses. This includes payments made due to game cancellations.
+
+
+
+                                   Men's Teams Only Women's Teams Only Not Allocated by Gender
+ Expenses by Object of Expenditure   Guarantees        Guarantees            Guarantees
+Baseball                                      9,500
+Basketball                                          415,000                 160,000
+Football                                          2,175,000
+Golf
+Gymnastics
+Soccer                                                                        2,000
+Softball                                                                      5,750
+Swimming and Diving
+Tennis
+Track and Field, X-Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                                2,599,500                 167,750                          0
+Expenses Not Related to Specific Teams
+Total Expenses                                    2,599,500                 167,750                          0
+
+
+
+
+NCAA Membership Financial Reporting System                                                       Page 45 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                    Reporting Year (FY): 2025
+
+
+22 Coaching Salaries, Benefits $35,517,131 Input compensation, bonuses and benefits paid to all coaches
+   and Bonuses paid by the                 reportable on the university or related entities W-2 and 1099
+   University and Related                  forms, as well as non-taxable benefits (1098T), inclusive of:
+   Entities
+                                           • Gross wages and bonuses.
+                                           • Taxable and non-taxable benefits include allowances, speaking
+                                              fees, retirement, stipends, memberships, media income, tuition
+                                              reimbursement/exemptions (for self or a dependent) and earned
+                                              deferred compensation, including those funded by the state.
+
+                                           Place any severance payments in Category 26.
+
+                                           Note: Bonuses related to participation in a post-season game
+                                           should be included in Category 41A or 42A respectively.
+23 Coaching Salaries, Benefits          $0 Input compensation, bonuses and benefits paid to all coaches by a
+   and Bonuses paid by a                   third party and contractually guaranteed by the institution, but not
+   Third Party                             included on the institutions W-2, as well as any non-taxable
+                                           benefits, including:
+
+                                           • Car stipend.
+                                           • Country club membership.
+                                           • Allowances for clothing, housing, and entertainment.
+                                           • Speaking fees.
+                                           • Camp compensation.
+                                           • Media income.
+                                           • Shoe and apparel income.
+
+                                           Expense Category 23 and 25 should equal Category 10.
+
+                                           Note: Bonuses related to participation in a post-season game
+                                           should be included in Category 41A or 42A respectively.
+
+                                  Men's Teams Coaching Expenses
+
+                      Men's Teams Head Coaches                   Men's Teams Assistant Coaches
+    Sport     Numbe FTE      Coaching        Coaching Numbe FTE           Coaching       Coaching
+               r of      Salaries, Benefits   Salaries,   r of       Salaries, Benefits   Salaries,
+              Positio      and Bonuses      Benefits and Positio        and Bonuses     Benefits and
+                ns          paid by the     Bonuses paid   ns            paid by the    Bonuses paid
+                          University and     by a Third                University and    by a Third
+                         Related Entities      Party                  Related Entities     Party
+Baseball            1  1           534,395              0      3   3           469,227               0
+Basketball          1    1        6,544,281                0       5     5         2,938,434                  0
+
+NCAA Membership Financial Reporting System                                                       Page 46 of 94
+Reporting Institution: University of Illinois Urbana-Champaign               Reporting Year (FY): 2025
+
+
+                       Men's Teams Head Coaches                   Men's Teams Assistant Coaches
+    Sport      Numbe FTE      Coaching        Coaching Numbe FTE           Coaching       Coaching
+                r of      Salaries, Benefits   Salaries,   r of       Salaries, Benefits   Salaries,
+               Positio      and Bonuses      Benefits and Positio        and Bonuses     Benefits and
+                 ns          paid by the     Bonuses paid   ns            paid by the    Bonuses paid
+                           University and     by a Third                University and    by a Third
+                          Related Entities      Party                  Related Entities     Party
+Football             1  1        7,362,819               0    14 14           8,183,844               0
+Golf                1    1         588,344                0       2   2         130,016              0
+Gymnastics          1    1         186,840                0       3   2         135,883              0
+Tennis              1    1         368,973                0       2   1         168,029              0
+Track and           1 0.5          242,453                0      12 4.5         293,124              0
+Field, X-
+Country
+Wrestling           1    1         251,499                0       3   3         375,980              0
+Subtotal All        8 7.5        16,079,604               0      44 34.5     12,694,537              0
+Teams
+Expenses Not
+Related to
+Specific
+Teams
+Total                            16,079,604               0                  12,694,537              0
+Expenses
+
+                                Women's Teams Coaching Expenses
+
+                       Women's Teams Head Coaches                Women's Teams Assistant Coaches
+    Sport      Numbe FTE       Coaching        Coaching Numbe FTE         Coaching        Coaching
+                r of       Salaries, Benefits   Salaries,   r of      Salaries, Benefits   Salaries,
+               Positio       and Bonuses      Benefits and Positio      and Bonuses      Benefits and
+                 ns           paid by the     Bonuses paid   ns          paid by the     Bonuses paid
+                            University and     by a Third              University and     by a Third
+                           Related Entities      Party                Related Entities      Party
+Basketball           1   1        1,262,423               0      5  5        1,134,636                0
+Golf                1    1         199,844                0       2   2         101,758              0
+Gymnastics          1    1         211,444                0       3   2          83,722              0
+Soccer              1    1         481,505                0       3   2         242,498              0
+Softball            1    1         263,725                0       3   3         309,437              0
+Swimming            1    1         178,774                0       3   3         212,654              0
+and Diving
+
+NCAA Membership Financial Reporting System                                                Page 47 of 94
+Reporting Institution: University of Illinois Urbana-Champaign               Reporting Year (FY): 2025
+
+
+                       Women's Teams Head Coaches                Women's Teams Assistant Coaches
+    Sport      Numbe FTE       Coaching        Coaching Numbe FTE         Coaching        Coaching
+                r of       Salaries, Benefits   Salaries,   r of      Salaries, Benefits   Salaries,
+               Positio       and Bonuses      Benefits and Positio      and Bonuses      Benefits and
+                 ns           paid by the     Bonuses paid   ns          paid by the     Bonuses paid
+                            University and     by a Third              University and     by a Third
+                           Related Entities      Party                Related Entities      Party
+Tennis               1   1           271,167              0      2  1           150,516               0
+Track and           1    1         329,948                0      12 4.5         367,392              0
+Field, X-
+Country
+Volleyball          1    1         479,990                0       3   3         461,557              0
+Subtotal All        9    9        3,678,820               0      36 25.5      3,064,170              0
+Teams
+Expenses Not
+Related to
+Specific
+Teams
+Total                             3,678,820               0                   3,064,170              0
+Expenses
+
+
+
+
+NCAA Membership Financial Reporting System                                                Page 48 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                       Reporting Year (FY): 2025
+
+
+24 Support Staff/          $31,963,461 Input compensation, bonuses and benefits paid to all administrative
+   Administrative                      and support staff reportable on the university or related entities (e.g.
+   Compensation, Benefits              foundations or booster clubs) W-2 and 1099 forms, as well as any
+   and Bonuses paid by the             non-taxable benefits, inclusive of:
+   University and Related              • Gross wages and bonuses.
+   Entities
+                                       • Benefits including allowances, speaking fees, retirement, stipends,
+                                         memberships, media income, tuition reimbursement/exemptions
+                                         and earned deferred compensation, including those funded by the
+                                         state.
+
+                                          Staff members responsible for the gender-specific athletics
+                                          department, but not a specific sport (i.e., director of men's athletics),
+                                          will have their compensation figures reported as Expenses Not
+                                          Related to Specific Teams fields. Athletics department staff members
+                                          who assist both men's and women's teams (sports information
+                                          director, academic advisor) will be reported as Not Allocated by
+                                          Gender column.
+25 Support Staff/                     $0 Input compensation, bonuses and benefits paid to administrative and
+   Administrative                        support staff by a third party and contractually guaranteed by the
+   Compensation, Benefits                institution, but not included on the institutions W-2, as well as non-
+   and Bonuses paid by                   taxable benefits, including:
+   Third Party                            • Car stipend.
+                                          • Country club membership.
+                                          • Allowances for clothing, housing, entertainment.
+                                          • Speaking fees.
+                                          • Camps compensation.
+                                          • Media income.
+                                          • Shoe and apparel income.
+
+                                          Expense Category 23 and 25 should equal Category 10.
+
+
+
+
+NCAA Membership Financial Reporting System                                                           Page 49 of 94
+Reporting Institution: University of Illinois Urbana-Champaign             Reporting Year (FY): 2025
+
+
+                 Men's Teams Only            Women's Teams Only           Not Allocated by Gender
+Expenses by Support Staff/ Support Staff/ Support Staff/ Support Staff/ Support Staff/ Support Staff/
+ Object of Administrative Administrative Administrative Administrative Administrative Administrative
+Expenditure Compensation, Compensation, Compensation, Compensation, Compensation, Compensation,
+             Benefits and Benefits and Benefits and Benefits and Benefits and Benefits and
+             Bonuses paid Bonuses paid Bonuses paid Bonuses paid Bonuses paid Bonuses paid
+                by the     by Third Party     by the     by Third Party     by the     by Third Party
+            University and                University and                University and
+               Related                       Related                       Related
+               Entities                      Entities                      Entities
+Baseball           127,448              0
+Basketball        1,670,261               0         596,077          0
+Football          5,875,316               0
+Golf                122,301               0          68,030          0
+Gymnastics           89,963               0         119,385          0
+Soccer                                              131,571          0
+Softball                                            106,473          0
+Swimming                                             92,897          0
+and Diving
+Tennis               70,181               0          72,545          0
+Track and           109,990               0         106,108          0
+Field, X-
+Country
+Volleyball                                          119,646          0
+Wrestling           124,794               0
+Others
+Subtotal All      8,190,254               0       1,412,732          0               0              0
+Teams
+Expenses                                                                    22,360,475              0
+Not Related
+to Specific
+Teams
+Total             8,190,254               0       1,412,732          0      22,360,475              0
+Expenses
+
+
+
+
+NCAA Membership Financial Reporting System                                               Page 50 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                  Reporting Year (FY): 2025
+
+
+26 Severance         $546,909 Input severance payments and applicable benefits recognized for past coaching
+   Payments                   and administrative personnel.
+
+
+
+                                    Men's Teams Only Women's Teams OnlyNot Allocated by Gender
+ Expenses by Object of Expenditure Severance Payments Severance Payments Severance Payments
+Baseball
+Basketball                                                                131,673
+Football                                            175,000
+Golf
+Gymnastics                                                                 59,783
+Soccer                                                                     91,667
+Softball
+Swimming and Diving
+Tennis
+Track and Field, X-Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                                  175,000               283,123                         0
+Expenses Not Related to Specific                                                                     88,786
+Teams
+Total Expenses                                      175,000               283,123                    88,786
+
+
+
+
+NCAA Membership Financial Reporting System                                                     Page 51 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                     Reporting Year (FY): 2025
+
+
+27 Recruiting $3,563,849 Input transportation, lodging and meals for prospective student-athletes and
+                         institutional personnel on official and unofficial visits, telephone call charges,
+                         postage and such. Include value of use of institution's own vehicles or airplanes as
+                         well as in-kind value of loaned or contributed transportation.
+
+
+
+                                   Men's Teams Only Women's Teams Only Not Allocated by Gender
+ Expenses by Object of Expenditure    Recruiting       Recruiting             Recruiting
+Baseball                                      46,939
+Basketball                                           902,924                354,039
+Football                                           1,663,605
+Golf                                                  35,690                 27,847
+Gymnastics                                            17,916                 28,269
+Soccer                                                                       96,827
+Softball                                                                     65,060
+Swimming and Diving                                                          33,592
+Tennis                                                59,646                 49,610
+Track and Field, X-Country                            34,249                 62,168
+Volleyball                                                                   45,679
+Wrestling                                             39,789
+Others
+Subtotal All Teams                                 2,800,758                763,091                             0
+Expenses Not Related to Specific Teams
+Total Expenses                                     2,800,758                763,091                             0
+
+
+
+
+NCAA Membership Financial Reporting System                                                        Page 52 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                    Reporting Year (FY): 2025
+
+
+28 Team $8,863,220 Input air travel, ground travel, lodging, meals, and incidentals (including housing costs
+   Trave           incurred during school break period) for competition related to preseason and regular
+   l               season. Amounts incurred for food, lodging for housing the team before a home game,
+                   use of the institution’s own vehicles, airplanes, or in-kind value of donor-provided
+                   transportation should be included.
+
+                      Note: Expenses related to post-season play should be included in Categories 41 or 42
+                      respectively.
+
+
+
+                                   Men's Teams Only Women's Teams Only Not Allocated by Gender
+ Expenses by Object of Expenditure   Team Travel       Team Travel           Team Travel
+Baseball                                    463,310
+Basketball                                        2,296,987              1,235,505
+Football                                          2,412,991
+Golf                                                417,878                113,818
+Gymnastics                                           51,320                104,049
+Soccer                                                                     122,424
+Softball                                                                   227,281
+Swimming and Diving                                                        116,520
+Tennis                                              117,953                116,669
+Track and Field, X-Country                          311,976                330,339
+Volleyball                                                                 314,453
+Wrestling                                           109,747
+Others
+Subtotal All Teams                                6,182,162              2,681,058                             0
+Expenses Not Related to Specific Teams
+Total Expenses                                    6,182,162              2,681,058                             0
+
+
+
+
+NCAA Membership Financial Reporting System                                                       Page 53 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                    Reporting Year (FY): 2025
+
+
+29 Sports Equipment       $2,585,157 Input items that are provided to the teams only. Equipment amounts are
+   Uniforms and                      those expended from current or operating funds. Include value of in-
+   Supplies                          kind equipment provided.
+
+                                     Note: Expenses related to post-season play should be included in
+                                     Categories 41 or 42 respectively.
+
+
+
+                            Men's Teams Only      Women's Teams Only              Not Allocated by Gender
+ Expenses by Object of      Sports Equipment       Sports Equipment                  Sports Equipment
+     Expenditure           Uniforms and Supplies  Uniforms and Supplies            Uniforms and Supplies
+Baseball                                  108,208
+Basketball                                  165,969                     191,772
+Football                                   1,073,290
+Golf                                          51,249                     40,919
+Gymnastics                                    60,122                     72,490
+Soccer                                                                   76,184
+Softball                                                                 82,171
+Swimming and Diving                                                      74,863
+Tennis                                        71,302                     67,254
+Track and Field, X-                         126,871                     132,661
+Country
+Volleyball                                                               82,939
+Wrestling                                     72,251
+Others
+Subtotal All Teams                         1,729,262                    821,253                             0
+Expenses Not Related to                                                                                 34,642
+Specific Teams
+Total Expenses                             1,729,262                    821,253                         34,642
+
+
+
+
+NCAA Membership Financial Reporting System                                                     Page 54 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                    Reporting Year (FY): 2025
+
+
+30 Game $4,488,756 Input game-day expenses other than travel which are necessary for intercollegiate
+   Expense         athletics competition, including officials, security, event staff, ambulance, etc. Input
+   s               any payments back to the conference for hosting a tournament.
+
+                        Note: Expenses related to post-season play should be included in Categories 41 or 42
+                        respectively.
+
+
+
+                                         Men's Teams Only Women's Teams Only Not Allocated by Gender
+ Expenses by Object of Expenditure        Game Expenses     Game Expenses        Game Expenses
+Baseball                                          161,369
+Basketball                                          929,681                333,796
+Football                                          2,461,244
+Golf                                                       0                32,186
+Gymnastics                                           11,020                 36,203
+Soccer                                                                      39,662
+Softball                                                                    90,120
+Swimming and Diving                                                          5,263
+Tennis                                               43,924                 72,876
+Track and Field, X-Country                           89,060                 83,216
+Volleyball                                                                  67,239
+Wrestling                                            31,897
+Others
+Subtotal All Teams                                3,728,195                760,561                             0
+Expenses Not Related to Specific Teams
+Total Expenses                                    3,728,195                760,561                             0
+
+
+
+
+NCAA Membership Financial Reporting System                                                      Page 55 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                    Reporting Year (FY): 2025
+
+
+31 Fund Raising, Marketing $21,888,016 Input costs associated with fund raising, marketing and promotion
+   and Promotion                       for media guides, brochures, recruiting publications and such.
+
+
+
+                            Men's Teams Only       Women's Teams Only Not Allocated by Gender
+ Expenses by Object of    Fund Raising, Marketing Fund Raising, Marketing Fund Raising, Marketing
+      Expenditure             and Promotion           and Promotion           and Promotion
+Baseball                                    2,300
+Basketball                                   23,000                       6,185
+Football
+Golf                                        222,458                     11,190
+Gymnastics                                         0                          0
+Soccer
+Softball                                                                  4,370
+Swimming and Diving                                                       1,672
+Tennis                                         1,876
+Track and Field, X-
+Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                          249,634                     23,417                             0
+Expenses Not Related to                                                                         21,614,965
+Specific Teams
+Total Expenses                              249,634                     23,417                  21,614,965
+
+
+
+
+NCAA Membership Financial Reporting System                                                    Page 56 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                      Reporting Year (FY): 2025
+
+
+32 Sports        $276,292 Input all expenses paid by the athletics department, including non-athletics
+   Camp                   personnel salaries and benefits, from hosting sports camps and clinics. Athletics
+   Expenses               personnel salaries and benefits should be reported in Categories 22-25.
+
+
+
+                                         Men's Teams Only Women's Teams Only              Not Allocated by
+                                                                                               Gender
+Expenses by Object of Expenditure           Sports Camp             Sports Camp         Sports Camp Expenses
+                                              Expenses                Expenses
+Baseball
+Basketball                                                                      1,048
+Football                                                 6,228
+Golf                                                   22,865
+Gymnastics                                             41,416
+Soccer
+Softball
+Swimming and Diving                                                               160
+Tennis                                                                         98,898
+Track and Field, X-Country
+Volleyball
+Wrestling                                              91,506
+Others
+Subtotal All Teams                                    162,015                 100,106                         0
+Expenses Not Related to Specific                                                                         14,171
+Teams
+Total Expenses                                        162,015                 100,106                    14,171
+
+
+
+
+NCAA Membership Financial Reporting System                                                        Page 57 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                     Reporting Year (FY): 2025
+
+
+33 Spirit        $602,736 Include support for spirit groups including bands, cheerleaders, mascots, dancers,
+   Groups                 etc.
+
+                           Note: Expenses related to post-season play should be included in Categories 41 or
+                           42 respectively.
+
+
+
+                                   Men's Teams Only Women's Teams Only Not Allocated by Gender
+ Expenses by Object of Expenditure  Spirit Groups     Spirit Groups         Spirit Groups
+Baseball
+Basketball
+Football
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and Diving
+Tennis
+Track and Field, X-Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                                         0                       0                           0
+Expenses Not Related to Specific Teams                                                                 602,736
+Total Expenses                                             0                       0                   602,736
+
+
+
+
+NCAA Membership Financial Reporting System                                                        Page 58 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                         Reporting Year (FY): 2025
+
+
+34 Athletic Facilities   $17,770,740 Input debt service payments (principal and interest, including internal
+   Debt Service,                     loan programs), leases and rental fees for athletics facilities for the
+   Leases and Rental                 reporting year regardless of entity paying (athletics, institution or other).
+   Fee
+                                      Do not report depreciation.
+
+                                      Note: If the institution is paying for all debt service, leases, or rental fees
+                                      for athletic facilities but not charging to athletics, this category should
+                                      equal Category 6A. If athletics or other entities are paying these
+                                      expenses or the institution is charging directly to athletics, this category
+                                      will not equal Category 6A.
+
+
+
+                        Men's Teams Only         Women's Teams Only        Not Allocated by Gender
+ Expenses by Object   Athletic Facilities Debt   Athletic Facilities Debt   Athletic Facilities Debt
+   of Expenditure   Service, Leases and Rental Service, Leases and Rental Service, Leases and Rental
+                                Fee                        Fee                        Fee
+Baseball
+Basketball
+Football
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and
+Diving
+Tennis
+Track and Field, X-
+Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                                 0                               0                               0
+Expenses Not Related                                                                                     17,770,740
+to Specific Teams
+Total Expenses                                     0                               0                     17,770,740
+
+
+
+
+NCAA Membership Financial Reporting System                                                            Page 59 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                   Reporting Year (FY): 2025
+
+
+35 Direct Overhead and            $15,533,515 Input overhead and administrative expenses paid by or
+   Administrative Expenses                    charged directly to athletics including:
+
+                                               • Administrative/Overhead fees charged by the institution to
+                                                 athletics.
+                                               • Security.
+                                               • Risk Management.
+                                               • Other Administrative Expenses.
+
+
+
+
+                        Men's Teams Only       Women's Teams Only                Not Allocated by Gender
+Expenses by Object of  Direct Overhead and     Direct Overhead and                Direct Overhead and
+    Expenditure       Administrative Expenses Administrative Expenses            Administrative Expenses
+Baseball                               101,050
+Basketball                                 354,268                    162,178
+Football                                 1,064,675
+Golf                                        87,619                      20,803
+Gymnastics                                  29,311                      21,988
+Soccer                                                                  45,015
+Softball                                                                43,516
+Swimming and Diving                                                     88,293
+Tennis                                      14,040                      24,396
+Track and Field, X-                        144,026                    136,375
+Country
+Volleyball                                                              35,175
+Wrestling                                   61,943
+Others
+Subtotal All Teams                       1,856,932                    577,739                            0
+Expenses Not Related                                                                            13,098,844
+to Specific Teams
+Total Expenses                           1,856,932                    577,739                   13,098,844
+
+
+
+
+NCAA Membership Financial Reporting System                                                    Page 60 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                      Reporting Year (FY): 2025
+
+
+35A Facilities Maintenance and $7,954,285 Input facilities maintenance and operations expenses paid by or
+    Operations                            charged directly to athletics including:
+
+                                            • Facilities maintenance.
+                                            • Utilities.
+                                            • Equipment Repair.
+
+
+
+
+                              Men's Teams Only       Women's Teams Only             Not Allocated by Gender
+ Expenses by Object of      Facilities Maintenance   Facilities Maintenance          Facilities Maintenance
+      Expenditure              and Operations           and Operations                  and Operations
+Baseball                                     400,691
+Basketball                                   244,747                     232,102
+Football                                   4,275,679
+Golf                                          40,137                      40,137
+Gymnastics                                    76,654                      76,250
+Soccer                                                                   105,637
+Softball                                                                 373,555
+Swimming and Diving                                                       21,509
+Tennis                                       151,238                     151,238
+Track and Field, X-                           61,889                      61,629
+Country
+Volleyball                                                               131,299
+Wrestling                                    134,695
+Others
+Subtotal All Teams                         5,385,730                    1,193,356                           0
+Expenses Not Related to                                                                            1,375,199
+Specific Teams
+Total Expenses                             5,385,730                    1,193,356                  1,375,199
+
+
+
+
+NCAA Membership Financial Reporting System                                                      Page 61 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                     Reporting Year (FY): 2025
+
+
+36 Indirect Institutional    $0 Input overhead and administrative expenses NOT paid by or charged directly
+   Support                      to athletics including:
+
+                                • Administrative/Overhead fees not charged by the institution to athletics.
+                                • Facilities maintenance.
+                                • Security.
+                                • Risk Management.
+                                • Utilities.
+                                • Equipment Repair.
+                                • Telephone.
+                                • Other Administrative Expenses.
+
+                                Do not report depreciation.
+
+                                Note: This category should equal Category 6.
+
+
+
+                                   Men's Teams Only            Women's Teams Only Not Allocated by Gender
+   Expenses by Object of          Indirect Institutional       Indirect Institutional Indirect Institutional
+         Expenditure                    Support                      Support                Support
+Baseball
+Basketball
+Football
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and Diving
+Tennis
+Track and Field, X-Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                                         0                       0                          0
+Expenses Not Related to
+Specific Teams
+Total Expenses                                             0                       0                          0
+
+
+
+NCAA Membership Financial Reporting System                                                        Page 62 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                Reporting Year (FY): 2025
+
+
+37 Medical Expenses and        $2,258,590 Input medical expenses and medical insurance premiums for
+   Insurance                              student-athletes.
+
+
+
+                                Men's Teams Only     Women's Teams Only Not Allocated by Gender
+   Expenses by Object of       Medical Expenses and Medical Expenses and Medical Expenses and
+         Expenditure                Insurance            Insurance             Insurance
+Baseball                                       5,790
+Basketball                                       5,940                   7,425
+Football                                        62,604
+Golf                                             9,999                       0
+Gymnastics                                         600                   1,920
+Soccer                                                                   3,540
+Softball                                                                 7,912
+Swimming and Diving                                                          0
+Tennis                                           5,000                   4,140
+Track and Field, X-Country                       5,850                   5,850
+Volleyball                                                               3,809
+Wrestling                                        1,680
+Others
+Subtotal All Teams                              97,463                  34,596                        0
+Expenses Not Related to                                                                        2,126,531
+Specific Teams
+Total Expenses                                  97,463                  34,596                 2,126,531
+
+
+
+
+NCAA Membership Financial Reporting System                                                 Page 63 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                 Reporting Year (FY): 2025
+
+
+38         Memberships and Dues          $303,236 Input memberships, conference and association dues.
+
+
+
+                                      Men's Teams Only        Women's Teams Only       Not Allocated by
+                                                                                           Gender
+Expenses by Object of Expenditure      Memberships and           Memberships and     Memberships and Dues
+                                           Dues                      Dues
+Baseball                                                  0
+Basketball                                          27,188                  14,413
+Football                                            37,316
+Golf                                                12,355                  10,675
+Gymnastics                                           2,181                   2,550
+Soccer                                                                        151
+Softball                                                                     1,049
+Swimming and Diving                                                           905
+Tennis                                               9,359                   9,409
+Track and Field, X-Country                             576                    579
+Volleyball                                                                   8,072
+Wrestling                                              634
+Others
+Subtotal All Teams                                  89,609                  47,803                       0
+Expenses Not Related to Specific                                                                  165,824
+Teams
+Total Expenses                                      89,609                  47,803                165,824
+
+
+
+
+NCAA Membership Financial Reporting System                                                    Page 64 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                    Reporting Year (FY): 2025
+
+
+39 Student-Athlete Meals (non-    $4,459,569 Include meal allowance and food/snacks provided to student-
+   travel)                                   athletes.
+
+                                             Note: Meals provided during team travel should be reported in
+                                             Category 28.
+
+
+
+                              Men's Teams Only      Women's Teams Only             Not Allocated by Gender
+ Expenses by Object of      Student-Athlete Meals   Student-Athlete Meals           Student-Athlete Meals
+      Expenditure                (non-travel)            (non-travel)                    (non-travel)
+Baseball                                    133,674
+Basketball                                   218,562                    145,383
+Football                                   2,578,792
+Golf                                          29,378                     36,504
+Gymnastics                                    90,757                     97,948
+Soccer                                                                  118,190
+Softball                                                                115,577
+Swimming and Diving                                                     156,584
+Tennis                                        37,578                     38,499
+Track and Field, X-                          186,996                    186,713
+Country
+Volleyball                                                               85,062
+Wrestling                                    126,276
+Others
+Subtotal All Teams                         3,402,013                    980,460                              0
+Expenses Not Related to                                                                             77,096
+Specific Teams
+Total Expenses                             3,402,013                    980,460                     77,096
+
+
+
+
+NCAA Membership Financial Reporting System                                                    Page 65 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                       Reporting Year (FY): 2025
+
+
+40 Other Operating    $6,802,815 Input any operating expenses paid by athletics in the report year which
+   Expenses                      cannot be classified into one of the stated categories, including:
+
+                                   • Non-team travel (conferences, etc.).
+                                   • Team banquets and awards.
+
+                                   If the figure is greater than 10% of total expenses, please report the top three
+                                   activities included in this category in the comments section.
+
+
+
+                                      Men's Teams Only         Women's Teams Only           Not Allocated by
+                                                                                                Gender
+     Expenses by Object of             Other Operating            Other Operating           Other Operating
+         Expenditure                      Expenses                   Expenses                  Expenses
+Baseball                                           37,297
+Basketball                                           676,044                     56,482
+Football                                           1,176,075
+Golf                                                  21,995                     19,101
+Gymnastics                                            13,772                      7,517
+Soccer                                                                           50,163
+Softball                                                                         10,819
+Swimming and Diving                                                              14,624
+Tennis                                               158,854                      6,802
+Track and Field, X-Country                            11,095                     15,135
+Volleyball                                                                       16,711
+Wrestling                                             11,315
+Others
+Subtotal All Teams                                 2,106,447                    197,354                          0
+Expenses Not Related to Specific                                                                        4,499,014
+Teams
+Total Expenses                                     2,106,447                    197,354                 4,499,014
+
+
+
+
+NCAA Membership Financial Reporting System                                                           Page 66 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                     Reporting Year (FY): 2025
+
+
+41 Post-Season       $2,829,500 Input all expenditures related to participation in a post-season football game,
+   Football                     including:
+   Expenses
+                                 • Team travel, lodging and meal expenses, including NCAA tournaments.
+                                 • Bonuses related to participation.
+                                 • Spirit groups.
+                                 • Uniforms.
+
+                                 Note: All post-season football play-related coaching compensation/bonuses
+                                 and host settlements should be reported in Category 41A and 41B,
+                                 respectively. Entries should not include conference tournaments or
+                                 championships.
+
+
+
+                                  Men's Teams Only          Women's Teams Only Not Allocated by Gender
+   Expenses by Object of         Post-Season Football       Post-Season Football Post-Season Football
+         Expenditure                   Expenses                   Expenses             Expenses
+Baseball
+Basketball
+Football                                        2,829,500
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and Diving
+Tennis
+Track and Field, X-Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                              2,829,500                          0                          0
+Expenses Not Related to
+Specific Teams
+Total Expenses                                  2,829,500                          0                          0
+
+
+
+
+NCAA Membership Financial Reporting System                                                        Page 67 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                  Reporting Year (FY): 2025
+
+
+41A Post-Season Football Expenses – Coaching $911,087 Input all coaching bonuses related to participation
+    Compensation/ Bonuses                             in a post-season football game.
+
+                                                         Note: Entries should not include conference
+                                                         tournaments or championships.
+
+
+
+                        Men's Teams Only            Women's Teams Only          Not Allocated by Gender
+   Expenses by         Post-Season Football         Post-Season Football         Post-Season Football
+    Object of          Expenses – Coaching          Expenses – Coaching          Expenses – Coaching
+   Expenditure        Compensation/ Bonuses        Compensation/ Bonuses        Compensation/ Bonuses
+Baseball
+Basketball
+Football                                911,087
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and
+Diving
+Tennis
+Track and Field, X-
+Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                      911,087                             0                               0
+Expenses Not
+Related to Specific
+Teams
+Total Expenses                          911,087                             0                               0
+
+
+
+
+NCAA Membership Financial Reporting System                                                    Page 68 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                   Reporting Year (FY): 2025
+
+
+41B NCAA Football Host Expense         $0 Input expenses incurred for hosting a NCAA football tournament
+    Settlements                           or championship.
+
+
+
+                             Men's Teams Only          Women's Teams Only        Not Allocated by Gender
+ Expenses by Object of      NCAA Football Host         NCAA Football Host         NCAA Football Host
+     Expenditure            Expense Settlements        Expense Settlements        Expense Settlements
+Baseball
+Basketball
+Football
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and Diving
+Tennis
+Track and Field, X-
+Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                                 0                         0                             0
+Expenses Not Related to
+Specific Teams
+Total Expenses                                     0                         0                             0
+
+
+
+
+NCAA Membership Financial Reporting System                                                   Page 69 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                    Reporting Year (FY): 2025
+
+
+42 NCAA Post-Season Non- $1,334,408 Input all expenditures related to participation in a non-football post-
+   Football Expenses                season championship game, including:
+
+                                         • Team travel, lodging and meal expenses, including NCAA
+                                           tournaments.
+                                         • Bonuses related to participation.
+                                         • Spirit groups.
+                                         • Uniforms.
+
+                                         Note: All post-season non-football play-related coaching
+                                         compensation/bonuses and host settlements should be reported in
+                                         Category 42A and 42B, respectively.
+
+
+
+                        Men's Teams Only      Women's Teams Only                  Not Allocated by Gender
+Expenses by Object of NCAA Post-Season Non- NCAA Post-Season Non-                 NCAA Post-Season Non-
+     Expenditure        Football Expenses      Football Expenses                     Football Expenses
+Baseball                                3,990
+Basketball                                  422,181                     165,975
+Football
+Golf                                         47,680                       4,576
+Gymnastics                                   21,167                      79,864
+Soccer
+Softball
+Swimming and Diving                                                      30,750
+Tennis                                       18,960                      22,311
+Track and Field, X-                         175,315                     244,258
+Country
+Volleyball                                                               25,227
+Wrestling                                    72,154
+Others
+Subtotal All Teams                          761,447                     572,961                               0
+Expenses Not Related
+to Specific Teams
+Total Expenses                              761,447                     572,961                               0
+
+
+
+
+NCAA Membership Financial Reporting System                                                     Page 70 of 94
+Reporting Institution: University of Illinois Urbana-Champaign               Reporting Year (FY): 2025
+
+
+42A NCAA Post-Season Non-Football Expenses – $697,275 Input all coaching bonuses related to
+    Coaching Compensation/ Bonuses                    participation in a non-football post-season
+                                                      game.
+
+
+
+                      Men's Teams Only            Women's Teams Only        Not Allocated by Gender
+  Expenses by       NCAA Post-Season Non-        NCAA Post-Season Non-      NCAA Post-Season Non-
+   Object of          Football Expenses –          Football Expenses –        Football Expenses –
+  Expenditure       Coaching Compensation/       Coaching Compensation/     Coaching Compensation/
+                           Bonuses                      Bonuses                     Bonuses
+Baseball
+Basketball                             140,000                    166,000
+Football
+Golf                                    61,160                     18,834
+Gymnastics                                                         17,480
+Soccer
+Softball
+Swimming and
+Diving
+Tennis                                  25,454                     22,902
+Track and Field,                       105,000                    105,000
+X-Country
+Volleyball
+Wrestling                               35,445
+Others
+Subtotal All                           367,059                    330,216                             0
+Teams
+Expenses Not
+Related to
+Specific Teams
+Total Expenses                         367,059                    330,216                             0
+
+
+
+
+NCAA Membership Financial Reporting System                                                Page 71 of 94
+Reporting Institution: University of Illinois Urbana-Champaign               Reporting Year (FY): 2025
+
+
+42B NCAA Non-Football Host Expense $37,060 Input expenses incurred for hosting a non-football NCAA
+    Settlements                            tournament or championship.
+
+
+
+                         Men's Teams Only     Women's Teams Only    Not Allocated by Gender
+Expenses by Object of NCAA Non-Football Host NCAA Non-Football Host NCAA Non-Football Host
+    Expenditure         Expense Settlements    Expense Settlements    Expense Settlements
+Baseball
+Basketball
+Football
+Golf                                        37,060
+Gymnastics
+Soccer
+Softball
+Swimming and Diving
+Tennis
+Track and Field, X-
+Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                          37,060                       0                           0
+Expenses Not Related
+to Specific Teams
+Total Expenses                              37,060                       0                           0
+
+
+
+
+NCAA Membership Financial Reporting System                                               Page 72 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                     Reporting Year (FY): 2025
+
+
+43 Enhanced Educational    $2,567,061 Input any academic or graduation awards or incentives (Alston or
+   Benefits (Alston or                other) paid by the institution within the reporting year that would not
+   other)                             be included in the cost of attendance calculation.
+
+
+
+                         Men's Teams Only         Women's Teams Only        Not Allocated by Gender
+Expenses by Object of Enhanced Educational        Enhanced Educational       Enhanced Educational
+    Expenditure       Benefits (Alston or other) Benefits (Alston or other) Benefits (Alston or other)
+Baseball                                 179,400
+Basketball                                  50,830                        83,720
+Football                                   592,969
+Golf                                        38,870                        41,860
+Gymnastics                                 101,660                      125,580
+Soccer                                                                  173,420
+Softball                                                                137,540
+Swimming and Diving                                                     197,340
+Tennis                                      44,850                        53,820
+Track and Field, X-                        218,962                      245,180
+Country
+Volleyball                                                                95,680
+Wrestling                                  185,380
+Others
+Subtotal All Teams                       1,412,921                    1,154,140                                 0
+Expenses Not Related
+to Specific Teams
+Total Expenses                           1,412,921                    1,154,140                                 0
+
+
+
+
+NCAA Membership Financial Reporting System                                                       Page 73 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                       Reporting Year (FY): 2025
+
+
+44 Institutional NIL $0 Input institutional payments to student-athletes for use of Name, Image and Likeness
+   Revenue Share        (NIL) (including from institutional designee or contractor). Please include other direct
+                        institutional payments or additional benefits to student-athletes and/or student-athletes’
+                        families not currently permitted or permitted prior to the House settlement approval.
+                        However, do not include additional scholarships or enhanced educational benefits.
+
+
+
+                                  Men's Teams Only           Women's Teams Only         Not Allocated by Gender
+  Expenses by Object of           Institutional NIL           Institutional NIL            Institutional NIL
+       Expenditure                 Revenue Share               Revenue Share                Revenue Share
+Baseball
+Basketball
+Football
+Golf
+Gymnastics
+Soccer
+Softball
+Swimming and Diving
+Tennis
+Track and Field, X-Country
+Volleyball
+Wrestling
+Others
+Subtotal All Teams                                       0                          0                           0
+Expenses Not Related to
+Specific Teams
+Total Expenses                                           0                          0                           0
+
+
+
+
+NCAA Membership Financial Reporting System                                                          Page 74 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                     Reporting Year (FY): 2025
+
+
+             Total Operating Expenses                      $189,859,538 Total of Categories 20-44.
+
+
+
+                                        Men's Teams Only      Women's Teams Only         Not Allocated by
+                                                                                             Gender
+     Expenses by Object of               Total Operating         Total Operating         Total Operating
+         Expenditure                        Expenses                Expenses                Expenses
+Baseball                                          3,359,562
+Basketball                                       18,619,676               7,052,333
+Football                                         49,268,450
+Golf                                              2,191,628               1,063,249
+Gymnastics                                        1,290,533               1,697,779
+Soccer                                                                    2,767,407
+Softball                                                                  2,355,118
+Swimming and Diving                                                       1,896,901
+Tennis                                            1,615,876               1,555,226
+Track and Field, X-Country                        2,681,500               3,299,994
+Volleyball                                                                2,613,574
+Wrestling                                         2,081,420
+Others
+Subtotal All Teams                               81,108,645              24,301,581                         0
+Expenses Not Related to Specific                                                                 84,449,312
+Teams
+Total Expenses                                   81,108,645              24,301,581              84,449,312
+
+
+
+
+NCAA Membership Financial Reporting System                                                     Page 75 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                         Reporting Year (FY): 2025
+
+
+                                          Athletics Participation
+Table 663 Table 1 - - - Athletics Participation. A participant at an NCAA member institution is defined as a
+1         student who, at any point during the academic year: (a) is listed as a team member; (b) practices
+          with the varsity team and receives coaching from one or more varsity coaches; or (c) receives
+          athletically-related student aid.
+
+             Any student who satisfies one or more of the criteria above is a participant, including a student on a
+             team the institution designates or defines as junior varsity, freshman, or novice, or a student who
+             does not play in a scheduled contest, whether for medical reasons or to preserve eligibility (i.e., a
+             redshirt).
+
+             Student-athletes who participate in more than one sport should be counted in each sport. The Coed
+             Teams column is marked based on the content of the sports sponsored table (Mixed Sports) in the
+             School Info page. Male practice players are NOT to be included as participants in this table.
+
+
+
+                                  Number of Participants Number of Participants Number of Participants
+                                                           Participating on a     Participating on a
+                                                             Second Team            Third Team
+            Sport            Coed  Men's     Women's      Men's      Women's     Men's      Women's
+                             Teams Teams      Teams       Teams       Teams      Teams       Teams
+Baseball                             39
+Basketball                               18           20
+Cross Country                            17           15           17            15           17           15
+Football                                128
+Golf                                     10           12
+Gymnastics                               23           25
+Soccer                                                30
+Softball                                              31
+Swimming and Diving                                   40
+Tennis                                   11           11
+Track, Indoor                            45           42           45            43           12           15
+Track, Outdoor                           45           43           45            42           12           15
+Volleyball                                            22
+Wrestling                                36
+Others
+Total Participants                      372          291           107          100           41           45
+Participant Proportion                 56.1%        43.9%
+
+
+NCAA Membership Financial Reporting System                                                            Page 76 of 94
+Reporting Institution: University of Illinois Urbana-Champaign            Reporting Year (FY): 2025
+
+
+                               Number of Participants Number of Participants Number of Participants
+                                                        Participating on a     Participating on a
+                                                          Second Team            Third Team
+         Sport            Coed  Men's     Women's      Men's      Women's     Men's      Women's
+                          Teams Teams      Teams       Teams       Teams      Teams       Teams
+Unduplicated Count of            312        234
+Participants
+
+
+
+
+NCAA Membership Financial Reporting System                                             Page 77 of 94
+Reporting Institution: University of Illinois Urbana-Champaign               Reporting Year (FY): 2025
+
+
+                        Head Coaching Assignments - Men's Teams
+Table 2A                             8 Table 2A - - - Head Coaches Assignments Men's Teams
+
+
+
+                                          Head Coaches of Men's Teams
+                     Male Coaches - Head Count                 Female Coaches - Head Count
+   Sport     Full Time Part Time Full Time Part Time Full Time Part Time Full Time Part Time
+             Coaching Coaching University University Coaching Coaching University University
+              Duties    Duties Employee Employee or Duties         Duties Employee Employee or
+                                             Volunteer                                 Volunteer
+Baseball         1                   1
+Basketball       1                    1
+Football         1                    1
+Golf             1                    1
+Gymnastics       1                    1
+Tennis           1                    1
+Track and        1                                  1
+Field, X-
+Country
+Wrestling        1                    1
+Others
+Coaching         8         0          7             1            0      0          0              0
+Position
+Totals
+
+
+
+
+NCAA Membership Financial Reporting System                                                   Page 78 of 94
+Reporting Institution: University of Illinois Urbana-Champaign               Reporting Year (FY): 2025
+
+
+                      Head Coaching Assignments - Women's Teams
+Table 2B                           9 Table 2B - - - Head Coaches Assignments Women's Teams
+
+
+
+                                       Head Coaches of Women's Teams
+                   Male Coaches - Head Count                Female Coaches - Head Count
+  Sport    Full Time Part Time Full Time Part Time Full Time Part Time Full Time Part Time
+           Coaching Coaching University University Coaching Coaching University University
+            Duties    Duties Employee Employee or Duties        Duties Employee Employee or
+                                           Volunteer                                Volunteer
+Basketball                                               1                   1
+Golf                                                             1                 1
+Gymnastics                                                       1                 1
+Soccer                                                           1                 1
+Softball                                                         1                 1
+Swimming                                                         1                 1
+and Diving
+Tennis           1                    1
+Track and        1                                  1
+Field, X-
+Country
+Volleyball       1                    1
+Others
+Coaching         3         0          2             1            6      0          6              0
+Position
+Totals
+
+
+
+
+NCAA Membership Financial Reporting System                                                   Page 79 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                Reporting Year (FY): 2025
+
+
+                     Assistant Coaching Assignments - Men's Teams
+Table 3A                          44 Table 3A - - - Assistant Coaches Assignments Men's Teams
+
+
+
+                                        Assistant Coaches of Men's Teams
+                     Male Coaches - Head Count                  Female Coaches - Head Count
+   Sport     Full Time Part Time Full Time Part Time Full Time Part Time Full Time Part Time
+             Coaching Coaching University University Coaching Coaching University University
+              Duties    Duties Employee Employee or Duties          Duties Employee Employee or
+                                             Volunteer                                  Volunteer
+Baseball         3                   3
+Basketball       5                    5
+Football        14                    14
+Golf             2                    2
+Gymnastics       2         1          2             1
+Tennis           1         1          1             1
+Track and                  8          5             3                    4           2           2
+Field, X-
+Country
+Wrestling        3                    3
+Others
+Coaching        30        10          35            5            0       4           2           2
+Position
+Totals
+
+
+
+
+NCAA Membership Financial Reporting System                                                  Page 80 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                Reporting Year (FY): 2025
+
+
+                     Assistant Coaching Assignments - Women's Teams
+Table 3B                        36 Table 3B - - - Assistant Coaches Assignments Women's Teams
+
+
+
+                                     Assistant Coaches of Women's Teams
+                   Male Coaches - Head Count                 Female Coaches - Head Count
+  Sport    Full Time Part Time Full Time Part Time Full Time Part Time Full Time Part Time
+           Coaching Coaching University University Coaching Coaching University University
+            Duties    Duties Employee Employee or Duties          Duties Employee Employee or
+                                            Volunteer                                Volunteer
+Basketball     1                   1                       4                  4
+Golf                                                             2                  2
+Gymnastics       1                    1                          1       1          1           1
+Soccer           1                    1                          1       1          1           1
+Softball         1                    1                          2                  2
+Swimming         2                    2                          1                  1
+and Diving
+Tennis           1                    1                                  1                      1
+Track and                  8          5             3                    4          2           2
+Field, X-
+Country
+Volleyball       1                    1                          2                  2
+Others
+Coaching         8         8          13            3            13      7         15           5
+Position
+Totals
+
+
+
+
+NCAA Membership Financial Reporting System                                                 Page 81 of 94
+Reporting Institution: University of Illinois Urbana-Champaign               Reporting Year (FY): 2025
+
+
+                                      Other Reporting Items
+
+AUP Data Categories:
+
+              50 - Excess Transfers to Institution: $0
+          51 - Conference Realignment Expenses: $0
+                 52 - Total Athletics Related Debt: $304,463,059
+                      53 - Total Institutional Debt: $704,264,308
+            54 - Athletics Dedicated Endowments: $50,337,532
+                   55 - Institutional Endowments: $2,775,015,857
+      56 - Athletics Related Capital Expenditures: $1,939,553
+
+Other Data Categories:
+
+                                    Institutional Expenses: $7,932,390,000
+       Athletically-Related Facilities Annual Debt Service: $23,998,218
+                        Institution's Annual Debt Service: $58,206,941
+            Institution's Education and General Expenses: $5,509,208,000
+             Average Cost of Full Grant-in-Aid - In-State: $38,379
+         Average Cost of Full Grant-in-Aid - Out-of-State: $58,128
+                    Average Cost of Attendance - In-State: $38,379
+               Average Cost of Attendance - Out-of-State: $38,128
+                       Expenses Dedicated to Compliance: $505,890
+                      Name of Compliance Software Used: JumpForward,
+                                                        Teamworks, & Arms
+                                        Compliance FTEs: 4
+
+
+
+
+NCAA Membership Financial Reporting System                                               Page 82 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                 Reporting Year (FY): 2025
+
+
+                          Revenue Distribution - Sports Sponsored
+Distribution Year: 2026
+Academic Year of Sport Sponsorship Information: 2024-25
+
+             Men's Sports                           Women's Sports                   Mixed Sports
+x Baseball                              x Softball
+x Football                              x Women's Basketball
+x Men's Basketball                      x Women's Cross Country
+x Men's Cross Country                   x Women's Golf
+x Men's Golf                            x Women's Gymnastics
+x Men's Gymnastics                      x Women's Soccer
+x Men's Tennis                          x Women's Swimming and Diving
+x Men's Track, Indoor                   x Women's Tennis
+x Men's Track, Outdoor                  x Women's Track, Indoor
+x Men's Wrestling                       x Women's Track, Outdoor
+                                        x Women's Volleyball
+Total Men's Sports Sponsored: 10        Total Women's Sports Sponsored: 11     Total Mixed Sports
+                                                                               Sponsored:
+Current Year's Submission of Sports     Previous Year's Submission of Sports   Variance: 0
+Sponsored: 21                           Sponsored: 21
+
+
+
+
+NCAA Membership Financial Reporting System                                                   Page 83 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                Reporting Year (FY): 2025
+
+
+                             Revenue Distribution - Grants-in-Aid
+Distribution Year: 2026
+Academic Year of Grant-in-Aid Information: 2024-25
+
+Men's Team Sports
+
+  Men's Team Sport       Athletic Aid      Exhausted        Total Equivalencies      Total Revenue
+                         Equivalency       Eligibility       Awarded (A+B)            Distribution
+                             (A)           or Medical                                Equivalencies
+                                         Equivalency (B)                               Awarded
+Baseball                    12.72             0.34                13.06                  12.04
+Basketball                    13               0.5                 13.5                  13.5
+Football                      89               0.07               89.07                  85.07
+Golf                         4.62               0                  4.62                   4.5
+Gymnastics                   6.62              0.14                6.76                  6.44
+Tennis                       4.77               0                  4.77                   4.5
+Track and Field, X-         12.78              1.55               14.33                  14.15
+Country
+Wrestling                   10.56               0                 10.56                   9.9
+Total Men's                 154.07             2.60               156.67                150.10
+
+Women's Team Sports
+
+Women's Team Sport       Athletic Aid      Exhausted        Total Equivalencies      Total Revenue
+                         Equivalency       Eligibility       Awarded (A+B)            Distribution
+                             (A)           or Medical                                Equivalencies
+                                         Equivalency (B)                               Awarded
+Basketball                    14                0                   14                     14
+Golf                         5.76               0                  5.76                  5.76
+Gymnastics                    11                2                   13                    13
+Soccer                      14.92              0.71               15.63                  14.71
+Softball                    12.83              0.75               13.58                  12.75
+Swimming and Diving          14.9              0.28               15.18                  14.28
+Tennis                        8                 0                   8                      8
+Track and Field, X-         18.22              0.82               19.04                  18.82
+Country
+Volleyball                    11                1                   12                    12
+Total Women's               110.63             5.56               116.19                113.32
+
+NCAA Membership Financial Reporting System                                                Page 84 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                  Reporting Year (FY): 2025
+
+
+Mixed Team Sports
+
+  Mixed Team      Athletic Aid        Exhausted           Total Equivalencies         Total Revenue
+    Sport        Equivalency (A)      Eligibility          Awarded (A+B)               Distribution
+                                      or Medical                                      Equivalencies
+                                    Equivalency (B)                                     Awarded
+Total Mixed              0                 0                      0                          0
+
+
+
+     Prior Year Total Rev Dist            Current Year Total Rev Dist       Variance Between Prior and
+   Equivalencies (Total Reported)        Equivalencies (Total Reported)            Current Year
+          260.16 (260.16)                       263.42 (272.86)                    3.26 (1.25%)
+
+
+
+
+NCAA Membership Financial Reporting System                                                  Page 85 of 94
+Reporting Institution: University of Illinois Urbana-Champaign              Reporting Year (FY): 2025
+
+
+                              Revenue Distribution - Pell Grants
+Distribution Year: 2026
+Academic Year of Pell Grant Information: 2024-25
+
+Men's Team Sports
+
+           Sport         2024-25 Pell    Prior Year Pell   Variance   Total Dollar Amount for SAs on
+                           Grants            Grants         Totals              Pell Grants
+Baseball                      4                 7             -3                               27,360
+Basketball                    1                3                 -2                             7,395
+Football                      44               39                5                           234,060
+Golf                          0                0                 0                                  0
+Gymnastics                    4                3                 1                             28,050
+Tennis                        1                1                 0                              6,110
+Track and Field, X-           15               9                 6                             98,133
+Country
+Wrestling                     3                5                 -2                            19,135
+Men's Total                   72               67                5                           420,243
+
+Women's Team Sports
+
+           Sport         2024-25 Pell    Prior Year Pell   Variance   Total Dollar Amount for SAs on
+                           Grants            Grants         Totals              Pell Grants
+Basketball                    5                 3             2                                30,080
+Golf                          0                0                 0                                  0
+Gymnastics                    4                1                 3                             27,740
+Soccer                        1                2                 -1                             2,150
+Softball                      2                1                 1                             14,790
+Swimming and Diving           2                2                 0                             14,790
+Tennis                        1                0                 1                              7,395
+Track and Field, X-           9                8                 1                             58,105
+Country
+Volleyball                    1                0                 1                              7,395
+Women's Total                 25               17                8                           162,445
+
+Mixed Team Sports
+
+
+NCAA Membership Financial Reporting System                                               Page 86 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                Reporting Year (FY): 2025
+
+
+   Sport        2024-25 Pell       Prior Year Pell     Variance    Total Dollar Amount for SAs on Pell
+                  Grants               Grants           Totals                   Grants
+Mixed                0                                    0                                              0
+Total
+
+
+
+           2024-25 Pell        Prior Year Pell       Variance     Total Dollar Amount for SAs on Pell
+             Grants                Grants             Totals                     Grants
+Total          97                    84                 13                      $582,688
+
+
+
+
+NCAA Membership Financial Reporting System                                                 Page 87 of 94
+Reporting Institution: University of Illinois Urbana-Champaign   Reporting Year (FY): 2025
+
+
+                                              Comments
+Comments:
+
+
+
+
+NCAA Membership Financial Reporting System                                   Page 88 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                        Reporting Year (FY): 2025
+
+
+                                     Miscellaneous Information
+Note: These values are calculated from data entered earlier in the system.
+
+Athletically    Input the total dollar amount of athletic student-aid for the reporting year including:
+Related         • Summer school.
+Student Aid
+                • Tuition discounts and waivers (unless it is a discount or waiver available to the general
+                  student body).
+                • Aid given to student-athletes who are inactive (medical reasons) or no longer eligible
+                  (exhausted eligibility).
+                • Other expenses related to attendance.
+
+                Note: Division I Grants-in-aid equivalencies are calculated by using the revenue distribution
+                equivalencies by sport and in aggregate. (Athletic grant amount divided by the full grant
+                amount). Other expenses related to attendance (also known as cost of attendance) should not
+                be included in the grants-in-aid revenue distribution equivalencies. Only tuition, fees, living
+                expenses and course related books are countable for grants-in-aid revenue distribution per
+                Bylaw 20.02.11.
+
+                Athletics aid awarded to non-athletes (student-managers, graduate assistants, trainers) should
+                be reported as Expenses Not Related to Specific Teams. It is permissible to report only dollars
+                in the Expenses Not Related to Specific Teams row as long as you have reported non- zero
+                entries for Equivalencies, Number of Students, and Dollars (all 3 required for at least one
+                sport).
+
+                Note: Pell grants are provided by the government, not the institution or athletics department,
+                and therefore should be excluded from reporting in this category.
+
+                Note: This information can be managed within the NCAA's Compliance Assistance (CA)
+                software. The equivalencies entered into compliance assistance will automatically populate to
+                the athletic student aid section within the NCAA Financial Reporting System when the CA
+                import feature is selected.
+                            Men's Teams                                  $7,260,456
+                            Women's Teams                                $5,456,875
+                            Total Amount                                $12,717,331
+
+
+
+Recruiting   Input transportation, lodging and meals for prospective student-athletes and institutional
+Expenditures personnel on official and unofficial visits, telephone call charges, postage and such. Include
+             value of use of institution's own vehicles or airplanes as well as in-kind value of loaned or
+             contributed transportation.
+                            Men's Teams                                  $2,800,758
+                       Women's Teams                                       $763,091
+NCAA Membership Financial Reporting System                                                          Page 89 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                        Reporting Year (FY): 2025
+
+
+                            Total Amount                                 $3,563,849
+
+
+
+Head           Input compensation, bonuses and benefits paid to all coaches reportable on the university or
+Coaches        related entities W-2 and 1099 forms, as well as non-taxable benefits (1098T), inclusive of:
+Salaries
+               • Gross wages and bonuses.
+               • Taxable and non-taxable benefits include allowances, speaking fees, retirement, stipends,
+                 memberships, media income, tuition reimbursement/exemptions (for self or a dependent) and
+                 earned deferred compensation, including those funded by the state.
+
+               Place any severance payments in Category 26.
+
+              Note: Bonuses related to participation in a post-season game should be included in Category
+              41A or 42A respectively.
+             Average Salaries of Head Dollars per FTE's Dollars per                  Number of
+                     Coaches                  FTE                    Position         Positions
+            Men's Teams                      $2,143,947 7.5            $2,009,951                 8
+            Women's Teams                      $408,758       9          $408,758                  9
+
+
+
+Assistant       Input compensation, bonuses and benefits paid to all coaches reportable on the university or
+Coaches         related entities W-2 and 1099 forms, as well as non-taxable benefits (1098T), inclusive of:
+Salaries
+                • Gross wages and bonuses.
+                • Taxable and non-taxable benefits include allowances, speaking fees, retirement, stipends,
+                  memberships, media income, tuition reimbursement/exemptions (for self or a dependent)
+                  and earned deferred compensation, including those funded by the state.
+
+                Place any severance payments in Category 26.
+
+                Note: Bonuses related to participation in a post-season game should be included in Category
+                41A or 42A respectively.
+            Average Salaries of Assistant Dollars per FTE's Dollars per              Number of
+                      Coaches                   FTE                   Position         Positions
+            Men's Teams                          $367,958 34.5            $288,512               44
+            Women's Teams                        $120,164 25.5             $85,116                36
+
+
+
+
+NCAA Membership Financial Reporting System                                                         Page 90 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                      Reporting Year (FY): 2025
+
+
+                               Statement of Revenues and Expenses
+                                   For the fiscal year ended 2025
+ ID             Item            Football      Men's    Women's        Other         Non-Program       Total
+                                            Basketball Basketball     Sports          Specific
+Revenues
+1     Ticket Sales             $15,019,016 $14,234,780   $365,914      $355,838          -$2,220 $29,973,328
+2     Direct State or Other      $609,814     $283,218   $238,166     $1,350,981      $5,488,393    $7,970,572
+      Government Support
+3     Student Fees                     $0           $0           $0            $0     $3,639,531    $3,639,531
+4     Direct Institutional             $0           $0           $0            $0       $22,395        $22,395
+      Support
+5     Less - Transfers to              $0           $0           $0            $0      -$142,446     -$142,446
+      Institution
+6     Indirect Institutional           $0           $0           $0            $0            $0               $0
+      Support
+6A Indirect Institutional              $0           $0           $0            $0            $0               $0
+   Support - Athletic
+   Facilities Debt
+   Service, Lease and
+   Rental Fees
+7     Guarantees                       $0     $389,771           $0     $32,173              $0       $421,944
+8     Contributions             $2,333,455 $1,023,910    $989,554     $1,934,820 $44,199,766 $50,481,505
+9     In-Kind                     $43,587      $39,787    $25,301       $86,230         $43,795       $238,700
+10    Compensation and                 $0           $0           $0            $0            $0               $0
+      Benefits provided by a
+      third party
+11    Media Rights             $51,939,441 $14,711,892    $75,000       $75,000              $0 $66,801,333
+12    Total NCAA                       $0      $68,683    $78,475       $76,540       $3,324,923    $3,548,621
+      Distributions
+12A NCAA Distributions                 $0           $0           $0            $0     $3,324,923    $3,324,923
+12B NCAA Host Revenue                  $0           $0           $0            $0            $0               $0
+    Settlements
+12C Post-Season Non-                   $0      $68,683    $78,475       $76,540              $0       $223,698
+    Football NCAA
+    Expense
+    Reimbursements
+13    Conference                       $0           $0           $0            $0       $36,739        $36,739
+      Distributions (Non
+      Media and Non Post
+      Season)
+NCAA Membership Financial Reporting System                                                         Page 91 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                     Reporting Year (FY): 2025
+
+
+ ID            Item             Football     Men's    Women's         Other    Non-Program     Total
+                                           Basketball Basketball      Sports     Specific
+13A Conference                 $12,450,515   $288,057        $0        $18,000            $0 $12,756,572
+    Distributions of Post-
+    Season Generated
+    Revenue
+14    Program, Novelty,         $1,612,939   $765,460   $109,008        $64,441       $589,599    $3,141,447
+      Parking and
+      Concession Sales
+15    Royalties, Licensing,     $2,713,736 $3,166,373   $196,028       $358,579     $2,290,453    $8,725,169
+      Advertisement and
+      Sponsorships
+16    Sports Camp Revenues        $16,749          $0       $731       $263,985        $59,911      $341,376
+17    Athletics Restricted       $612,437    $283,659   $108,321       $467,136     $1,567,772    $3,039,325
+      Endowment and
+      Investments Income
+18    Other Operating               -$445     $20,000            $0      $4,906     $3,152,191    $3,176,652
+      Revenue
+19    Post-Season Football       $588,415          $0            $0          $0             $0      $588,415
+      Expense
+      Reimbursements
+      Total Operating          $87,939,659 $35,275,590 $2,186,498     $5,088,629 $64,270,802 $194,761,178
+      Revenues
+Expenses
+20    Athletic Student Aid      $4,350,416   $593,379   $611,501      $7,162,035      $620,289 $13,337,620
+21    Guarantees                $2,175,000   $415,000   $160,000        $17,250             $0    $2,767,250
+22    Coaching Salaries,     $15,546,663 $9,482,715 $2,397,059        $8,090,694            $0 $35,517,131
+      Benefits and Bonuses
+      paid by the University
+      and Related Entities
+23    Coaching Salaries,               $0          $0            $0          $0             $0             $0
+      Benefits and Bonuses
+      paid by a Third Party
+24    Support Staff/            $5,875,316 $1,670,261   $596,077      $1,461,332 $22,360,475 $31,963,461
+      Administrative
+      Compensation,
+      Benefits and Bonuses
+      paid by the University
+      and Related Entities
+
+
+
+NCAA Membership Financial Reporting System                                                       Page 92 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                      Reporting Year (FY): 2025
+
+
+ ID            Item            Football    Men's    Women's           Other       Non-Program        Total
+                                         Basketball Basketball        Sports        Specific
+25    Support Staff/                  $0         $0        $0                  $0            $0              $0
+      Administrative
+      Compensation,
+      Benefits and Bonuses
+      paid by Third Party
+26    Severance Payments        $175,000          $0    $131,673       $151,450         $88,786      $546,909
+27    Recruiting               $1,663,605   $902,924    $354,039       $643,281              $0    $3,563,849
+28    Team Travel              $2,412,991 $2,296,987 $1,235,505       $2,917,737             $0    $8,863,220
+29    Sports Equipment      $1,073,290      $165,969    $191,772      $1,119,484        $34,642    $2,585,157
+      Uniforms and Supplies
+30    Game Expenses            $2,461,244   $929,681    $333,796       $764,035              $0    $4,488,756
+31    Fund Raising,                   $0     $23,000      $6,185       $243,866 $21,614,965 $21,888,016
+      Marketing and
+      Promotion
+32    Sports Camp Expenses        $6,228          $0      $1,048       $254,845         $14,171      $276,292
+33    Spirit Groups                   $0          $0             $0            $0      $602,736      $602,736
+34    Athletic Facilities             $0          $0             $0            $0 $17,770,740 $17,770,740
+      Debt Service, Leases
+      and Rental Fee
+35    Direct Overhead and      $1,064,675   $354,268    $162,178       $853,550 $13,098,844 $15,533,515
+      Administrative
+      Expenses
+35A Facilities Maintenance     $4,275,679   $244,747    $232,102      $1,826,558     $1,375,199    $7,954,285
+    and Operations
+36    Indirect Institutional          $0          $0             $0            $0            $0              $0
+      Support
+37    Medical Expenses and       $62,604      $5,940      $7,425        $56,090      $2,126,531    $2,258,590
+      Insurance
+38    Memberships and            $37,316     $27,188     $14,413        $58,495        $165,824      $303,236
+      Dues
+39    Student-Athlete Meals    $2,578,792   $218,562    $145,383      $1,439,736        $77,096    $4,459,569
+      (non-travel)
+40    Other Operating          $1,176,075   $676,044     $56,482       $395,200      $4,499,014    $6,802,815
+      Expenses
+41    Post-Season Football     $2,829,500         $0             $0            $0            $0    $2,829,500
+      Expenses
+
+
+
+NCAA Membership Financial Reporting System                                                        Page 93 of 94
+Reporting Institution: University of Illinois Urbana-Champaign                      Reporting Year (FY): 2025
+
+
+ ID            Item           Football    Men's    Women's            Other       Non-Program        Total
+                                        Basketball Basketball         Sports        Specific
+41A Post-Season Football       $911,087         $0        $0                   $0            $0      $911,087
+    Expenses – Coaching
+    Compensation/
+    Bonuses
+41B NCAA Football Host               $0           $0             $0            $0            $0              $0
+    Expense Settlements
+42    NCAA Post-Season               $0    $422,181     $165,975       $746,252              $0    $1,334,408
+      Non-Football
+      Expenses
+42A NCAA Post-Season                 $0    $140,000     $166,000       $391,275              $0      $697,275
+    Non-Football
+    Expenses – Coaching
+    Compensation/
+    Bonuses
+42B NCAA Non-Football                $0           $0             $0     $37,060              $0       $37,060
+    Host Expense
+    Settlements
+43    Enhanced Educational     $592,969     $50,830      $83,720      $1,839,542             $0    $2,567,061
+      Benefits (Alston or
+      other)
+44    Institutional NIL              $0           $0             $0            $0            $0              $0
+      Revenue Share
+      Total Operating        $49,268,450 $18,619,676 $7,052,333 $30,469,767 $84,449,312 $189,859,538
+      Expenses
+      Excess (Deficiencies) $38,671,209 $16,655,914 -$4,865,835 -$25,381,138 -$20,178,510          $4,901,640
+      of Revenues Over
+      (Under) Expenses
+
+
+
+
+NCAA Membership Financial Reporting System                                                        Page 94 of 94
+

@@ -9,3 +9,8 @@ base_case.json
 
 # lockout survey: raw HTML stays local; extracted .txt is committed so quote checks rerun
 mlb-lockout-2026/raw/*.html
+
+# FOIA letter PDF carries the requester's email; the redacted .txt beside it is what the script reads
+illinois-revenue-sharing-2026/raw/FOIA-26-2759-response.pdf
+# Illinois piece: full third-party article texts stay local (quote checks run on the Mac)
+illinois-revenue-sharing-2026/raw/peers/

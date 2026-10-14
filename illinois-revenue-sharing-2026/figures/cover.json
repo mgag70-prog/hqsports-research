@@ -1,0 +1,24 @@
+{
+  "subject": "A neat stack of printed financial ledger pages on a dark wooden desk, the top page's columns blocked out by thick black redaction bars, with one brass paper clip at its corner and a fountain pen laid beside the stack.",
+  "seed": 4801,
+  "headline": [
+    "No Big Ten school has",
+    "published revenue sharing",
+    "by sport in dollars.",
+    "Illinois is the one that posts",
+    "the form built to show it."
+  ],
+  "square_crop_x": 0.18,
+  "formats": {
+    "wide": {
+      "headline_max_width": 0.36,
+      "scrim_x": [
+        0.48,
+        0.72
+      ]
+    },
+    "square": {
+      "headline_max_width": 0.44
+    }
+  }
+}

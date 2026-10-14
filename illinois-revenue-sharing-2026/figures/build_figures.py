@@ -67,7 +67,7 @@ DRAFT_PHRASES = (
     "The FY2024 expense categories run from 20 to 41A", "The FY2025 form runs to 44, and Category 44 is \"Institutional NIL Revenue Share\"",
     "on page 16, defined and totaled; on page 94, by program", "on page 74 as a twelve-sport table",
     "Every cell is zero or blank, at all three schools.",
-    "six schools, three percentages for football (Michigan, Indiana, Illinois), four lists of sports, zero dollar figures by sport",
+    "Six schools. Zero dollars by sport. The full count: three percentages for football (Michigan, Indiana, Illinois), four lists of sports, zero dollar figures by sport",
     "Ohio State committed $18 million to athletes in four sports", "the remaining $2.5 million of the cap going to 91 added scholarships",
     "budgeted $20.5 million for FY2026, projected $18.0 million actually spent, and budgeted $21.32 million for FY2027",
     "budgeted $20,000,000 for FY2026, financed in part by a $12,063,922 internal loan, and $21,320,000 for FY2027 against a projected athletics deficit of $10,555,220",
@@ -143,7 +143,7 @@ def fig_revenue_expenses(stem):
     sub1 = "Illinois athletics' operating revenue and expenses, $ millions, from the NCAA financial reports the department posts."
     X0, Y0, Y1, VMAX = 120, 140, 440, 200
     ys = lambda v: Y1 - (Y1 - Y0) * v / VMAX
-    H = Y1 + 80
+    H = Y1 + 112            # room under the FY labels so the source line doesn't crowd them
     s = SVG(1200, H, title)
     header(s, title, sub1)
     for v in range(0, VMAX + 1, 50):

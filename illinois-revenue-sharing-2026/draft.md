@@ -24,7 +24,7 @@ Ohio State committed $18 million to athletes in four sports, football, men's and
 
 And Illinois. Josh Whitman said in June 2025 that the department would distribute all $20.5 million, that new scholarships would come out of that total, and that the split would be "in those ranges" of the 75-15-5-5 rule of thumb most schools use, with football, men's and women's basketball and volleyball "receiving more than 98 percent of the shared revenue." Then: "We're not going to share the actual numbers." This June he said the first year of revenue sharing added almost $21 million of expense, that 223 athletes received something, and that it will top $21 million this year.
 
-So the count is: six schools, three percentages for football (Michigan, Indiana, Illinois), four lists of sports, zero dollar figures by sport. Illinois's denial matches what its peers have done.
+Six schools. Zero dollars by sport. The full count: three percentages for football (Michigan, Indiana, Illinois), four lists of sports, zero dollar figures by sport. Illinois's denial matches what its peers have done.
 
 ## The two exemptions, briefly
 

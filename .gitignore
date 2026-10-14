@@ -14,3 +14,5 @@ mlb-lockout-2026/raw/*.html
 illinois-revenue-sharing-2026/raw/FOIA-26-2759-response.pdf
 # Illinois piece: full third-party article texts stay local (quote checks run on the Mac)
 illinois-revenue-sharing-2026/raw/peers/
+# cover option contact sheet is 12 MB; the option PNGs beside it are committed
+illinois-revenue-sharing-2026/figures/cover-options/contact-sheet.png

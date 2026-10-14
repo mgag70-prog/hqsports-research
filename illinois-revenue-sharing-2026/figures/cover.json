@@ -1,24 +1,39 @@
 {
-  "subject": "A neat stack of printed financial ledger pages on a dark wooden desk, the top page's columns blocked out by thick black redaction bars, with one brass paper clip at its corner and a fountain pen laid beside the stack.",
-  "seed": 4801,
-  "headline": [
-    "No Big Ten school has",
-    "published revenue sharing",
-    "by sport in dollars.",
-    "Illinois is the one that posts",
-    "the form built to show it."
+  "builder": "cover-options",
+  "note": "Full-bleed cover composed by figures/cover-options/build_options.py (command: cover), not by tools/compose_cover.py, whose panel layout would not reproduce it. Background is option A edited twice; the chain is below and in cover-prompt.md.",
+  "subject": "A row of six tall dark steel lockers in an empty locker room, five of them shut with heavy padlocks, the sixth door ajar with bright warm light spilling out of it across the concrete floor.",
+  "seed": 4811,
+  "edits": [
+    {
+      "step": "A2",
+      "endpoint": "fal-ai/nano-banana-pro/edit",
+      "edit_of": "A",
+      "seed": 4821,
+      "request": "01a13aa1-a60f-78a2-b0b8-7ad5fb4e4d94",
+      "date": "2026-10-14"
+    },
+    {
+      "step": "A3",
+      "endpoint": "fal-ai/nano-banana-pro/edit",
+      "edit_of": "A2",
+      "seed": 4831,
+      "request": "01a13aa2-ea85-7652-ae9b-9d75764060c0",
+      "date": "2026-10-14"
+    }
   ],
-  "square_crop_x": 0.18,
+  "headline": [
+    "Six schools.",
+    "Zero dollars by sport."
+  ],
+  "square_crop_x": 0.3,
   "formats": {
     "wide": {
-      "headline_max_width": 0.36,
-      "scrim_x": [
-        0.48,
-        0.72
-      ]
-    },
-    "square": {
-      "headline_max_width": 0.44
+      "lines": [
+        "Six schools.",
+        "Zero dollars",
+        "by sport."
+      ],
+      "headline_max_width": 0.41
     }
   }
 }

@@ -43,6 +43,11 @@ Usage, from the repo root:
   python3 tools/compose_cover.py generate PIECE          # call fal.ai (needs FAL_KEY), write the record
   python3 tools/compose_cover.py build PIECE [format]    # scrim and type; format is wide or square
   python3 tools/compose_cover.py measure PIECE [format]  # darkness and the X-card safe-zone check, no files written
+
+A cover.json may carry "builder": the name of the script that composes this piece's cover. When it
+names anything other than compose_cover, build and generate refuse before writing or calling fal.ai,
+and print that builder's rebuild command (the config's "rebuild" field, or the command known for
+that builder); --force overrides.
 """
 import json
 import os
@@ -58,6 +63,9 @@ from datetime import date
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG_NAME = "cover.json"
+THIS_BUILDER = "compose_cover"
+# Other builders and how to rebuild a cover they made; a cover.json "rebuild" field overrides.
+KNOWN_BUILDERS = {"cover-options": "python3 {piece}/figures/cover-options/build_options.py cover"}
 BACKGROUND_NAME = os.path.join("raw", "cover-background.png")
 RECORD_NAME = "cover-prompt.md"
 FONT_HEADLINE = "/System/Library/Fonts/Supplemental/Georgia Bold.ttf"
@@ -235,9 +243,14 @@ def fal_request(url: str, key: str, payload: dict | None = None) -> dict:
                            % (err.code, url, err.read().decode(errors="replace")[:600])) from None
 
 
-def generate(piece: str) -> None:
+def generate(piece: str, force: bool = False) -> None:
     paths = piece_paths(piece)
     cfg = load_config(paths)
+    refusal = other_builder(paths, cfg)
+    if refusal:
+        if not force:
+            sys.exit("refused: " + refusal)
+        print("--force: %s" % refusal.split("\n")[0], flush=True)
     prompt = full_prompt(cfg)
     key = os.environ.get("FAL_KEY")
     if not key:
@@ -562,9 +575,28 @@ def prepare_source(fmt: dict, src: str, cfg: dict, workdir: str) -> str:
     return cropped
 
 
-def build(piece: str, format_names: list[str], measure_only: bool = False) -> None:
+def other_builder(paths: dict[str, str], cfg: dict) -> str | None:
+    """A refusal message when this piece's cover is composed by another script, else None."""
+    builder = cfg.get("builder")
+    if not builder or builder == THIS_BUILDER:
+        return None
+    rel = os.path.relpath(paths["root"], REPO)
+    if rel.startswith(".."):            # a piece outside the repo: name it by its full path
+        rel = paths["root"]
+    rebuild = cfg.get("rebuild") or KNOWN_BUILDERS.get(builder, "(no rebuild command recorded)").format(piece=rel)
+    return ("%s/figures/%s names another builder, \"%s\"; building here would overwrite its cover with this "
+            "script's layout.\n  rebuild with: %s\n  or pass --force to build with compose_cover anyway"
+            % (rel, CONFIG_NAME, builder, rebuild))
+
+
+def build(piece: str, format_names: list[str], measure_only: bool = False, force: bool = False) -> None:
     paths = piece_paths(piece)
     cfg = load_config(paths)
+    refusal = other_builder(paths, cfg)
+    if refusal and not measure_only:
+        if not force:
+            sys.exit("refused: " + refusal)
+        print("--force: %s" % refusal.split("\n")[0], flush=True)
     if not os.path.exists(paths["background"]):
         sys.exit("no background at %s; run generate first" % paths["background"])
     format_names = [n for n in format_names if not cfg.get("formats", {}).get(n, {}).get("skip")]
@@ -607,6 +639,8 @@ def build(piece: str, format_names: list[str], measure_only: bool = False) -> No
 
 
 def main(argv: list[str]) -> None:
+    force = "--force" in argv
+    argv = [a for a in argv if a != "--force"]
     if len(argv) < 2 or argv[0] not in ("prompt", "generate", "build", "measure"):
         sys.exit(__doc__)
     command, piece, rest = argv[0], argv[1], argv[2:]
@@ -615,9 +649,9 @@ def main(argv: list[str]) -> None:
     if command == "prompt":
         print(full_prompt(load_config(piece_paths(piece))))
     elif command == "generate":
-        generate(piece)
+        generate(piece, force=force)
     else:
-        build(piece, rest or list(FORMATS), measure_only=(command == "measure"))
+        build(piece, rest or list(FORMATS), measure_only=(command == "measure"), force=force)
 
 
 if __name__ == "__main__":

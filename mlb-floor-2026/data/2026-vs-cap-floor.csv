@@ -1,0 +1,31 @@
+team,tax_payroll_m,wins,losses,payroll_rank,status,change_to_comply_m,postseason,wins_rank
+LAD,433.06,100,62,1,over cap,-187.76,LCS,2
+NYM,359.48,74,88,2,over cap,-114.18,,25
+NYY,341.88,93,68,3,over cap,-96.58,Division Series,5
+PHI,322.18,88,74,4,over cap,-76.88,Wild Card,8
+TOR,315.83,79,83,5,over cap,-70.53,,17
+BOS,271.2,87,75,6,over cap,-25.9,Wild Card,9
+CHC,269.22,89,73,7,over cap,-23.92,Wild Card,7
+SD,264.59,91,71,8,over cap,-19.29,Division Series,6
+ATL,257.52,94,68,9,over cap,-12.22,Division Series,4
+HOU,234.95,81,81,10,inside,0.0,Wild Card,14
+ARI,234.41,86,76,11,inside,0.0,,10
+DET,234.33,76,86,12,inside,0.0,,22
+SF,225.9,65,97,13,inside,0.0,,27
+BAL,217.66,79,82,14,inside,0.0,,18
+TEX,215.11,80,82,15,inside,0.0,,15
+SEA,205.66,76,86,16,inside,0.0,,23
+LAA,194.79,62,100,17,inside,0.0,,29
+KC,187.26,69,93,18,inside,0.0,,26
+MIL,154.71,103,59,19,under floor,16.49,World Series,1
+CIN,150.72,75,87,20,under floor,20.48,,24
+ATH,144.64,64,98,21,under floor,26.56,,28
+PIT,139.26,82,80,22,under floor,31.94,,13
+COL,139.16,58,104,23,under floor,32.04,,30
+MIN,137.89,77,85,24,under floor,33.31,,19
+WSH,123.18,77,85,25,under floor,48.02,,20
+CHW,117.63,84,78,26,under floor,53.57,Division Series,12
+TB,113.23,98,64,27,under floor,57.97,World Series,3
+STL,108.77,77,85,28,under floor,62.43,,21
+CLE,92.58,85,77,29,under floor,78.62,LCS,11
+MIA,84.36,80,82,30,under floor,86.84,,16

@@ -1,0 +1,13 @@
+team,league,round_reached,eliminated_by,source
+MIL,NL,World Series,,CBS bracket Oct 18 2026; MLB.com Oct 16 2026
+LAD,NL,LCS,MIL,same
+SD,NL,Division Series,MIL,CBS bracket Oct 18 2026
+ATL,NL,Division Series,LAD,same
+CHC,NL,Wild Card,SD,same
+PHI,NL,Wild Card,ATL,same
+TB,AL,World Series,,"AP via TSN and ESPN, Oct 19 2026 (ALCS 4-2 over CLE)"
+CLE,AL,LCS,TB,"AP via TSN and ESPN, Oct 19 2026"
+NYY,AL,Division Series,TB,CBS bracket Oct 18 2026
+CHW,AL,Division Series,CLE,same
+HOU,AL,Wild Card,CHW,same
+BOS,AL,Wild Card,NYY,same

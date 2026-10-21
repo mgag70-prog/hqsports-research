@@ -1,0 +1,19 @@
+key,value,unit,source,note
+cap_2027,245.3,USD millions,"CBS Sports, Dayn Perry, May 28, 2026, https://www.cbssports.com/mlb/news/mlb-proposes-salary-cap-floor-cba-negotiations-mlbpa/; AP May 28, 2026 (cited in mlb-cap-valuations-2026/draft.md)","owners' proposed 2027 cap, including benefits expenses"
+floor_2027,171.2,USD millions,same,"owners' proposed 2027 floor, including benefits expenses"
+benefits_per_club_cbs,23,USD millions,"CBS Sports May 28, 2026 (Goldstein estimate)","teams pay about $23M a year in benefits; cash equivalents ~$222M cap, ~$148M floor"
+spotrac_player_benefits_TB_2026,18.0,USD millions,"https://www.spotrac.com/mlb/tampa-bay-rays/tax (read October 19, 2026)","Spotrac tax payroll lists Player Benefits $18,000,000 as a line item"
+cbs_may_over_cap,9,clubs,CBS Sports May 28 2026,Cot's CBT estimates in May
+cbs_may_under_floor,12,clubs,CBS Sports May 28 2026,Cot's CBT estimates in May
+cbs_may_net_change,-18.7,USD millions,CBS Sports May 28 2026,Goldstein: aggregate reduction in player salary to fit all clubs inside the lines
+mlb_claim_net_change,39,USD millions,"Yahoo Sports video, October 1, 2026, https://sports.yahoo.com/videos/mlb-owners-245-3m-salary-162725982.html",MLB's figures show a net increase of $39M across all 30 clubs
+union_claim_loss,500,USD millions,"CBS timeline, https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/ (June 1 entry)","Bruce Meyer: players would lose over half a billion dollars, based on 2026 figures"
+cbs_oct13_LAD_cbt,432.8,USD millions,"CBS Sports, Matt Snyder, October 13, 2026, https://www.cbssports.com/mlb/news/mlb-playoffs-salary-cap-cba-negotations-david-goliath/",CBT figures from MLB; cross-check only
+cbs_oct13_MIL_cbt,154.7,USD millions,same,cross-check only
+cbs_oct13_TB_cbt,112.9,USD millions,same,cross-check only
+cbs_oct13_CLE_cbt,93.1,USD millions,same,cross-check only
+nlcs_result,Brewers def. Dodgers 4-0 (Oct 11-15),,"MLB.com, AJ Cassavell, October 16, 2026, https://www.mlb.com/news/brewers-win-nlcs-2026; Baseball-Reference 2026 NLCS",Brewers' first NL pennant; Dodgers two-time defending champions
+alcs_result,"Rays def. Guardians 4-2 (Game 6: Rays 7-3, Monday Oct 19, Tropicana Field)",,"AP via TSN, https://www.tsn.ca/mlb/article/rays-top-guardians-in-game-6-to-win-american-league-pennant-and-advance-to-world-series-against-brewers/; ESPN, https://www.espn.com/mlb/story/_/id/50224233/rays-clinch-alcs-game-6-face-brewers-world-series","Rays' third pennant; they lost the 2008 and 2020 World Series"
+ws_game1,"Friday, October 23, 8 p.m. ET, Milwaukee",,"CBS Sports bracket, October 18, 2026, https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/; ESPN, https://www.espn.com/mlb/story/_/id/50224233/rays-clinch-alcs-game-6-face-brewers-world-series","Brewers vs Rays"
+cba_expires,"11:59 p.m. ET, December 1, 2026",,"Forbes, Maury Brown, September 21, 2026",
+revenue_split,50,percent of revenue to players,"AP, May 28, 2026 (cited in mlb-cap-valuations-2026/draft.md); CBS Sports CBA timeline, May 28 entry, https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/","owners proposed a 50-50 revenue split with players; cap and floor set from it"

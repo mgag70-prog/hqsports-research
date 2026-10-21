@@ -1,0 +1,36 @@
+{
+  "builder": "cover-options",
+  "note": "Full-bleed cover composed by figures/cover-options/build_options.py (command: cover), not by tools/compose_cover.py, whose panel layout would not reproduce it. Background is option B edited twice (E, then F); the chain is below and in cover-prompt.md. Rebuild: python3 mlb-floor-2026/figures/cover-options/build_options.py cover",
+  "subject": "An empty dugout at night, its concrete floor wet and reflective, a painted brick red stripe running straight across the floor, a row of plain wooden bats leaning in the rack and a single glove on the bench, floodlight glare from the field beyond.",
+  "seed": 4902,
+  "request": "01a156d8-06aa-7a33-8cdf-43b6a575250d",
+  "edits": [
+    {
+      "step": "E",
+      "endpoint": "fal-ai/nano-banana-pro/edit",
+      "edit_of": "B",
+      "seed": 4905,
+      "request": "01a156fa-e7c8-7df1-900d-eca51aec7867",
+      "date": "2026-10-19"
+    },
+    {
+      "step": "F",
+      "endpoint": "fal-ai/nano-banana-pro/edit",
+      "edit_of": "E",
+      "seed": 4906,
+      "request": "01a15700-b313-7ae0-ac16-7a1d42ef1002",
+      "date": "2026-10-19"
+    }
+  ],
+  "headline": [
+    "Under the floor.",
+    "In the World Series."
+  ],
+  "square_crop_x": 0.42,
+  "band_boost": true,
+  "formats": {
+    "wide": {
+      "headline_max_width": 0.56
+    }
+  }
+}

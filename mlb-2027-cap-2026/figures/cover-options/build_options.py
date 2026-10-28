@@ -15,7 +15,7 @@ Files, all under figures/:
   cover-options/README.md                             the ranking, written by hand after looking
 
 Usage, from anywhere:
-  python3 build_options.py generate [A B C D]   # fal.ai, needs FAL_KEY in the environment, $0.15 each
+  python3 build_options.py generate [A B C D C2]   # fal.ai, needs FAL_KEY in the environment, $0.15 each
   python3 build_options.py build [A B C D]      # scrim, type, safe-zone check; also writes the sheet
   python3 build_options.py sheet
   python3 build_options.py cover                # rebuild figures/cover-fal-*.png from cover.json once one is installed
@@ -68,6 +68,13 @@ OPTIONS = {
         "An empty batting cage at night, its dark netting bulging and sagging under a heap of worn baseballs "
         "piled far above a brick red top rail, balls spilling through the gaps onto bare ground, one floodlight "
         "raking across from the side.")},
+    # C2: option C's background with the ball made white (C's came back near-black), via the edit endpoint
+    "C2": {"seed": 5113, "square_crop_x": 0.30, "edit_of": "C", "subject": (
+        "Edit this photograph. Change only the ball: make it a normal white leather baseball with red "
+        "stitching, its white leather lit brightly by the same floodlights, still smashing upward through the "
+        "red painted wooden beam with exactly the same splinters, paint chips and debris flying around it. "
+        "Keep the beam, the debris, the floodlights, the night sky, the framing and the composition exactly "
+        "as they are. Nothing is printed or stamped on the ball.")},
 }
 
 # Full-bleed formats: type bottom-left, scrim rising from the bottom and fading rightward, plus a

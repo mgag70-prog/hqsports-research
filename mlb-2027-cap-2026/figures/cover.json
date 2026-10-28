@@ -1,12 +1,22 @@
 {
   "builder": "cover-options",
-  "note": "Full-bleed cover composed by figures/cover-options/build_options.py (command: cover), not by tools/compose_cover.py, whose panel layout would not reproduce it. Background is option C as generated, no edits; prompt in cover-prompt.md. Rebuild: python3 mlb-2027-cap-2026/figures/cover-options/build_options.py cover",
+  "note": "Full-bleed cover composed by figures/cover-options/build_options.py (command: cover), not by tools/compose_cover.py, whose panel layout would not reproduce it. Background is option C edited once (C2: the ball made white); the chain is below and in cover-prompt.md. Rebuild: python3 mlb-2027-cap-2026/figures/cover-options/build_options.py cover",
   "subject": "A baseball smashing upward through a thick brick red painted wooden beam, splinters and red paint chips frozen in midair, stadium floodlights flaring behind, deep night sky, extreme high speed photograph.",
   "seed": 5103,
   "request": "01a1828a-7971-7221-b43c-b6e8ab7757b3",
+  "edits": [
+    {
+      "step": "C2",
+      "endpoint": "fal-ai/nano-banana-pro/edit",
+      "edit_of": "C",
+      "seed": 5113,
+      "request": "01a183b5-31f1-7771-8128-210c03132700",
+      "date": "2026-10-28"
+    }
+  ],
   "headline": [
     "Over the cap.",
     "Before the offseason."
   ],
-  "square_crop_x": 0.30
+  "square_crop_x": 0.3
 }

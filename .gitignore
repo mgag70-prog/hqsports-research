@@ -27,3 +27,6 @@ mlb-2027-cap-2026/raw/*.html
 mlb-2027-cap-2026/figures/cover-options/contact-sheet.png
 # FOIA response PDF (contains personal email) never committed
 illinois-revenue-sharing-2026/26-2759.Response.pdf
+# Ledger & Whistle email header: generated backgrounds stay local; contact sheet is local too
+brand/email-header/raw/
+brand/email-header/contact-sheet.png

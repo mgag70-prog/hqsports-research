@@ -186,6 +186,7 @@ DATED = re.compile(r"\b(?:January|February|March|April|May|June|July|August|Sept
 KNOWN |= {"1998", "2021"}                                   # disclosure, on record in mlb-154-games-2026 and mlb-lockout-2026
 KNOWN |= {"2004-05", "2005", "1994", "1984"}                # mlb-cap-valuations-2026/draft.md (NHL season, cap year; NFL and NBA cap years)
 def stray_numbers(text, label, known=KNOWN):
+    text = re.sub(r"\]\([^)]*\)", "]", text)          # link targets in the Sources list are not figures
     body = DATED.sub("", norm("\n".join(l for l in text.splitlines() if not l.startswith("![") and "captions.md, fig-" not in l and not l.startswith("**fig-"))))
     scanned = NUMBER.findall(body)
     check(f"{label}: numbers scanned", len(scanned) > 20, True)

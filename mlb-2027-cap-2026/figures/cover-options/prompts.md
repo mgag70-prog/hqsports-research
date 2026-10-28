@@ -73,3 +73,20 @@ An empty batting cage at night, its dark netting bulging and sagging under a hea
 
 Cinematic editorial photograph for a publication about the money in sport, lit like a film poster still: high contrast, one hard dramatic key light, deep black shadows, rich dark navy blue tones throughout, and one bold accent of brick red somewhere in the scene. Fine film grain, polished and intense, full-bleed with no empty panel. Subject: An empty batting cage at night, its dark netting bulging and sagging under a heap of worn baseballs piled far above a brick red top rail, balls spilling through the gaps onto bare ground, one floodlight raking across from the side. Wide 16:9 frame, the scene filling the whole image. The lower third of the frame stays darker and simpler than the rest, with no small objects in it, so a caption can sit over it. The image contains no text of any kind: no letters, words, numbers, digits, captions, signage, scoreboards, labels or watermarks, and every surface that would normally carry writing is blank. No logos, no team marks, no mascots, no team colors or insignia. No people and no faces.
 
+## Option C2 (edit of option C's background)
+
+- Date: 2026-10-28
+- Endpoint: fal-ai/nano-banana-pro/edit
+- Seed: 5113
+- Request: 01a183b5-31f1-7771-8128-210c03132700
+- Background: figures/raw/cover-options/option-C2-background.png, 2752x1536
+- Cost: $0.15
+
+### Subject
+
+Edit this photograph. Change only the ball: make it a normal white leather baseball with red stitching, its white leather lit brightly by the same floodlights, still smashing upward through the red painted wooden beam with exactly the same splinters, paint chips and debris flying around it. Keep the beam, the debris, the floodlights, the night sky, the framing and the composition exactly as they are. Nothing is printed or stamped on the ball.
+
+### Prompt as sent
+
+Edit this photograph. Change only the ball: make it a normal white leather baseball with red stitching, its white leather lit brightly by the same floodlights, still smashing upward through the red painted wooden beam with exactly the same splinters, paint chips and debris flying around it. Keep the beam, the debris, the floodlights, the night sky, the framing and the composition exactly as they are. Nothing is printed or stamped on the ball. The image contains no text of any kind: no letters, words, numbers, digits, captions, signage, scoreboards, labels or watermarks, and every surface that would normally carry writing is blank. No logos, no team marks, no mascots, no team colors or insignia. No people and no faces.
+

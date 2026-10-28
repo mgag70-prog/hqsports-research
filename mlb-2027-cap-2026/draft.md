@@ -4,12 +4,6 @@
 
 ---
 
-*Construction note. Payrolls are Spotrac's 2027 luxury-tax payrolls, read October 27, 2026, which include player benefits, minor league salaries and the pre-arbitration bonus pool; AP reported on October 24 that the owners' cap is "based on luxury tax payroll figures." Two measures run through the piece and each figure says which it is. Signed contracts means guaranteed deals plus those fixed items, with nothing projected. Projected adds Spotrac's estimates of arbitration and pre-arbitration salaries, which are estimates, not awarded salaries. October rosters are incomplete, so payrolls will rise, which only widens the gaps at the top. Nobody has said publicly how the proposal treats contracts already signed; this piece measures the problem, not the rule that would solve it. Every number is recomputed from the data files by model/recompute.py. Not legal or financial advice.*
-
-*Disclosure: I held Cubs season tickets from 1998 to 2021. The Cubs' projected 2027 payroll is $209.35 million, $36.0 million under the cap.*
-
----
-
 ## The Dodgers
 
 Start with the guaranteed contracts and nothing else. The Dodgers have $355.84 million of signed deals on the 2027 books, $110.5 million over a $245.3 million cap before anyone counts a dollar of benefits. Spotrac then adds what every club carries: $18.5 million of player benefits, $2.75 million of minor league salaries and a $1,666,666 bonus pool for pre-arbitration players. On signed contracts the Dodgers are at $378.76 million, $133.5 million over. Projected, with Spotrac's arbitration and pre-arbitration estimates, they're at $393.81 million, $148.5 million over.
@@ -79,6 +73,27 @@ And the basis is Spotrac's, not MLB's official competitive-balance-tax calculati
 ## What this predicts
 
 If the next agreement includes a hard cap, based on what is being reported, it includes a transition rule for contracts signed before it (grandfathering, a phase-in or a rollback), and no club is forced to release a player to get under the cap in its first season. Checkable when the agreement's terms are published.
+
+## About this piece
+
+*Construction note. Payrolls are Spotrac's 2027 luxury-tax payrolls, read October 27, 2026, which include player benefits, minor league salaries and the pre-arbitration bonus pool; AP reported on October 24 that the owners' cap is "based on luxury tax payroll figures." Two measures run through the piece and each figure says which it is. Signed contracts means guaranteed deals plus those fixed items, with nothing projected. Projected adds Spotrac's estimates of arbitration and pre-arbitration salaries, which are estimates, not awarded salaries. October rosters are incomplete, so payrolls will rise, which only widens the gaps at the top. Nobody has said publicly how the proposal treats contracts already signed; this piece measures the problem, not the rule that would solve it. Every number is recomputed from the data files by model/recompute.py. Not legal or financial advice.*
+
+*Disclosure: I held Cubs season tickets from 1998 to 2021. The Cubs' projected 2027 payroll is $209.35 million, $36.0 million under the cap.*
+
+## Sources
+
+- Spotrac, [2027 MLB team tax tracker](https://www.spotrac.com/mlb/tax/_/year/2027), read October 27, 2026
+- Spotrac, [Dodgers 2027 luxury-tax breakdown](https://www.spotrac.com/mlb/los-angeles-dodgers/tax/_/year/2027)
+- Spotrac, [2027 player rankings by luxury tax](https://www.spotrac.com/mlb/rankings/player/_/year/2027/sort/tax_total)
+- Spotrac, [MLB contracts by total value](https://www.spotrac.com/mlb/contracts/sort-average/)
+- AP (Ronald Blum), [Union head calls MLB's salary cap proposal 'nuclear bomb'](https://sports.yahoo.com/articles/union-head-calls-mlbs-salary-000141929.html), October 24, 2026
+- RG (Sergey Demidov), [Manfred: Brewers-Rays series bolsters salary cap case](https://rg.org/news/baseball/rob-manfred-small-market-world-series-salary-cap-bruce-meyer-mlbpa), October 24, 2026
+- CBS Sports, [MLB CBA negotiations timeline](https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/)
+- CBS Sports (Dayn Perry), [MLB officially proposes salary cap and floor](https://www.cbssports.com/mlb/news/mlb-proposes-salary-cap-floor-cba-negotiations-mlbpa/), May 28, 2026
+- Pitcher List (Joe Landolina), [Analyzing MLB's salary cap proposal](https://pitcherlist.com/analyzing-mlbs-salary-cap-proposal-who-benefits/), June 5, 2026
+- Sportsnaut (Isaac Ciravolo), [MLB's CBA proposal: hard caps, max contracts](https://sportsnaut.com/mlb/mlb-cba-proposal-salary-cap-max-contracts), June 26, 2026
+- CBS Sports, [2026 MLB playoff bracket](https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/)
+- Data and checking script: [mlb-2027-cap-2026 on GitHub](https://github.com/mgag70-prog/hqsports-research/tree/main/mlb-2027-cap-2026)
 
 ---
 

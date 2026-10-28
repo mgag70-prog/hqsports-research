@@ -1,0 +1,22 @@
+key,value,unit,source,note
+cap_2027,245.3,USD millions,"AP (Ronald Blum), Oct 24, 2026, https://sports.yahoo.com/articles/union-head-calls-mlbs-salary-000141929.html; CBS Sports May 28, 2026, https://www.cbssports.com/mlb/news/mlb-proposes-salary-cap-floor-cba-negotiations-mlbpa/","owners' proposed 2027 cap; AP: 'based on luxury tax payroll figures'; CBS: including benefits"
+floor_2027,171.2,USD millions,CBS Sports May 28 2026,owners' proposed 2027 floor including benefits
+max_switch_pct,15,percent of cap,"CBS CBA timeline, June 25 entry, https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/","max for a player changing teams: 5 years at 15% of cap, rising 5%/yr; $202M at the 2027 cap"
+max_cornerstone_pct,16,percent of cap,same,"'Cornerstone Player' re-signing: 6 years at 16% of cap; $265M at the 2027 cap"
+max_contract_total,265,USD millions,"AP Oct 24 2026 (free-agent contracts capped at $265M over six seasons); CBS timeline June 25",largest contract the proposal allows
+max_switch_total,202,USD millions,CBS timeline June 25,five-year max for a player changing teams
+ap_single_player_rule,15% of a team's payroll,,"AP Oct 24 2026","AP's wording: no single player may take more than 15% of a team's payroll"
+spotrac_2027_benefits_LAD,18.5,USD millions,"https://www.spotrac.com/mlb/los-angeles-dodgers/tax/_/year/2027 (fetched Oct 27, 2026)","Spotrac 2027 projected tax payroll = guaranteed + projected arbitration + projected pre-arb + player benefits $18.5M + minor league + pre-arb bonus pool $1,666,666"
+spotrac_2027_threshold,247,USD millions,same,"Spotrac's assumed 2027 CBT threshold (current schedule); not the proposed cap"
+meyer_quote,nuclear bomb,,"AP Oct 24 2026",MLBPA interim executive director Bruce Meyer on the cap proposal
+manfred_quote,"Once every 40 years is not enough.",,"RG (Sergey Demidov) Oct 24 2026, https://rg.org/news/baseball/rob-manfred-small-market-world-series-salary-cap-bruce-meyer-mlbpa",Manfred before WS Game 1 on small-market World Series
+manfred_quote2,"It's not that no small market can win, it's just that it's pretty rare.",,AP Oct 24 2026,
+cba_expires,"11:59 p.m. ET, December 1, 2026",,AP Oct 24 2026; Forbes Sept 21 2026,lockout expected immediately after per AP
+spring_training,"February 9, 2027 (workouts)",,AP Oct 24 2026,
+opening_day,"March 24, 2027",,AP Oct 24 2026,
+ws_game1,"Brewers 3, Rays 2 (Oct 23, Milwaukee)",,"NBC Chicago/AP, https://www.nbcchicago.com/mlb/brewers-win-game-1-world-series-rays/4006837/",UPDATE series status at publication
+existing_contracts_treatment,not disclosed,,"Pitcher List (Joe Landolina) June 5 2026, https://pitcherlist.com/analyzing-mlbs-salary-cap-proposal-who-benefits/; Sportsnaut (Isaac Ciravolo) June 26 2026, https://sportsnaut.com/mlb/mlb-cba-proposal-salary-cap-max-contracts","no public source says how existing contracts or over-cap clubs would be handled; Pitcher List: 'Not mentioned is what to do about teams like the Los Angeles Dodgers and New York Mets'; Sportsnaut: existing deferrals like Ohtani's grandfathered; deferrals banned on new deals"
+mlb_clubs_decrease,8,clubs,Pitcher List June 5 2026,MLB said 8 clubs' payrolls would decrease under the cap (per Pitcher List)
+max_rules_scope,free-agent years only; pre-arb extensions exempt; raises capped at 5%,,Sportsnaut June 26 2026,
+nhl_2005_rollback,24,percent,mlb-cap-valuations-2026/draft.md (NHL CBA explainer / Monthly Labor Review),"when the NHL adopted a cap in 2005 every existing contract was cut 24%: the one precedent for a league adding a cap mid-contract"
+ws_status,"Brewers lead 3-1 (Game 1 Brewers 3-2, Oct 23; Game 2 Brewers 5-4, Oct 24; Game 3 Brewers 10-1, Oct 26; Game 4 Rays 4-3 in 12 innings, Oct 27); Game 5 Wednesday Oct 28, 8 p.m. ET, at Tampa Bay",,"CBS Sports bracket, https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",series status going into Game 5; the piece publishes before Game 5

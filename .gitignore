@@ -19,3 +19,11 @@ illinois-revenue-sharing-2026/figures/cover-options/contact-sheet.png
 # Spotrac pages stay local; the parsed CSVs in data/ are committed
 mlb-floor-2026/raw/*.html
 mlb-floor-2026/figures/cover-options/contact-sheet.png
+# Ledger header: generated backgrounds stay local
+notes/the-ledger/header/raw/
+# 2027 cap piece: Spotrac pages stay local
+mlb-2027-cap-2026/raw/*.html
+# 2027 cap piece: contact sheet is 12 MB
+mlb-2027-cap-2026/figures/cover-options/contact-sheet.png
+# FOIA response PDF (contains personal email) never committed
+illinois-revenue-sharing-2026/26-2759.Response.pdf

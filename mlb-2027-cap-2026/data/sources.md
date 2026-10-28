@@ -1,0 +1,14 @@
+# Sources: mlb-2027-cap-2026
+- Spotrac 2027 team tax tracker (projected): https://www.spotrac.com/mlb/tax/_/year/2027 ; payroll, AAV, cash: /mlb/payroll|aav|cash/_/year/2027 (all fetched Oct 27, 2026 via model/parse_spotrac_2027.py from raw/ HTML, gitignored)
+- Spotrac Dodgers 2027 tax breakdown (benefits $18.5M, minor league $2.75M, pre-arb bonus pool $1,666,666): https://www.spotrac.com/mlb/los-angeles-dodgers/tax/_/year/2027 ; also Mets, Yankees team pages
+- Spotrac 2027 player rankings by luxury tax: https://www.spotrac.com/mlb/rankings/player/_/year/2027/sort/tax_total
+- Spotrac contracts by total value: https://www.spotrac.com/mlb/contracts/sort-average/ (nominal AAV)
+- AP (Ronald Blum), Oct 24, 2026, Meyer "nuclear bomb", Manfred, cap based on luxury-tax payroll, $265M max, Dec 1, Feb 9, March 24: https://sports.yahoo.com/articles/union-head-calls-mlbs-salary-000141929.html
+- RG (Sergey Demidov), Oct 24, 2026, Manfred quotes: https://rg.org/news/baseball/rob-manfred-small-market-world-series-salary-cap-bruce-meyer-mlbpa
+- CBS Sports CBA timeline (June 25 max-contract proposal): https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/
+- CBS Sports, May 28, 2026, cap and floor including benefits: https://www.cbssports.com/mlb/news/mlb-proposes-salary-cap-floor-cba-negotiations-mlbpa/
+- Pitcher List, June 5, 2026 (existing contracts not addressed; MLB says 8 clubs decrease): https://pitcherlist.com/analyzing-mlbs-salary-cap-proposal-who-benefits/
+- Sportsnaut, June 26, 2026 (max-contract details, deferral ban, grandfathered deferrals): https://sportsnaut.com/mlb/mlb-cba-proposal-salary-cap-max-contracts
+- World Series Game 1: NBC Chicago/AP: https://www.nbcchicago.com/mlb/brewers-win-game-1-world-series-rays/4006837/
+- Prior pieces: mlb-floor-2026 (2026 payrolls vs cap/floor), mlb-cap-valuations-2026 (NHL 2005 precedent, 24% rollback)
+- World Series through Game 4 (Brewers lead 3-1) and the Game 5 time: CBS Sports bracket: https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/

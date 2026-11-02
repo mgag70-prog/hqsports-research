@@ -1,0 +1,18 @@
+{
+  "builder": "cover-options",
+  "note": "Full-bleed cover composed by figures/cover-options/build_options.py (command: cover), not by tools/compose_cover.py, whose panel layout would not reproduce it. Background is option A as generated, unedited; its record is in cover-prompt.md. Rebuild: python3 stadium-subsidies-2026/figures/cover-options/build_options.py cover",
+  "subject": "A gleaming modern stadium at night rising on top of a colossal heap of plain unmarked gold ingots that forms its whole foundation, the gold blazing under floodlights, brick red steel trusses in the roof, low heroic angle from below, deep night sky.",
+  "seed": 6101,
+  "request": "01a19210-37f7-7553-8434-d79382f42872",
+  "headline": [
+    "Public money.",
+    "Private stadium."
+  ],
+  "square_crop_x": 0.22,
+  "formats": {
+    "wide": {
+      "headline_max_width": 0.46,
+      "headline_max_size": 0.12
+    }
+  }
+}

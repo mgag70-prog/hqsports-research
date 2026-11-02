@@ -1,6 +1,6 @@
 # X thread: 2027 cap piece
 
-Character counts use X's rule that every link counts as 23 characters; [URL] is the Substack link once published. No hashtags, emoji, em dashes, or tags. Every number appears verbatim in draft.md, checked by model/recompute.py.
+Character counts use X's rule that every link counts as 23 characters; Published October 28, 2026: https://ledgerandwhistle.substack.com/p/the-dodgers-are-already-133-million No hashtags, emoji, em dashes, or tags. Every number appears verbatim in draft.md, checked by model/recompute.py.
 
 ## Post 1
 
@@ -34,5 +34,5 @@ Eighteen contracts running in 2027 are bigger than $265 million, the largest the
 
 ## Post 6
 
-At the other end, twelve clubs project under the $171.2 million floor. The Brewers don't: $58.0 million of projected arbitration salaries lifts them to $192.41 million, which cuts against my own floor-piece prediction. The data and the script:
-[URL]
+At the other end, twelve clubs project under the $171.2 million floor. The Brewers don't: $58.0 million of projected arbitration salaries lifts them to $192.41 million, which cuts against my own floor-piece prediction. Full piece:
+https://ledgerandwhistle.substack.com/p/the-dodgers-are-already-133-million

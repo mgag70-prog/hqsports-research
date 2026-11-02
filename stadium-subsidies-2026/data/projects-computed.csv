@@ -1,0 +1,39 @@
+id,league,team,venue,kind,status,open_year,total_cost_m,public_m,private_m,public_share_pct,funding_class,referendum
+chiefs,NFL,Kansas City Chiefs,Kansas domed stadium,new,approved,2031,3000,1800,1200.0,60.0,majority public,none
+titans,NFL,Tennessee Titans,New Nissan Stadium,new,under construction,2027,2100,1260,840.0,60.0,majority public,none
+royals,MLB,Kansas City Royals,Crown Center ballpark,new,approved,2030,1900,1140,760.0,60.0,majority public,none
+commanders,NFL,Washington Commanders,RFK campus stadium,new,approved,2030,3700,1100,2600.0,29.7,minority public,none
+rays,MLB,Tampa Bay Rays,Hillsborough College site ballpark,new,approved,2029,2360,876,1484.0,37.1,minority public,none
+bills,NFL,Buffalo Bills,Highmark Stadium,new,opened,2026,2100,850,1250.0,40.5,minority public,none
+thunder,NBA,Oklahoma City Thunder,New OKC arena,new,under construction,2028,900,850,50.0,94.4,majority public,"passed, 71% yes (Dec 12, 2023)"
+browns,NFL,Cleveland Browns,Brook Park domed stadium,new,under construction,2029,2400,845,1555.0,35.2,minority public,none
+spurs,NBA,San Antonio Spurs,Downtown arena,new,approved,2032,1300,800,500.0,61.5,majority public,"Bexar County Prop B passed, 52% yes (Nov 4, 2025)"
+jaguars,NFL,Jacksonville Jaguars,EverBank Stadium (renovation),renovation,under construction,2028,1400,775,625.0,55.4,majority public,none
+raiders,NFL,Las Vegas Raiders,Allegiant Stadium,new,opened,2020,1970,750,1220.0,38.1,minority public,none
+panthers,NFL,Carolina Panthers,Bank of America Stadium (renovation),renovation,under construction,2030,800,650,150.0,81.2,majority public,none
+monumental,NBA/NHL,Washington Wizards and Capitals,Capital One Arena (renovation),renovation,under construction,2027,800,515,285.0,64.4,majority public,none
+rangers,MLB,Texas Rangers,Globe Life Field,new,opened,2020,1000,500,500.0,50.0,minority public,"passed, about 60% yes (Nov 8, 2016)"
+brewers,MLB,Milwaukee Brewers,American Family Field (repairs),renovation,approved,2050,610,500,110.0,82.0,majority public,none
+dbacks,MLB,Arizona Diamondbacks,Chase Field (renovation),renovation,approved,,750,500,250.0,66.7,majority public,none
+grizzlies,NBA,Memphis Grizzlies,FedExForum (renovation),renovation,approved,2032,550,500,50.0,90.9,majority public,none
+vikings,NFL,Minnesota Vikings,U.S. Bank Stadium,new,opened,2016,1100,498,602.0,45.3,minority public,none
+athletics,MLB,Athletics,Las Vegas ballpark,new,under construction,2028,2000,380,1620.0,19.0,minority public,none
+lightning,NHL,Tampa Bay Lightning,Benchmark International Arena (renovation),renovation,approved,,471.9,358.5,113.4,76.0,majority public,none
+bengals,NFL,Cincinnati Bengals,Paycor Stadium (renovation),renovation,approved,,470,350,120.0,74.5,majority public,none
+sharks,NHL,San Jose Sharks,SAP Center (renovation),renovation,approved,,425,325,100.0,76.5,majority public,none
+lca,NBA/NHL,Detroit Pistons and Red Wings,Little Caesars Arena,new,opened,2017,863,324,539.0,37.5,minority public,none
+braves,MLB,Atlanta Braves,Truist Park,new,opened,2017,672,323,349.0,48.1,minority public,none
+saints,NFL,New Orleans Saints,Caesars Superdome (renovation),renovation,opened,2024,450,300,150.0,66.7,majority public,none
+pacers,NBA,Indiana Pacers,Gainbridge Fieldhouse (renovation),renovation,opened,2022,360,295,65.0,81.9,majority public,none
+guardians,MLB,Cleveland Guardians,Progressive Field (renovation),renovation,opened,2025,435,285,150.0,65.5,majority public,none
+bucks,NBA,Milwaukee Bucks,Fiserv Forum,new,opened,2018,524,250,274.0,47.7,minority public,none
+kings,NBA,Sacramento Kings,Golden 1 Center,new,opened,2016,558.2,223,335.2,39.9,minority public,none
+falcons,NFL,Atlanta Falcons,Mercedes-Benz Stadium,new,opened,2017,1500,214,1286.0,14.3,minority public,none
+rams_chargers,NFL,Los Angeles Rams and Chargers,SoFi Stadium,new,opened,2020,5000,0,5000.0,0.0,private,none
+cubs,MLB,Chicago Cubs,Wrigley Field (1060 Project),renovation,opened,2019,575,0,575.0,0.0,private,none
+warriors,NBA,Golden State Warriors,Chase Center,new,opened,2019,1400,0,1400.0,0.0,private,none
+kraken,NHL,Seattle Kraken,Climate Pledge Arena,new,opened,2021,1150,0,1150.0,0.0,private,none
+clippers,NBA,LA Clippers,Intuit Dome,new,opened,2024,2000,0,2000.0,0.0,private,none
+knights,NHL,Vegas Golden Knights,T-Mobile Arena,new,opened,2016,375,0,375.0,0.0,private,none
+sixers_flyers_reno,NBA/NHL,Philadelphia 76ers and Flyers,Wells Fargo Center (renovation),renovation,opened,2023,400,0,400.0,0.0,private,none
+ducks,NHL,Anaheim Ducks,Honda Center (renovation),renovation,under construction,2027,1100,0,1100.0,0.0,private,none

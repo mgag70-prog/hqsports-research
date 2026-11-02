@@ -1,0 +1,34 @@
+key,value,unit,what_it_measures,source,url,check
+bradbury_total_51b,51,USD billions (2024 dollars),public money committed to new major-league venues since the 1920s including commitments through 2032,"J.C. Bradbury, How Much Do Sports Stadiums Cost?, Aug 5 2026 (updated Aug 9)",https://jcbradbury.com/stadium-costs/,evidence-2/verified-22
+jes_33b,33,USD billions,state and local money for major-league venues 1970-2020 (US and Canada),"Bradbury, Coates & Humphreys, Journal of Economic Surveys, 2023",https://conversableeconomist.com/2024/01/12/professional-sports-and-the-lack-of-local-economic-payoffs/,evidence-6
+jes_median_share_73,73,percent,median public share of construction cost among venues that received public money 1970-2020,same,same,evidence-6
+bradbury_median_nfl,68,percent,median public share by league (all venues),Bradbury Aug 2026,https://jcbradbury.com/stadium-costs/,verified-22
+bradbury_median_mlb,70,percent,,same,same,verified-22
+bradbury_median_nba,74,percent,,same,same,verified-22
+bradbury_median_nhl,64,percent,,same,same,verified-22
+bradbury_decade_1990s,72,percent,median public share 1990s (about),same,same,verified-22
+bradbury_decade_2010s,47,percent,median public share 2010s,same,same,verified-22
+bradbury_decade_2020s,38,percent,median public share 2020s,same,same,verified-22
+bradbury_median_cost_2010s,605,USD millions (2024 dollars),median public cost per venue in the 2010s,same,same,verified-22
+referendum_pass_rate,58,percent,share of stadium referendums that passed,"J.C. Bradbury, The Conversation, Sept 4 2026 (republished Cobb County Courier Sept 7 2026)",https://cobbcountycourier.com/2026/09/taxpayers-dont-want-to-pay-for-new-nfl-stadiums-so-why-did-politicians-approve-billions-in-subsidies-to-fund-six-new-ones/,verified-23 (credit Bradbury's article only)
+elected_pass_rate,96,percent,share of stadium proposals approved when elected bodies decide,same,same,verified-23
+proposals_to_voters,6 of 39,,new-stadium proposals 2005-2017 that went to voters,same,same,verified-23
+bradbury_six_subsidy_total,5.74,USD billions,public subsidies across the six newest NFL stadiums with announced budgets,same,same,evidence-10
+igm_agree,24 of 34,,IGM panel economists voting who agreed subsidies likely cost taxpayers more than local benefits (Jan 31 2017); 1 disagreed,Kent Clark Center / IGM,https://kentclarkcenter.org/?p=3583,evidence-5
+igm_weighted,83,percent,confidence-weighted agreement,"St. Louis Fed, Scott Wolla, May 2017",https://www.stlouisfed.org/publications/page-one-economics/2017/05/01/the-economics-of-subsidizing-sports-stadiums,evidence-5
+studies_130,130,studies,'more than 130 studies' over 30+ years; near-universal consensus of no large positive local effects,"Bradbury, Coates & Humphreys, J. Economic Surveys 2023",https://conversableeconomist.com/2024/01/12/professional-sports-and-the-lack-of-local-economic-payoffs/,evidence-6
+cv_share_13,13,percent,public-good (civic pride) value as share of construction cost across contingent valuation studies,Bradbury Coates Humphreys policy retrospective Jan 30 2023,https://www.kennesaw.edu/coles/centers/markets-economic-opportunity/docs/bradbury-coates-humphreys-01-30-2023.pdf,evidence-6
+ntj_federal_loss,4.3,USD billions,total federal revenue loss from tax-exempt bonds for 57 stadiums built or renovated since 2000,"Drukker, Gayer & Gold, National Tax Journal 73(1), March 2020",https://ideas.repec.org/a/ntj/journl/v73y2020i1p157-196.html,evidence-3
+propheter_2022,654.3,USD millions,additional property tax 105 venues would have owed in 2022,"Geoffrey Propheter, Major League Sports and the Property Tax (Springer 2022), via Field of Schemes review",https://www.fieldofschemes.com/2024/02/07/20905/stadiums-and-arenas-are-set-to-collect-18b-in-property-tax-breaks-over-their-lifetimes/,evidence-4
+propheter_pv,18,USD billions,present value of foregone property tax over current leases (3% discount),same,same,evidence-4
+propheter_schools,7.5,USD billions,portion that would have gone to K-12 schools,same,same,evidence-4
+brown_local_rev,85,percent,increase in local revenue for NFL teams moving into new stadiums,"Brown, Nagel, McEvoy & Rascher, Sport Marketing Quarterly 13(4), 2004",https://mpra.ub.uni-muenchen.de/25741,evidence-11
+brown_luxury,623,percent,increase in luxury-box revenue,same,same,evidence-11
+brown_value,35,percent,average franchise value increase (seven teams; 1990s data),same,same,evidence-11
+illinois_poll,58 to 32,percent oppose/support,Illinois voters on taxpayer funding for a Bears stadium,"Emerson/WGN, January 2026, 1,000 likely voters",https://www.fox32chicago.com/news/bears-stadium-funding-poll,evidence-9
+tax_foundation_2024,13,USD billions,new stadium subsidies proposed in 2024 across 12 cities (more than),"Tax Foundation, Oct 3 2024",https://taxfoundation.org/blog/sports-stadium-subsidies-taxpayers/,evidence-1
+cobb_shortfall,15,USD millions a year,Cobb County net annual shortfall from Truist Park (about; $14.62M),"Bradbury, Kennesaw State, March 2022",https://www.kennesaw.edu/coles/centers/markets-economic-opportunity/docs/bradbury-cobb-report-march-2022.pdf,evidence-7
+matheson_quote,No one has ever built a new stadium and provided more affordable tickets,,Victor Matheson (Holy Cross) quoted in Fortune (quote is the opening of his sentence),"Fortune (Catherina Gioino), June 11 2026",https://fortune.com/2026/06/11/american-taxpayers-spent-33-billion-sports-stadiums-fewer-seats-higher-prices/,evidence-1
+no_tax_subsidies_act,H.R. 2434 / S. 1192 (2025),,bills to end tax-exempt bonds for pro stadiums; in committee at last check (recheck congress.gov),congress.gov,https://www.congress.gov/119/bills/hr2434/BILLS-119hr2434ih.htm,evidence-3 (RECHECK)
+bills_seats,60108 vs 71608,seats,Bills' new stadium capacity vs old,StadiumDB,https://stadiumdb.com/stadiums/usa/highmark_stadium,verified-3
+nfl_g5,250,USD millions per team,NFL G-5 stadium loan cap (approved Dec 2025; was $200M under G-4),Sportico,https://www.sportico.com/leagues/football/2025/nfl-approves-buffalo-bills-debt-waiver-stadium-1234845545/,evidence-11

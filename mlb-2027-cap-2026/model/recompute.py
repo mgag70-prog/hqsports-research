@@ -219,12 +219,12 @@ if draft_path.exists() and thread_path.exists():
     check("thread has six posts", len(posts), 6, 0)
     for i, body in enumerate(posts, 1):
         text = "\n".join(l for l in body.strip().splitlines() if not l.startswith("Attach:")).strip()
-        length = len(text.replace("[URL]", "x" * 23))
+        length = len(re.sub(r"https?://\S+|\[URL\]", "x" * 23, text))
         check(f"post {i} length {length} under 280", length <= 280, True)
         for fig in NUMBER.findall(text):
             if fig.strip() and norm(fig) not in draft:
                 check(f"post {i} figure in draft: {fig}", False, True)
-    check("thread ends with the [URL] placeholder", posts[-1].strip().endswith("[URL]"), True)
+    check("thread ends with the piece link", posts[-1].strip().endswith("https://ledgerandwhistle.substack.com/p/the-dodgers-are-already-133-million"), True)
     check("thread has no em dashes", thread_path.read_text().count("—"), 0, 0)
 
 if fails: print(f"\n{len(fails)} CHECK(S) FAILED: {fails}"); sys.exit(1)

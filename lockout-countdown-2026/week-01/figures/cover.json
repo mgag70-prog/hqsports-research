@@ -1,0 +1,18 @@
+{
+  "builder": "cover-options",
+  "note": "Full-bleed cover composed by figures/cover-options/build_options.py (command: cover), not by tools/compose_cover.py, whose panel layout would not reproduce it. Background is option C as generated, unedited; its record is in cover-prompt.md. Rebuild: python3 lockout-countdown-2026/week-01/figures/cover-options/build_options.py cover",
+  "subject": "A colossal glass hourglass standing on a floodlit pitcher's mound at night, brick red sand pouring through its neck, one white leather baseball with red stitching half buried in the sand in the bottom bulb, two dead straight white chalk lines running away across the dark infield behind it, haze in the light beams.",
+  "seed": 7103,
+  "request": "01a1aa05-b82a-7650-b251-e68d9093521d",
+  "headline": [
+    "26 days.",
+    "Same lines."
+  ],
+  "square_crop_x": 0.22,
+  "formats": {
+    "wide": {
+      "headline_max_width": 0.33,
+      "headline_max_size": 0.12
+    }
+  }
+}

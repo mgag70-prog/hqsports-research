@@ -1,0 +1,22 @@
+{
+  "builder": "cover-options",
+  "note": "Full-bleed cover composed by figures/cover-options/build_options.py (command: cover), not by tools/compose_cover.py, whose panel layout would not reproduce it. Background is option C as generated, mirrored in composition (flip); its record is in cover-prompt.md. The square moves the wordmark above the scale. Rebuild: python3 scarcity-premium-2026/figures/cover-options/build_options.py cover",
+  "subject": "A huge antique brass balance scale in a dark marble saleroom, one white leather baseball with red stitching sitting in the left pan and pulling it far down, a tall stack of plain unmarked gold ingots in the right pan lifted high into the air, one hard spotlight on the ball, brick red velvet behind, gold glinting in haze.",
+  "seed": 8103,
+  "request": "01a1abf2-3140-7862-bdd0-829c450f541f",
+  "headline": [
+    "Sold above",
+    "the estimate."
+  ],
+  "square_crop_x": 0.22,
+  "flip": true,
+  "formats": {
+    "wide": {
+      "headline_max_width": 0.44,
+      "headline_max_size": 0.12
+    },
+    "square": {
+      "wordmark_baseline": 0.043
+    }
+  }
+}

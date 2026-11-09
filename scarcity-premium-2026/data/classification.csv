@@ -1,0 +1,15 @@
+id,team,year,group,reason
+jaguars_2011,Jacksonville Jaguars,2011,out_of_range,announced 2011; low confidence
+pistons_2011,Detroit Pistons,2011,out_of_range,announced 2011; no Forbes figure
+coyotes_2014,Arizona Coyotes,2014,no_price,stake price not found
+coyotes_2019,Arizona Coyotes,2019,no_price,price not found
+clippers_2014,Los Angeles Clippers,2014,forced,forced sale after NBA banned Donald Sterling
+dodgers_2012,Los Angeles Dodgers,2012,forced,bankruptcy auction; price included stadium and land
+hornets_2012,New Orleans Hornets (Pelicans),2012,league_sold,NBA was the seller
+coyotes_2013,Phoenix Coyotes,2013,league_sold,NHL was the seller
+utah_2024,Utah (ex-Arizona Coyotes hockey assets),2024,league_sold,league-arranged transfer priced like expansion
+bucks_2023,Milwaukee Bucks,2023,not_control,25% stake; control not transferred at announcement
+nets_2019,Brooklyn Nets,2019,not_control,price set by a 2018 option
+lightning_2024,Tampa Bay Lightning,2024,not_control,Vinik keeps control for three years
+islanders_2014,New York Islanders,2014,not_control,control passed only in 2016; Forbes figure reported after the deal
+twolves_2021,Minnesota Timberwolves,2021,not_control,staged purchase; control passed in 2025 at the 2021 price ($1.5B) against Forbes $3.1B (Oct 2024)

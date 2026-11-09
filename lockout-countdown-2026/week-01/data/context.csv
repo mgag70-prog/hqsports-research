@@ -1,0 +1,39 @@
+key,value,unit,source,url,note
+cba_expires,"11:59 p.m. ET, December 1, 2026",,AP Oct 24 2026; ESPN Nov 3 2026,https://www.espn.com/mlb/story/_/id/50370860/mlb-proposes-delaying-salary-cap-2028-season,
+days_left_from_nov5,26,days,computed,,Nov 5 to Dec 1 (publication Thursday Nov 5)
+lockout_expected,December 2,,Just Baseball (Leo Morgenstern) Oct 13 2026 upd Nov 3; AP Oct 24,https://www.justbaseball.com/mlb/offseason-schedule-key-dates-lockout/,expected start if no deal
+proposal_date,"Tuesday, November 3, 2026",,"ESPN (Jeff Passan), Nov 3 2026",https://www.espn.com/mlb/story/_/id/50370860/mlb-proposes-delaying-salary-cap-2028-season,
+cap_2027_old,245.3,USD millions,ESPN Nov 3 2026,same,previous proposal (first year 2027)
+floor_2027_old,171.2,USD millions,ESPN Nov 3 2026,same,
+cap_2028,258.2,USD millions,ESPN Nov 3 2026,same,projected 2028 cap; 50-50 split of projected 2028 revenue
+floor_2028,180.2,USD millions,ESPN Nov 3 2026,same,projected 2028 floor
+floor_flex_pct,90,percent,ESPN Nov 3 2026,same,teams could spend as little as 90% of the floor in a year if multi-year minimum met
+cbt_2027,unchanged,,ESPN Nov 3 2026,same,CBT thresholds stay the same for 2027
+cbt_to_players,282,USD millions,ESPN Nov 3 2026,same,proposed CBT proceeds to players in cash; IRS limits present-day distribution to about $72M
+cbt_to_players_now,72,USD millions,ESPN Nov 3 2026,same,
+espn_floor_count,12,clubs,ESPN Nov 3 2026,same,"twelve teams, including the Brewers, would need to raise payroll to reach the projected floor"
+espn_ceiling_count,8,clubs,ESPN Nov 3 2026,same,eight teams above the projected ceiling
+min_salary_mlb,900000,USD,ESPN Nov 3 2026,same,contingent on cap; some at $1M
+prearb_pool_mlb,65,USD millions,ESPN Nov 3 2026,same,
+union_loss,1,USD billions (more than),ESPN Nov 3 2026,same,union: players lose more than $1B over life of proposal
+union_cbt,300,USD millions,ESPN Nov 3 2026,same,union counter: base CBT threshold (up $56M)
+union_min,1.5,USD millions,ESPN Nov 3 2026,same,union counter minimum salary (from $780K)
+union_prearb,180,USD millions,ESPN Nov 3 2026,same,union counter pre-arb pool (currently $50M)
+union_quote,continue to propose blowing up the current system and replacing it with one designed to line their pockets,,MLBPA statement via ESPN Nov 3 2026,same,
+free_agency_open,"November 2, 2026, 5 p.m. ET",,NBC Sports offseason calendar,https://www.nbcsports.com/mlb/news/mlb-offseason-calendar-2026-27-key-dates-free-agency-and-lockout-questions-answered,
+qo_value,23.15,USD millions,Just Baseball,https://www.justbaseball.com/mlb/offseason-schedule-key-dates-lockout/,qualifying offer
+qo_decisions,November 17,,AP (Ronald Blum) via KSL Nov 2 2026,https://www.ksl.com/article/51643185/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers,players have until Nov. 17 to accept
+qo_count,8,players,AP (Ronald Blum) via KSL Nov 2 2026,https://www.ksl.com/article/51643185/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers,"received the $23.15M qualifying offer Monday, Nov 2"
+rule5_protection,"6 p.m. ET, November 17",,Just Baseball,same,
+non_tender,November 20,,Just Baseball,same,
+gm_meetings,"November 9-12, Las Vegas",,Just Baseball,same,
+winter_meetings,"December 7-9, San Diego",,Just Baseball,same,most expect them cancelled
+rule5_draft,at risk,,Just Baseball,same,
+lockout_effects,no communication between players and team staff; transaction freeze; no facility access,,Just Baseball; ESPN/TSN Nov 3 2026,https://www.tsn.ca/mlb/article/will-there-be-a-lockout-a-salary-cap-mlbs-labor-battle-explained-n1-50370123/,
+espn_timeline,little bargaining in December; talks resume mid-to-late January; deal by early May to start games around June,,ESPN/TSN Nov 3 2026,same,"early May is the latest date that avoids losing 60 games, not ESPN's expectation"
+tv_60_games,60,games,ESPN/TSN Nov 3 2026; The Athletic Sept 28,same,losing 60+ games extends most national TV contracts a year
+lockout_2021_start,"December 2, 2021",,lockout memo; AP Feb 21 2022,https://www.foxnews.com/sports/mlb-makes-slight-moves-toward-players-longer-lockout-talk,
+lockout_2021_end,"March 10, 2022",,lockout memo (Cubs and Brewers FAQs dated Mar 10 2022),https://www.mlb.com/cubs/news/cba-fan-faq,
+lockout_2021_days,99,days,"widely reported length (Dec 2, 2021 through Mar 10, 2022, counting both days)",https://en.wikipedia.org/wiki/2021%E2%80%9322_Major_League_Baseball_lockout,
+lockout_2021_opening_day,"moved from March 31 to April 7, 2022; 162 games preserved, postponed games made up",,Wikipedia,https://en.wikipedia.org/wiki/2021%E2%80%9322_Major_League_Baseball_lockout,"April 14 was the March 9 postponement, overtaken by the March 10 deal"
+world_series,"Brewers def. Rays 4-1 (Game 5, 4-1, Oct 28)",,notes/sources/2026-11-facts.md,https://www.stlpr.org/npr/2026-10-28/brewers-beat-the-rays-to-win-the-first-world-series-title-in-franchise-history,

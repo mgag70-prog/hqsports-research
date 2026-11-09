@@ -2,7 +2,8 @@
 """Check a Substack Notes file: every note under 600 characters, the stated count right, no em dashes,
 hashtags or emoji, and every number in the text found in one of the source files given.
 
-Usage: python3 tools/check_notes.py notes/<file>.md <source files...>
+Usage: python3 tools/check_notes.py [--notes N] [--limit Day=CHARS ...] notes/<file>.md <source files...>
+(N defaults to 5; --limit raises one note's ceiling from 600, e.g. --limit Monday=1000)
 A number passes if it equals a CSV cell (to 0.05, so a rounded $16.5M matches 16.49), is a substring of a
 CSV cell (dates, times, keys), or appears in a Markdown source verbatim or with M expanded to " million"."""
 import csv, pathlib, re, sys
@@ -36,11 +37,20 @@ def found(tok, sources):
                 return name
     return None
 
-notes_path, *source_paths = sys.argv[1:]
+args = sys.argv[1:]
+expected, limits = 5, {}
+while args[0].startswith("--"):
+    if args[0] == "--notes":
+        expected = int(args[1])
+    elif args[0] == "--limit":
+        day, _, chars = args[1].partition("=")
+        limits[day] = int(chars)
+    args = args[2:]
+notes_path, *source_paths = args
 sources = {p: load(p) for p in source_paths}
 text = pathlib.Path(notes_path).read_text()
 sections = re.split(r"^## ", text, flags=re.M)[1:]
-check("notes file has five notes", len(sections) == 5, str(len(sections)))
+check(f"notes file has {expected} notes", len(sections) == expected, str(len(sections)))
 for sec in sections:
     title, _, rest = sec.partition("\n")
     lines = [l for l in rest.strip().splitlines()]
@@ -50,13 +60,14 @@ for sec in sections:
     n = len(body)
     label = title.split(":")[0]
     check(f"{label}: has an Attach line", len(attach) == 1)
-    check(f"{label}: {n} characters under 600", n < 600)
+    limit = next((v for k, v in limits.items() if label.startswith(k)), 600)
+    check(f"{label}: {n} characters under {limit}", n < limit if limit == 600 else n <= limit)
     stated = int(re.search(r"\d+", count_line[0]).group()) if count_line else -1
     check(f"{label}: stated count {stated} matches", stated == n)
     check(f"{label}: no em dashes", "—" not in body)
     check(f"{label}: no hashtags", not re.search(r"(^|\s)#\w", body))
     check(f"{label}: no emoji", all(ord(ch) < 0x2100 for ch in body))
-    for tok in NUMBER.findall(body):
+    for tok in NUMBER.findall(re.sub(r"https?://\S+", "", body)):
         tok = tok.rstrip(",")
         if tok.startswith("http") or len(tok.strip("$M")) == 0: continue
         src = found(tok, sources)

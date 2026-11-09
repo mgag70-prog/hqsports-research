@@ -1,0 +1,48 @@
+league,team,buyer,date,year,price,forbes,forbes_list,premium,group,other_assets,verified
+NBA,Detroit Pistons,Tom Gores (Platinum Equity),2011-04,2011,0.325,not found,Forbes NBA Valuations 2011,,out_of_range,Yes: Palace of Auburn Hills + DTE/Meadow Brook venues,no
+NFL,Jacksonville Jaguars,Shahid Khan,2011-11-29,2011,0.76,0.725,Forbes NFL Valuations 2011,4.8,out_of_range,Team only,partly
+NHL,St. Louis Blues,Tom Stillman group,2012-01-20,2012,0.13,0.157,Forbes NHL Valuations 2011,-17.2,clean,"Yes: Scottrade Center ops, AHL Peoria, Peabody interest",partly
+MLB,Los Angeles Dodgers,"Guggenheim Baseball (Walter, Johnson, Kasten)",2012-03-27,2012,2.15,1.4,Forbes MLB Valuations 2012,53.6,forced,Yes: Dodger Stadium; parking-lot land in JV with McCourt,yes
+NBA,New Orleans Hornets (Pelicans),Tom Benson,2012-04-13,2012,0.338,0.285,Forbes NBA Valuations 2012,18.6,league_sold,Team only,yes
+NBA,Memphis Grizzlies,Robert Pera group,2012-06-11,2012,0.377,0.269,Forbes NBA Valuations 2012,40.1,clean,Team only,partly
+NFL,Cleveland Browns,Jimmy & Dee Haslam,2012-08-02,2012,1.05,0.977,Forbes NFL Valuations 2011,7.5,clean,Team only,partly
+MLB,San Diego Padres,O'Malley/Seidler/Fowler group,2012-08-07,2012,0.8,0.458,Forbes MLB Valuations 2012,74.7,clean,Unclear: price may count $200M Fox Sports SD TV payment,partly
+NBA,Sacramento Kings,Vivek Ranadive group,2013-05-16,2013,0.534,0.525,Forbes NBA Valuations 2013,1.7,clean,not found (arena not mentioned),partly
+NHL,Phoenix Coyotes,IceArizona (Gosbee/LeBlanc) from NHL,2013-06,2013,0.17,0.134,Forbes NHL Valuations 2012,26.9,league_sold,Team only (Glendale lease separate),partly
+NHL,New Jersey Devils,Josh Harris / David Blitzer,2013-08-15,2013,0.32,0.205,Forbes NHL Valuations 2012,56.1,clean,Yes: Prudential Center operating rights; covers debt,partly
+NHL,Florida Panthers,Vincent Viola,2013-09-26,2013,0.25,0.17,Forbes NHL Valuations 2012,47.1,clean,Includes arena management rights (not verified),partly
+NBA,Milwaukee Bucks,Wes Edens / Marc Lasry,2014-04-16,2014,0.55,0.405,Forbes NBA Valuations 2014,35.8,clean,No (Kohl pledged $100M toward new arena),yes
+NBA,Los Angeles Clippers,Steve Ballmer,2014-05-29,2014,2.0,0.575,Forbes NBA Valuations 2014,247.8,forced,Team only,yes
+NHL,New York Islanders,Jon Ledecky / Scott Malkin,2014-08-19,2014,0.485,0.195,Forbes NHL Valuations 2013,148.7,not_control,No (Barclays lease),partly
+NFL,Buffalo Bills,Terry & Kim Pegula,2014-09-09,2014,1.4,0.935,Forbes NFL Valuations 2014,49.7,clean,Team only,yes
+NHL,Arizona Coyotes,Andrew Barroway (51%),2014-10-10,2014,not found,0.2,Forbes NHL Valuations 2013,,no_price,not found,no
+NBA,Atlanta Hawks,Antony Ressler group,2015-04-22,2015,0.85,0.825,Forbes NBA Valuations 2015,3.0,clean,Yes: operating control of Philips Arena,partly
+MLB,Seattle Mariners,First Avenue Entertainment (John Stanton) from Nintendo,2016-04-27,2016,1.4,1.2,Forbes MLB Valuations 2016,16.7,clean,Yes: ROOT Sports Northwest stake; MLB release 2016-04-27 says the $1.4B valuation covered FAE holdings (team and RSN),partly
+MLB,Miami Marlins,Bruce Sherman / Derek Jeter,2017-08-11,2017,1.2,0.94,Forbes MLB Valuations 2017,27.7,clean,not found (debt assumption reported in some accounts),yes
+NBA,Houston Rockets,Tilman Fertitta,2017-09-05,2017,2.2,1.65,Forbes NBA Valuations 2017,33.3,clean,not found (Toyota Center lease not mentioned),yes
+NHL,Carolina Hurricanes,Tom Dundon (61%),2017-12-07,2017,0.505,0.37,Forbes NHL Valuations 2017,36.5,clean,not found (PNC Arena lease not addressed),partly
+NFL,Carolina Panthers,David Tepper,2018-05-15,2018,2.275,2.3,Forbes NFL Valuations 2017,-1.1,clean,Team only (stadium owned by city),yes
+NHL,Arizona Coyotes,Alex Meruelo (95%),2019-06-10,2019,not found,0.29,Forbes NHL Valuations 2018,,no_price,not found,no
+NBA,Brooklyn Nets,Joe Tsai,2019-08-16,2019,2.35,2.35,Forbes NBA Valuations 2019,0.0,not_control,Barclays Center bought separately; total ~$3.4B,partly
+MLB,Kansas City Royals,John Sherman,2019-08-30,2019,1.0,1.02,Forbes MLB Valuations 2019,-2.0,clean,Team only,yes
+MLB,New York Mets,Steve Cohen,2020-09-14,2020,2.42,2.4,Forbes MLB Valuations 2020,0.8,clean,No: SNY excluded,yes
+NBA,Utah Jazz,Ryan Smith,2020-10-28,2020,1.66,1.55,Forbes NBA Valuations 2020,7.1,clean,"Yes: Vivint Arena, G League Stars, Triple-A Bees management",partly
+NBA,Minnesota Timberwolves,Marc Lore / Alex Rodriguez,2021-04-10,2021,1.5,1.4,Forbes NBA Valuations 2021,7.1,not_control,Includes WNBA Lynx,yes
+NHL,Pittsburgh Penguins,Fenway Sports Group,2021-11-29,2021,0.9,0.65,Forbes NHL Valuations 2020,38.5,clean,not found,yes
+NFL,Denver Broncos,Walton-Penner group,2022-06-07,2022,4.65,3.75,Forbes NFL Valuations 2021,24.0,clean,Team only,yes
+NBA,Phoenix Suns,Mat Ishbia,2022-12-20,2022,4.0,2.7,Forbes NBA Valuations 2022,48.1,clean,Includes WNBA Mercury,yes
+NBA,Milwaukee Bucks,Jimmy & Dee Haslam (from Lasry),2023-02-27,2023,3.5,2.3,Forbes NBA Valuations 2022,52.2,not_control,Team only,partly
+NFL,Washington Commanders,Josh Harris group,2023-04-13,2023,6.05,5.6,Forbes NFL Valuations 2022,8.0,clean,Team only (incl. training facility; stadium leased),yes
+NHL,Ottawa Senators,Michael Andlauer,2023-06-13,2023,0.95,0.8,Forbes NHL Valuations 2022,18.7,clean,not found,partly
+NBA,Charlotte Hornets,Gabe Plotkin / Rick Schnall,2023-06-16,2023,3.0,1.7,Forbes NBA Valuations 2022,76.5,clean,Team only,yes
+NBA,Dallas Mavericks,Adelson / Dumont family,2023-11-28,2023,3.5,4.5,Forbes NBA Valuations 2023,-22.2,clean,No: arena not included,yes
+MLB,Baltimore Orioles,David Rubenstein group,2024-01-30,2024,1.725,1.713,Forbes MLB Valuations 2023,0.7,clean,not found (MASN stake not addressed),yes
+NHL,Utah (ex-Arizona Coyotes hockey assets),Ryan Smith (SEG),2024-04-18,2024,1.2,0.5,Forbes NHL Valuations 2023,140.0,league_sold,Hockey ops/roster only; Coyotes franchise rights kept by Meruelo,partly
+NHL,Tampa Bay Lightning,Doug Ostrover / Marc Lipschultz,2024-10-03,2024,1.8,1.25,Forbes NHL Valuations 2023,44.0,not_control,not found,partly
+NBA,Boston Celtics,Bill Chisholm group,2025-03-20,2025,6.1,6.0,Forbes NBA Valuations 2024,1.7,clean,No (TD Garden not owned),yes
+NBA,Los Angeles Lakers,Mark Walter (TWG),2025-06-18,2025,10.0,7.1,Forbes NBA Valuations 2024,40.8,clean,Team only,yes
+MLB,Tampa Bay Rays,Patrick Zalupski group,2025-07-14,2025,1.7,1.25,Forbes MLB Valuations 2025,36.0,clean,No stadium (Tropicana Field city-owned),yes
+NBA,Portland Trail Blazers,Tom Dundon group,2025-09-12,2025,4.25,3.5,Forbes NBA Valuations 2024,21.4,clean,not found (Moda Center not addressed),partly
+NHL,Pittsburgh Penguins,Hoffmann family (from FSG),2025-12-17,2025,1.7,1.75,Forbes NHL Valuations 2025,-2.9,clean,Yes: SportsNet Pittsburgh equity; music-venue JV stake,partly
+NFL,Seattle Seahawks,Khosla family,2026-07-11,2026,9.612,6.7,Forbes NFL Valuations 2025,43.5,clean,not found (Sounders stake not mentioned),yes
+NBA,Los Angeles Lakers,Josh Kushner / Bob Iger (from Walter),2026-08-12,2026,12.5,10.0,Forbes NBA Valuations 2025,25.0,clean,Lakers only,partly

@@ -1,0 +1,158 @@
+{
+ "background": "notes/the-ledger/header/raw/option-B-background.png",
+ "seed": 5102,
+ "recap_line": "October 2026 recap",
+ "formats": [
+  {
+   "format": "wide",
+   "size": [
+    1200,
+    630
+   ],
+   "crop": [
+    0.192,
+    0.0,
+    0.808,
+    1.0
+   ],
+   "scrim": 0.25,
+   "scrim_met": true,
+   "before": [
+    [
+     19.562174479166668,
+     29.0
+    ],
+    [
+     33.295572916666664,
+     79.0
+    ]
+   ],
+   "after": [
+    [
+     22.044305544909403,
+     30.657
+    ],
+    [
+     34.78457549106101,
+     69.0043005950241
+    ]
+   ],
+   "ink_1x": [
+    96.0,
+    95.0,
+    598.0,
+    271.0
+   ],
+   "clear_1x": [
+    96.0,
+    95.0,
+    602.0,
+    359.0
+   ],
+   "clear_ok": true,
+   "safe_zone": [
+    94,
+    84,
+    1103,
+    548
+   ],
+   "safe_ok": true,
+   "contrast": {
+    "wordmark": [
+     4.22,
+     4.31
+    ],
+    "title": [
+     12.85,
+     15.46
+    ],
+    "rule": [
+     4.26,
+     4.35
+    ],
+    "recap": [
+     14.65,
+     15.87
+    ],
+    "tagline": [
+     10.5,
+     11.89
+    ]
+   },
+   "contrast_ok": true,
+   "file": "notes/the-ledger/header/ledger-recap-2026-10-1200x630.png",
+   "written_size": [
+    1200,
+    630
+   ]
+  },
+  {
+   "format": "square",
+   "size": [
+    1080,
+    1080
+   ],
+   "crop": [
+    0.544,
+    0.0,
+    0.424,
+    1.0
+   ],
+   "scrim": 0.25,
+   "scrim_met": true,
+   "before": [
+    [
+     50.530598958333336,
+     72.0
+    ]
+   ],
+   "after": [
+    [
+     47.56674330884858,
+     63.657
+    ]
+   ],
+   "ink_1x": [
+    64.0,
+    71.0,
+    617.5,
+    273.5
+   ],
+   "clear_1x": [
+    64.0,
+    71.0,
+    462.5,
+    806.5
+   ],
+   "clear_ok": true,
+   "contrast": {
+    "wordmark": [
+     3.62,
+     3.91
+    ],
+    "title": [
+     11.55,
+     12.73
+    ],
+    "rule": [
+     3.8,
+     3.94
+    ],
+    "recap": [
+     12.61,
+     14.12
+    ],
+    "tagline": [
+     8.35,
+     9.61
+    ]
+   },
+   "contrast_ok": true,
+   "file": "notes/the-ledger/header/ledger-recap-2026-10-1080x1080.png",
+   "written_size": [
+    1080,
+    1080
+   ]
+  }
+ ]
+}

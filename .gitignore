@@ -34,3 +34,11 @@ brand/email-header/contact-sheet.png
 stadium-subsidies-2026/model/*.tmp
 # stadium piece: cover option contact sheet is 12 MB
 stadium-subsidies-2026/figures/cover-options/contact-sheet.png
+# paste helper pages
+*/paste-into-substack.html
+# lockout countdown lives two levels down, so the one-level rules above don't reach it
+lockout-countdown-2026/*/paste-into-substack.html
+lockout-countdown-2026/*/figures/raw/
+lockout-countdown-2026/*/figures/cover-options/contact-sheet.png
+# scarcity piece: contact sheet is large; paste page and raw/ are covered by the rules above
+scarcity-premium-2026/figures/cover-options/contact-sheet.png

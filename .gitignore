@@ -42,3 +42,9 @@ lockout-countdown-2026/*/figures/raw/
 lockout-countdown-2026/*/figures/cover-options/contact-sheet.png
 # scarcity piece: contact sheet is large; paste page and raw/ are covered by the rules above
 scarcity-premium-2026/figures/cover-options/contact-sheet.png
+# lockout countdown: fetched pages stay local; parsed CSVs in data/ are committed
+lockout-countdown-2026/*/raw/*.html
+# PCA MVP award piece: fetched pages, paste page and the contact sheet stay local
+pca-mvp-award-2026/paste-into-substack.html
+pca-mvp-award-2026/raw/
+pca-mvp-award-2026/figures/cover-options/contact-sheet.png

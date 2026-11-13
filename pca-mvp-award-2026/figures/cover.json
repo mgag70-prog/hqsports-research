@@ -1,0 +1,18 @@
+{
+  "builder": "cover-options",
+  "note": "Full-bleed cover composed by figures/cover-options/build_options.py (command: cover), not by tools/compose_cover.py, whose panel layout would not reproduce it. Background is option A as generated (fal-ai/nano-banana-pro, no edit); its record is in cover-prompt.md. Rebuild: python3 pca-mvp-award-2026/figures/cover-options/build_options.py cover",
+  "subject": "A deep swimming pool at night, filled almost to the rim with plain smooth gold coins with blank faces instead of water, underwater lights glowing deep navy blue through the gaps between the coins, and one white leather baseball with red stitching resting on the surface of the gold in a hard spotlight, coins spilling over the tiled edge, brick red glow at the far end.",
+  "seed": 9101,
+  "request": "01a1d4dc-8585-78d1-8580-695c6c487c94",
+  "headline": [
+    "$894,000.",
+    "Most Valuable."
+  ],
+  "square_crop_x": 0.22,
+  "formats": {
+    "wide": {
+      "headline_max_width": 0.56,
+      "headline_max_size": 0.16
+    }
+  }
+}

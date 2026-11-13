@@ -1,0 +1,32 @@
+key,value,unit,source,url,note
+publish_date,2026-11-11,,,,Wednesday
+cba_expires,"11:59 p.m. ET, December 1, 2026",,ESPN Nov 3 2026,https://www.espn.com/mlb/story/_/id/50370860/mlb-proposes-delaying-salary-cap-2028-season,
+days_left_from_nov11,20,days,computed,,Nov 11 to Dec 1 (excludes start date; week 1 used the same rule for 26)
+free_agency_open,"November 2, 2026, 5 p.m. ET",,NBC Sports offseason calendar,https://www.nbcsports.com/mlb/news/mlb-offseason-calendar-2026-27-key-dates-free-agency-and-lockout-questions-answered,
+last_proposal,"MLB, November 3, 2026; union rejected it the same day",,MLB Trade Rumors Nov 3 2026,https://www.mlbtraderumors.com/2026/11/mlb-proposal-salary-cap-2028-five-year-free-agency-million-league-minimum.html,no new proposal or counter found through Nov 11 (searches Nov 9 and Nov 11)
+first_significant_signing,"Emilio Pagan, Tigers, one year, about $11 million",,"MLB Trade Rumors Nov 10 2026 11:18 p.m. CT, citing Jon Heyman (New York Post)",https://www.mlbtraderumors.com/2026/11/tigers-to-sign-emilio-pagan.html,"MLBTR: ""It's this year's first significant move on the free agent market."" Pagan declined a $10M player option with Cincinnati"
+pagan_value,11,USD millions,MLB Trade Rumors Nov 10 2026,same,"""in the $11MM range"""
+pagan_option_declined,10,USD millions,MLB Trade Rumors Nov 10 2026,same,player option with Cincinnati
+pagan_mlbtr_prediction,"Two years, $20MM",,MLB Trade Rumors top 50 Nov 2 2026,https://www.mlbtraderumors.com/2026/11/2026-27-top-50-free-agents-with-predictions.html,rank 35
+gm_meetings,"November 9-12, Las Vegas",,Just Baseball; iHeart/Fox Sports Radio Nov 10 2026,https://foxsportsradio.iheart.com/content/2026-11-10-baseballs-gm-meetings-begin-amid-lockout-concerns/,opened at the Aria
+fa_count,more than 140,players,CBS Sports (Mike Axisa) Nov 3 2026,https://www.cbssports.com/mlb/news/mlb-free-agency-frenzy-november-lockout/,became free agents the day after the World Series
+top50_total,2382.65,USD millions,computed from MLB Trade Rumors top 50 predictions,https://www.mlbtraderumors.com/2026/11/2026-27-top-50-free-agents-with-predictions.html,data/mlbtr-top50.csv
+skubal_prediction,"Nine years, $425MM",,MLB Trade Rumors top 50 Nov 2 2026,same,rank 1
+skubal_meetings,"Dodgers and Mets meeting with Skubal",,MLB Trade Rumors headlines Nov 10-11 2026,https://www.mlbtraderumors.com/,"""Dodgers Expect To Have Meeting With Tarik Skubal""; ""Mets Meeting With Tarik Skubal"""
+nov2021_total,1708.6,USD millions,"CBS Sports (Dayn Perry) Dec 2 2021",https://www.cbssports.com/mlb/news/mlb-free-agency-teams-commit-1-7-billion-to-free-agents-in-november-before-locking-out-players,"""more than $1.7 billion""; $1,708,600,000 as of writing; Baez's $140M official Dec 1 not counted"
+nov2021_ninefigure,5,players,CBS Sports Dec 2 2021,same,five nine-figure contracts in November 2021
+nov2021_rangers,561.2,USD millions,CBS Sports Dec 2 2021,same,"Rangers: Seager 10/$325M, Semien 7/$175M, Jon Gray"
+nov2021_seager,325,USD millions,CBS Sports Dec 2 2021,same,10 years
+nov2021_semien,175,USD millions,CBS Sports Dec 2 2021,same,7 years
+wary_quote,"We're really operating under uncertainty now.",,"CBS Sports (Julian McWilliams) Nov 4 2026, unnamed front-office official",https://www.cbssports.com/mlb/news/how-busy-mlb-offseason-likely-lockout-insiders-november-urgency-uncertainty/,
+deadline_quote,"Nothing motivates clubs more than a deadline.",,"CBS Sports Nov 4 2026, unnamed agent",same,expects mid-tier flurry
+qo_count,8,players,AP via KSL Nov 2 2026,https://www.ksl.com/article/51643185/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers,
+qo_value,23.15,USD millions,AP via KSL,same,
+qo_deadline,November 17,,AP via KSL,same,"""Players have until Nov. 17 to accept."""
+rule5_protection,"6 p.m. ET, November 17",,Just Baseball,https://www.justbaseball.com/mlb/offseason-schedule-key-dates-lockout/,
+non_tender,November 20,,Just Baseball,same,
+winter_meetings,"December 7-9, San Diego",,Just Baseball,same,most expect them cancelled
+week1_prediction,"No deal by 11:59 p.m. ET December 1; lockout December 2",,Ledger & Whistle Nov 5 2026,https://ledgerandwhistle.substack.com/p/26-days-left-the-owners-moved-their,stands
+skubal_mets_meeting,"Mets have a meeting scheduled with Skubal next week; Skubal hopeful of a deal before the lockout",,"MLB Trade Rumors (Steve Adams) Nov 10 2026, citing Jon Heyman",https://www.mlbtraderumors.com/2026/11/mets-rumors-tarik-skubal-meeting-free-agent.html,"from raw/mlbtr-home.html: ""The two parties will sit down to chat next week."" Not at the GM Meetings"
+skubal_dodgers_meeting,"Dodgers expect to have a meeting with Skubal",,"MLB Trade Rumors (Darragh McDonald) Nov 10 2026",https://www.mlbtraderumors.com/2026/11/dodgers-expect-to-have-meeting-with-tarik-skubal.html,"from raw/mlbtr-home.html: GM Brandon Gomes ""expects to have a meeting with him at some point in the near future"""
+cubs_in_top50,"Seiya Suzuki (4), Ian Happ (17), Shota Imanaga (21)",,MLB Trade Rumors top 50 Nov 2 2026,https://www.mlbtraderumors.com/2026/11/2026-27-top-50-free-agents-with-predictions.html,"last with the Cubs, from raw/mlbtr-top50.html: Suzuki ""five-year, $85MM contract with the Cubs""; Happ ""If he's not back with the Cubs""; Imanaga pitched for the Cubs through their 2026 Wild Card run"

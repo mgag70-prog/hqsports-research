@@ -1,0 +1,19 @@
+{
+  "builder": "cover-options",
+  "note": "Full-bleed cover composed by figures/cover-options/build_options.py (command: cover), not by tools/compose_cover.py, whose panel layout would not reproduce it. Background is option B as generated, unedited: a fal-ai/nano-banana-pro/edit of week 1's installed background. Its record is in cover-prompt.md. Rebuild: python3 lockout-countdown-2026/week-02/figures/cover-options/build_options.py cover",
+  "subject": "Edit this photograph. Keep the same scene, camera angle, framing, lighting, haze, colors, chalk lines and hourglass exactly as they are. Change only the sand. The top bulb is now mostly empty glass, with a shallow layer of brick red sand left in its lower part, and the bottom bulb is filled well past halfway with a high, steep cone of sand under the falling stream. The white leather baseball with red stitching rests on the slope of the pile in the bottom bulb, fully visible, at the same size as before.",
+  "edit_of": "week-01/figures/raw/cover-background.png",
+  "seed": 7202,
+  "request": "01a1caa8-cbb5-7620-b6f1-5f906915ae04",
+  "headline": [
+    "20 days.",
+    "$11 million."
+  ],
+  "square_crop_x": 0.22,
+  "formats": {
+    "wide": {
+      "headline_max_width": 0.33,
+      "headline_max_size": 0.12
+    }
+  }
+}

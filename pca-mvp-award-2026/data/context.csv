@@ -1,0 +1,35 @@
+key,value,unit,source,url,note
+mvp_announce,"November 12, 2026",,MLB.com BBWAA finalists,https://www.mlb.com/news/2026-bbwaa-awards-finalists,"NL finalists: Crow-Armstrong, Ohtani, Turang"
+pca_line,".280/.372/.570, 45 HR, 41 SB",,MLB.com BBWAA finalists; pca-mvp-2026 draft (Baseball Reference),https://www.mlb.com/news/2026-bbwaa-awards-finalists,
+pca_2026_salary,0.894,USD millions,North Side Baseball (Matthew Trueblood) Nov 5 2026,https://northsidebaseball.com/news-rumors/chicago-cubs/pete-crow-armstrong-will-set-a-pre-arbitration-bonus-pool-earnings-record-this-month-r3466/,$894000
+league_min_2026,0.78,USD millions,ESPN Nov 3 2026 (union counter: $1.5M up from $780000),https://www.espn.com/mlb/story/_/id/50370860/mlb-proposes-delaying-salary-cap-2028-season,
+signing_bonus,5,USD millions,pca-extension-2026/README.md (AP; MLB.com; Spotrac),https://github.com/mgag70-prog/hqsports-research/tree/main/pca-extension-2026,payable by May 15 2026
+salary_2027,10,USD millions,pca-extension-2026/README.md,same,10M in 2027-2029; 20M 2030; 30M 2031 and 2032; six years $115M signed March 24 2026
+contract_total,115,USD millions,pca-extension-2026/README.md,same,
+pool_total,50,USD millions,MLB Trade Rumors (AP) Nov 25 2025; AP via ESPN Jul 24 2026,https://www.mlbtraderumors.com/2025/11/paul-skenes-tops-2025-pre-arbitration-bonus-pool.html,"every team pays roughly $1.67M; paid even to players who signed early extensions"
+pool_per_team,1.67,USD millions,MLB Trade Rumors Nov 25 2025,same,roughly
+mvp_award_bonus,2.5,USD millions,AP via ESPN Jul 24 2026; MLBTR Nov 25 2025,https://www.espn.com/mlb/story/_/id/49440234/2026-mlb-pre-arbitration-bonus-pool-list,MVP or Cy Young; 2nd $1.75M; 3rd $1.5M; 4th-5th $1M; awards don't stack (highest only)
+second_place_bonus,1.75,USD millions,same,same,
+pca_pool_estimate,3.56,USD millions,North Side Baseball Nov 5 2026,https://northsidebaseball.com/news-rumors/chicago-cubs/pete-crow-armstrong-will-set-a-pre-arbitration-bonus-pool-earnings-record-this-month-r3466/,"estimate: $2.5M MVP + more than $1M WAR share; 10.2 jWAR = 3.2% of top 100; final list due later in November"
+pca_jwar,10.2,jWAR,North Side Baseball Nov 5 2026,same,joint FanGraphs/Baseball Reference WAR
+pca_jwar_share,3.2,percent,North Side Baseball Nov 5 2026,same,of the top 100 pre-arb players
+pca_pool_2025,1.206207,USD millions,AP via ESPN Jul 24 2026,https://www.espn.com/mlb/story/_/id/49440234/2026-mlb-pre-arbitration-bonus-pool-list,"$1,206,207 final 2025"
+pca_pool_jul2026_proj,1.179587,USD millions,AP via ESPN Jul 24 2026,same,WAR share projection through July 6 (no awards)
+skenes_record,3.436343,USD millions,MLB Trade Rumors (AP) Nov 25 2025,https://www.mlbtraderumors.com/2025/11/paul-skenes-tops-2025-pre-arbitration-bonus-pool.html,"$3,436,343; NL Cy Young 2025; record since the pool began in 2022"
+awards_2025_total,12.75,USD millions,AP via ESPN Jul 24 2026,https://www.espn.com/mlb/story/_/id/49440234/2026-mlb-pre-arbitration-bonus-pool-list,"award money: 12.75 (2025), 9.85 (2024), 9.25 (2023), 11.25 (2022)"
+pool_mlb_offer,65,USD millions,ESPN Nov 3 2026,https://www.espn.com/mlb/story/_/id/50370860/mlb-proposes-delaying-salary-cap-2028-season,MLB pre-arb pool in its Nov 3 offer (week-01 context.csv)
+pool_union_ask,180,USD millions,ESPN Nov 3 2026; AP Jul 24 2026,same,"union counter; AP: $180M next year with $15M annual increases"
+escalator_mvp,2,USD millions,North Side Baseball Nov 5 2026; pca-mvp-2026 draft (Nightengale March 2026),https://northsidebaseball.com/news-rumors/chicago-cubs/pete-crow-armstrong-will-set-a-pre-arbitration-bonus-pool-earnings-record-this-month-r3466/,"2031 base +$2M per MVP 2027-2030; 2032 base +$2M per MVP 2027-2031; 2nd/3rd $1M; 4th/5th $750K; 6th-10th $500K"
+escalator_max_2031,8,USD millions,pca-mvp-2026 draft,https://ledgerandwhistle.substack.com/p/if-pete-crow-armstrong-were-still,max added to 2031
+escalator_max_2032,10,USD millions,pca-mvp-2026 draft,same,max added to 2032
+escalator_pv,13.0,USD millions,pca-mvp-2026 draft,same,PV to 2026 at 6% if he wins every counted MVP
+model_2027_loss,9.0,USD millions,pca-extension-2026/README.md,https://github.com/mgag70-prog/hqsports-research/tree/main/pca-extension-2026,"2027 alone is a $9.0M loss vs no extension ($1.0M pre-arb salary assumed)"
+model_savings,28.6,USD millions,pca-extension-2026/README.md,same,base-case extension savings PV
+prior_extension_piece,"The Cubs Saved $29 Million on Pete Crow-Armstrong. Not $206 Million.",,Signal Hunter Sept 14 2026,https://signalhunterai.substack.com/p/the-cubs-saved-29-million-on-pete,
+prior_mvp_piece,"If Pete Crow-Armstrong were still the 2025 player, his extension would break even. He isn't.",,Ledger & Whistle late Sept 2026,https://ledgerandwhistle.substack.com/p/if-pete-crow-armstrong-were-still,
+mvp_result,"Pete Crow-Armstrong, NL MVP, unanimous (all 30 first-place votes)",,"ESPN (Jesse Rogers) Nov 12 2026",https://www.espn.com/mlb/story/_/id/50466186/cubs-pete-crow-armstrong-astros-yordan-alvarez-win-mvp-honors,"Ohtani 2nd, Turang 3rd; no point totals in ESPN"
+mvp_first_place,30,votes,ESPN Nov 12 2026,same,
+unanimous_count,25,,ESPN Nov 12 2026,same,25th unanimous MVP winner
+cubs_mvp_count,13,,ESPN Nov 12 2026,same,13th Cubs MVP; last Kris Bryant 2016
+al_mvp,"Yordan Alvarez, Astros, unanimous",,ESPN Nov 12 2026,same,"ESPN: first season in which both MVP winners and both Cy Young winners were unanimous"
+cubs_fa_in_top50,"Seiya Suzuki (4), Ian Happ (17), Shota Imanaga (21)",,MLB Trade Rumors top 50 Nov 2 2026 (confirmed last with the Cubs in lockout-countdown-2026/week-02/raw/mlbtr-top50.html),https://www.mlbtraderumors.com/2026/11/2026-27-top-50-free-agents-with-predictions.html,set-up line only; the Cubs roster piece is separate

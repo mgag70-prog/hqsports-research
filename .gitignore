@@ -48,3 +48,9 @@ lockout-countdown-2026/*/raw/*.html
 pca-mvp-award-2026/paste-into-substack.html
 pca-mvp-award-2026/raw/
 pca-mvp-award-2026/figures/cover-options/contact-sheet.png
+# college basketball piece: fetched pages stay local
+cbb-revenue-share-2026/raw/
+cbb-revenue-share-2026/paste-into-substack.html
+cbb-revenue-share-2026/figures/cover-options/contact-sheet.png
+# start-here: paste page stays local
+start-here/paste-into-substack.html

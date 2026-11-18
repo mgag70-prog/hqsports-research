@@ -1,0 +1,69 @@
+sport,position,conference,cohort,n,p90,p75,p50,p25,p10
+Men's Basketball,All,Atlantic Coast Conference,with_zero,276,500500,300000,38000,0,0
+Men's Basketball,All,Big 12 Conference,with_zero,248,579000,285500,100000,4500,0
+Men's Basketball,All,Big Ten Conference,with_zero,278,462500,271000,48000,0,0
+Men's Basketball,All,Southeastern Conference,with_zero,253,339500,157500,0,0,0
+Men's Basketball,All,Non-A4 Conferences,with_zero,3667,165000,50000,8500,0,0
+Men's Basketball,All,Atlantic Coast Conference,without_zero,169,648000,440000,225000,50000,20500
+Men's Basketball,All,Big 12 Conference,without_zero,196,662500,350000,150500,54000,21500
+Men's Basketball,All,Big Ten Conference,without_zero,165,559500,397500,187500,80000,21500
+Men's Basketball,All,Southeastern Conference,without_zero,114,599500,322000,175000,117500,50000
+Men's Basketball,All,Non-A4 Conferences,without_zero,2303,250000,92500,33000,10500,4500
+Football,Defensive Back,A4 Conferences,with_zero,1444,377000,200000,75000,14000,0
+Football,Defensive Back,A4 Conferences,without_zero,1141,416000,250000,115000,50000,23500
+Football,Defensive Back,Non-A4 Conferences,with_zero,3270,30000,3500,0,0,0
+Football,Defensive Back,Non-A4 Conferences,without_zero,981,89000,45000,15000,6000,2500
+Football,Defensive Lineman,A4 Conferences,with_zero,1060,496000,275000,105000,25000,0
+Football,Defensive Lineman,A4 Conferences,without_zero,885,509500,309500,150000,60000,25000
+Football,Defensive Lineman,Non-A4 Conferences,with_zero,2412,42500,7000,0,0,0
+Football,Defensive Lineman,Non-A4 Conferences,without_zero,837,103000,50000,18000,6000,3000
+Football,Kicker,A4 Conferences,with_zero,194,93500,48500,1000,0,0
+Football,Kicker,A4 Conferences,without_zero,99,,87500,48500,24000,
+Football,Kicker,Non-A4 Conferences,with_zero,458,6500,0,0,0,0
+Football,Kicker,Non-A4 Conferences,without_zero,72,,22500,12000,5000,
+Football,Linebacker,A4 Conferences,with_zero,858,363500,190000,66000,500,0
+Football,Linebacker,A4 Conferences,without_zero,643,425500,246500,112500,50000,24000
+Football,Linebacker,Non-A4 Conferences,with_zero,1924,31000,3000,0,0,0
+Football,Linebacker,Non-A4 Conferences,without_zero,554,99500,49000,17500,6000,2500
+Football,Long Snapper,A4 Conferences,with_zero,149,45500,20000,0,0,0
+Football,Long Snapper,A4 Conferences,without_zero,57,,46500,30000,12500,
+Football,Long Snapper,Non-A4 Conferences,with_zero,304,500,0,0,0,0
+Football,Long Snapper,Non-A4 Conferences,without_zero,33,,,10000,,
+Football,Offensive Lineman,A4 Conferences,with_zero,1398,474000,264500,75500,10500,0
+Football,Offensive Lineman,A4 Conferences,without_zero,1105,512000,312500,133000,50000,22500
+Football,Offensive Lineman,Non-A4 Conferences,with_zero,3156,40000,4500,0,0,0
+Football,Offensive Lineman,Non-A4 Conferences,without_zero,968,112000,51000,17500,6000,2500
+Football,Punter,A4 Conferences,with_zero,131,100000,56000,1000,0,0
+Football,Punter,A4 Conferences,without_zero,66,,88500,56000,26000,
+Football,Punter,Non-A4 Conferences,with_zero,230,10500,0,0,0,0
+Football,Punter,Non-A4 Conferences,without_zero,47,,25000,10000,4500,
+Football,Quarterback,A4 Conferences,with_zero,367,1266500,350000,75000,0,0
+Football,Quarterback,A4 Conferences,without_zero,257,1611000,675000,230000,60000,23500
+Football,Quarterback,Non-A4 Conferences,with_zero,829,79500,8000,0,0,0
+Football,Quarterback,Non-A4 Conferences,without_zero,256,260000,127000,31000,10000,4000
+Football,Running Back,A4 Conferences,with_zero,495,310500,177500,60000,0,0
+Football,Running Back,A4 Conferences,without_zero,360,383000,236000,108500,50000,24000
+Football,Running Back,Non-A4 Conferences,with_zero,1170,30000,3000,0,0,0
+Football,Running Back,Non-A4 Conferences,without_zero,348,100000,45000,16000,5500,2500
+Football,Tight End,A4 Conferences,with_zero,496,264500,150000,50000,0,0
+Football,Tight End,A4 Conferences,without_zero,370,300000,199000,93000,40000,17500
+Football,Tight End,Non-A4 Conferences,with_zero,1023,23500,2500,0,0,0
+Football,Tight End,Non-A4 Conferences,without_zero,299,66000,31000,14000,5000,1500
+Football,Wide Receiver,A4 Conferences,with_zero,989,375000,189000,57000,0,0
+Football,Wide Receiver,A4 Conferences,without_zero,707,456000,247000,112500,49500,20000
+Football,Wide Receiver,Non-A4 Conferences,with_zero,2310,30000,2500,0,0,0
+Football,Wide Receiver,Non-A4 Conferences,without_zero,660,100000,46000,15000,5500,2000
+Football,Position Unspecified,A4 Conferences,with_zero,162,297000,212000,96000,11000,0
+Football,Position Unspecified,A4 Conferences,without_zero,127,348500,237000,150000,52500,25000
+Football,Position Unspecified,Non-A4 Conferences,with_zero,1669,13000,1500,0,0,0
+Football,Position Unspecified,Non-A4 Conferences,without_zero,447,50000,24000,7500,2500,2000
+Women's Basketball,All,Atlantic Coast Conference,with_zero,239,85000,47000,10000,0,0
+Women's Basketball,All,Big 12 Conference,with_zero,213,70500,34000,11500,0,0
+Women's Basketball,All,Big Ten Conference,with_zero,252,165000,84500,31000,8500,0
+Women's Basketball,All,Southeastern Conference,with_zero,213,67500,35000,0,0,0
+Women's Basketball,All,Non-A4 Conferences,with_zero,3330,20000,6500,0,0,0
+Women's Basketball,All,Atlantic Coast Conference,without_zero,150,125500,67500,37500,14500,6000
+Women's Basketball,All,Big 12 Conference,without_zero,145,112500,45500,21000,11500,8000
+Women's Basketball,All,Big Ten Conference,without_zero,200,175500,108000,50000,19500,11500
+Women's Basketball,All,Southeastern Conference,without_zero,98,,64000,45000,15500,
+Women's Basketball,All,Non-A4 Conferences,without_zero,1468,36000,19000,8000,3500,1500

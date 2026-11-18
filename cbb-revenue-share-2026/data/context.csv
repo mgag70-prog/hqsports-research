@@ -1,0 +1,11 @@
+key,value,unit,source,url,note
+csc_report,School Revenue Share Compensation Report,,College Sports Commission (accessed Nov 17 2026),https://www.collegesportscommission.org/school-revenue-share-compensation-report/,"interactive tables scraped Nov 17 2026 with Playwright into data/csc-revshare.csv; raw/csc-revshare-scrape.json"
+bb_window,"July 1, 2025 to April 6, 2026",,CSC report page,same,"basketball: payments made in the window; payments due after April 6 not included"
+fb_window,"calendar 2026, made or scheduled; agreements as of September 30, 2026",,CSC report page,same,"football: CAPS treats virtually all contingent performance incentives as scheduled payments (compensation-reports page)"
+excludes,"scholarships, cost-of-attendance stipends and Alston payments",,CSC compensation-reports page,https://www.collegesportscommission.org/compensation-reports/,
+cohort_rules,"With $0 = every rostered athlete in the category; Without $0 = only athletes paid or scheduled to be paid",,CSC report page,https://www.collegesportscommission.org/school-revenue-share-compensation-report/,
+suppression,"percentile shown only if n>=100 (90th/10th), n>=40 (75th/25th), n>=10 (50th)",,CSC report page,same,
+cap_2025_26,20.5,USD millions,Ministry of Sport Nov 2 2026 (CSC data release),https://ministryofsport.com/college-sports-commission-releases-historic-student-athlete-compensation-data-following-house-settlement/,per-school revenue-share cap 2025-26
+caps_total,1.77,USD billions,Ministry of Sport Nov 2 2026,same,direct revenue-share payments via CAPS through June 2026
+nil_go_total,582,USD millions,Ministry of Sport Nov 2 2026,same,"third-party NIL via NIL Go, over $582M across more than 46,000 agreements"
+illinois_piece,"No Big Ten school has published revenue sharing by sport in dollars",,Ledger & Whistle Oct 14 2026,https://ledgerandwhistle.substack.com/p/no-big-ten-school-has-published-revenue,Illinois denied the records request Oct 12

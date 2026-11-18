@@ -1,0 +1,12 @@
+{
+  "builder": "cover-options",
+  "note": "Full-bleed cover composed by figures/cover-options/build_options.py (command: cover), not by tools/compose_cover.py, whose panel layout would not reproduce it. Background is option A as generated (fal-ai/nano-banana-pro, no edit); its record is in cover-prompt.md. Digits are set in Charter Bold (lining figures), the rest of the headline in Georgia Bold. Rebuild: python3 cbb-revenue-share-2026/figures/cover-options/build_options.py cover",
+  "subject": "A long row of empty folding chairs along the sideline of a dark hardwood basketball court at night, every seat bare, one hard spotlight falling on the chairs, a single orange basketball with black seams resting on the floor under the last chair, deep navy shadows across the empty arena, a brick red glow far behind.",
+  "seed": 9201,
+  "request": "01a1ea0b-aeeb-7961-b0fc-aa442a8d9119",
+  "headline": [
+    "$0 for the",
+    "median player."
+  ],
+  "square_crop_x": 0.22
+}

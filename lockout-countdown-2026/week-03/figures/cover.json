@@ -1,0 +1,19 @@
+{
+  "builder": "cover-options",
+  "note": "Full-bleed cover composed by figures/cover-options/build_options.py (command: cover), not by tools/compose_cover.py, whose panel layout would not reproduce it. Background is option A as generated, unedited: a fal-ai/nano-banana-pro/edit of week 2's installed background. Numerals are Charter Bold lining figures. Its record is in cover-prompt.md. Rebuild: python3 lockout-countdown-2026/week-03/figures/cover-options/build_options.py cover",
+  "subject": "Edit this photograph. Keep the same scene, camera angle, framing, lighting, haze, colors, chalk lines and hourglass exactly as they are. Change only the sand. The top bulb is now almost entirely empty clear glass, with only a thin scattering of brick red grains clinging to the curve of its lower glass and a fine last thread of sand falling through the neck. The pile in the bottom bulb is a little higher and wider than before. The white leather baseball with red stitching rests on the slope of the pile in the bottom bulb, fully visible, at the same size as before.",
+  "edit_of": "week-02/figures/raw/cover-background.png",
+  "seed": 7301,
+  "request": "01a1ecba-ef79-7d41-8bd9-df9168926a98",
+  "headline": [
+    "13 days.",
+    "5.13 times."
+  ],
+  "square_crop_x": 0.22,
+  "formats": {
+    "wide": {
+      "headline_max_width": 0.33,
+      "headline_max_size": 0.12
+    }
+  }
+}

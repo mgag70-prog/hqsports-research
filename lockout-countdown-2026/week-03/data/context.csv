@@ -1,0 +1,36 @@
+key,value,unit,source,url,note
+publish_date,2026-11-18,,,,Wednesday
+days_left_from_nov18,13,days,computed,,Nov 18 to Dec 1 (excludes start date; weeks 1-2 used the same rule)
+last_proposal,"MLB, November 3, 2026; union rejected it the same day",,MLB Trade Rumors Nov 3 2026,https://www.mlbtraderumors.com/2026/11/mlb-proposal-salary-cap-2028-five-year-free-agency-million-league-minimum.html,no new proposal or counter found through Nov 17 (searches Nov 16 and 17)
+mlb_video,"Baseball's Payroll Disparity Problem Explained: The Case for a Salary Cap and Floor",,Front Office Sports (Eric Fisher) Nov 16 2026,https://frontofficesports.com/article/mlb-ramps-up-salary-cap-push-days-before-expected-lockout/,"five-minute video, Morgan Sword (EVP baseball operations); 'Level the Playing Field' campaign; over 1.7 million impressions on X"
+sword_quote,"MLB has the widest payroll gap in sports, and it's not even close.",,Front Office Sports Nov 16 2026,same,
+sword_quote2,"each generation of kids in each of our markets needs to feel like their team has a real chance to win",,Front Office Sports Nov 16 2026,same,
+mil_payroll_rank_claim,19,rank,Front Office Sports Nov 16 2026,same,"Milwaukee, MLB's smallest media market, won the 2026 World Series with the No. 19 payroll"
+meyer_quote,"artificially suppresses player salaries, player movement, and player guarantees",,Front Office Sports Nov 16 2026 (Bruce Meyer),same,MLBPA interim executive director
+taillon,"comically bad",,Front Office Sports Nov 16 2026,same,Jameson Taillon on the video
+disclaimer_report,"MLB is preparing for the possibility the MLBPA files a disclaimer of interest during a lockout",,"MLB Trade Rumors (Anthony Franco) Nov 12 2026, citing Jared Diamond, Wall Street Journal",https://www.mlbtraderumors.com/2026/11/mlb-preparing-for-possibility-that-mlbpa-opts-for-disclaimer-of-interest-during-lockout.html,"union would stop being the bargaining unit, act as a trade association, and players could sue under antitrust law; MLBPA has never disclaimed; Curt Flood Act of 1998 cited; likely not until deep into a lockout"
+nflpa_1990s,"$543K compensatory damages, tripled to $1.63MM",,MLB Trade Rumors Nov 12 2026,same,NFLPA early-1990s disclaimer; jury found NFL violated antitrust law
+nflpa_2011,"trial court lifted the lockout with an injunction; the Eighth Circuit reversed it",,MLB Trade Rumors Nov 12 2026,same,
+payroll_source,mlb-floor-2026/data/2026-vs-cap-floor.csv,,Spotrac 2026 luxury-tax payrolls (Ledger & Whistle floor piece),https://ledgerandwhistle.substack.com/p/baseballs-best-team-would-have-been,
+week2_call,"Clubs commit less to free agents before the lockout than the $1.7 billion they committed in November 2021",,Ledger & Whistle Nov 11 2026,https://ledgerandwhistle.substack.com/p/20-days-left-and-the-mlb-free-agent,
+reported_fa_dollars_nov15,106.25,USD millions,MLB Trade Rumors posts Nov 10-15 2026 (Pagan 11; Phillips 3/35; Bauers 4/58; Hill 1/2.25),https://www.mlbtraderumors.com/2026/11/red-sox-sign-jake-bauers.html,floor: reported terms only; recheck through Nov 17 before drafting
+qo_deadline,November 17,,AP via KSL,https://www.ksl.com/article/51643185/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers,"Bauers declined (signed with Boston); Arozarena rejected (Rotowire); others to verify Nov 17-18"
+nfl_cap_2026,301.2,USD millions,"Pro Football Rumors (Connor Byrne) Feb 27 2026",https://www.profootballrumors.com/2026/02/2026-salary-cap-to-exceed-300mm,"""The 2026 cap is officially $301.2MM, the league informed its teams on Friday."" Dallas Cowboys site gives the same figure"
+nfl_min_cash_pct,90,percent,"NFL-NFLPA CBA Article 12, Section 9(b), text via Over The Cap",https://overthecap.com/collective-bargaining-agreement/article/12/section/9/(b)/,"guaranteed Minimum Team Cash Spending of 90% of the Salary Caps for 2021-2023, 2024-2026 and 2027-2030; measured in cash over the whole period, not each season"
+nba_cap_2026_27,164.961,USD millions,NBA.com official release June 30 2026,https://www.nba.com/news/nba-salary-cap-2026-27-season,"Salary Cap for 2026-27"
+nba_min_team_salary_2026_27,148.465,USD millions,NBA.com official release June 30 2026,same,"The Minimum Team Salary is $148.465 million"
+nba_second_apron_2026_27,221.686,USD millions,NBA.com official release June 30 2026,same,"The Second Apron Level is $221.686 million; first apron $209.015 million"
+nhl_upper_2026_27,104.0,USD millions,NHL Public Relations May 6 2026,https://www.nhl.com/news/nhl-nhlpa-announce-team-payroll-range-for-2026-27-season,"Upper Limit of $104.0 million; Midpoint $90.4 million"
+nhl_lower_2026_27,76.9,USD millions,NHL Public Relations May 6 2026,same,"Lower Limit of $76.9 million"
+mil_payroll,154.71,USD millions,mlb-floor-2026/data/2026-vs-cap-floor.csv,https://ledgerandwhistle.substack.com/p/baseballs-best-team-would-have-been,"19th of 30"
+week1_lines,"20 of the same 21 teams",,Ledger & Whistle Nov 5 2026,https://ledgerandwhistle.substack.com/p/26-days-left-the-owners-moved-their,week 1 H1
+fa_pagan,11,USD millions,"MLB Trade Rumors (Anthony Franco) Nov 10 2026",https://www.mlbtraderumors.com/2026/11/tigers-to-sign-emilio-pagan.html,"Tigers, one year, about $11M"
+fa_phillips,35,USD millions,MLB Trade Rumors Nov 12 2026,https://www.mlbtraderumors.com/2026/11/braves-sign-evan-phillips-to-three-year-deal.html,"Braves, three years, $35MM"
+fa_bauers,58,USD millions,"MLB Trade Rumors Nov 13 2026, citing Jeff Passan; official Nov 17",https://www.mlbtraderumors.com/2026/11/red-sox-sign-jake-bauers.html,"Red Sox, four years, $58MM; declined the Brewers' qualifying offer"
+fa_hill,2.25,USD millions,"MLB Trade Rumors Nov 15 2026, citing Jeff Passan",https://www.mlbtraderumors.com/2026/11/yankees-re-sign-tim-hill-to-one-year-deal.html,"Yankees, one year, $2.25MM, $2.5MM club option for 2028"
+fa_may,52.5,USD millions,"MLB Trade Rumors Nov 17 2026, citing Robert Murray (FanSided) and Jon Heyman (agent Craig Rose)",https://www.mlbtraderumors.com/2026/11/white-sox-to-sign-dustin-may.html,"White Sox, three years, $52.5MM"
+reported_fa_dollars_nov17,158.75,USD millions,sum of fa_* rows,,"floor: reported terms only; MLBTR front pages 1-12 checked Nov 17 for signings with terms"
+nov2021_total,1708.6,USD millions,"CBS Sports (Dayn Perry) Dec 2 2021",https://www.cbssports.com/mlb/news/mlb-free-agency-teams-commit-1-7-billion-to-free-agents-in-november-before-locking-out-players,"""more than $1.7 billion""; carried from week 2"
+qo_value,23.15,USD millions,"MLB.com (Thomas Harrigan) Nov 17 2026",https://www.mlb.com/news/qualifying-offer-candidates-and-decisions-2026-27,one-year offer for 2027
+qo_accepted,"David Bednar (Yankees); Ryan Jeffers (Twins)",,"MLB.com (Thomas Harrigan) Nov 17 2026",same,"Yahoo Sports Nov 17 agrees: two accepted, five declined that day, plus Bauers earlier"
+qo_declined,"Jake Bauers (Brewers, signed with Red Sox); Randy Arozarena (Mariners); Brandon Lowe (Pirates); Trevor Rogers (Orioles); Adrian Morejon (Padres); Seiya Suzuki (Cubs)",,"MLB.com (Thomas Harrigan) Nov 17 2026",same,"the other six declined"
